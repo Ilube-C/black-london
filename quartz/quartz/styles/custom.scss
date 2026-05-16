@@ -4,6 +4,14 @@
 
 // Make the right-sidebar Graph the main attraction. Pull it up to the top
 // of the right column and give it real estate.
+// The graph-container has no default height, so it falls back to 250 px in
+// the renderer regardless of how tall we make .graph-outer. Force it to
+// fill its parent for both sidebar and hero placements.
+.graph-outer > .graph-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
 // Sidebar graph (right column) — generous on every page.
 .sidebar.right .graph {
   & > h3 {
