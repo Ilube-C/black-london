@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "name": "Restaurants — Black London (seed)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.10620, 51.46280] },
+      "properties": {
+        "id": "rest_lambeth_0001",
+        "name": "Fish, Wings & Tings",
+        "cuisine": ["caribbean", "trinidadian"],
+        "diaspora": ["caribbean"],
+        "borough": "Lambeth",
+        "address": "Brixton Village, Coldharbour Lane, SW9 8PS",
+        "phone": null,
+        "website": "https://fishwingsandtings.com/",
+        "opening_hours": "Tu-Sa 12:00-21:00",
+        "price_band": "££",
+        "image": null,
+        "blurb": "Long-running Trinidadian kitchen at the heart of Brixton Village; a few minutes' walk from the BCA.",
+        "related_themes": ["caribbean-diaspora", "windrush"],
+        "source": "Editorial pick (seed)",
+        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
+        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.10310, 51.46680] },
+      "properties": {
+        "id": "rest_lambeth_0002",
+        "name": "Healthy Eaters",
+        "cuisine": ["caribbean", "jamaican"],
+        "diaspora": ["caribbean"],
+        "borough": "Lambeth",
+        "address": "Brixton Hill, SW2",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "price_band": "£",
+        "image": null,
+        "blurb": "Jamaican plate-shop on Brixton Hill — ackee, saltfish, plantain, oxtail at canteen prices.",
+        "related_themes": ["caribbean-diaspora"],
+        "source": "Editorial pick (seed)",
+        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
+        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.07360, 51.46540] },
+      "properties": {
+        "id": "rest_southwark_0001",
+        "name": "Persepolis on Peckham — sister kitchen",
+        "cuisine": ["nigerian"],
+        "diaspora": ["west-african"],
+        "borough": "Southwark",
+        "address": "Queen's Road, Peckham, SE15",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Sa 12:00-22:00",
+        "price_band": "££",
+        "image": null,
+        "blurb": "Placeholder Nigerian restaurant near Harold Moody's Peckham home — replace with a real listing on first ingest.",
+        "related_themes": ["african-diaspora"],
+        "source": "Placeholder (seed)",
+        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
+        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.07720, 51.51230] },
+      "properties": {
+        "id": "rest_cityoflondon_0001",
+        "name": "Tata Eatery — Pop-up (seasonal)",
+        "cuisine": ["west-african"],
+        "diaspora": ["west-african"],
+        "borough": "City of London",
+        "address": "Near Fleet Street, EC4",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "price_band": "££",
+        "image": null,
+        "blurb": "Placeholder West African pop-up near Dr Johnson's House — replace with a verified listing.",
+        "related_themes": ["african-diaspora"],
+        "source": "Placeholder (seed)",
+        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
+        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.20480, 51.51420] },
+      "properties": {
+        "id": "rest_kensington_0001",
+        "name": "The Mangrove — heritage placeholder",
+        "cuisine": ["caribbean", "trinidadian"],
+        "diaspora": ["caribbean"],
+        "borough": "Kensington and Chelsea",
+        "address": "All Saints Road, W11",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "price_band": "££",
+        "image": null,
+        "blurb": "Heritage placeholder near the Mangrove restaurant's site, made famous by the Mangrove Nine trial of 1970.",
+        "related_themes": ["caribbean-diaspora", "civic-life"],
+        "source": "Placeholder (seed)",
+        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
+        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "status": "published"
+      }
+    }
+  ]
+}

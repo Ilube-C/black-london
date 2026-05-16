@@ -1,0 +1,33 @@
+{
+  "name": "black-london",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A curated map of Black History sites in London — PWA prototype.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "prepare:icons": "node scripts/prepare-icons.mjs",
+    "preview": "vite preview --port 4173",
+    "validate": "node scripts/validate.mjs",
+    "ingest:csv": "node scripts/ingest-csv.mjs",
+    "build:index": "node scripts/build-index.mjs",
+    "build:data": "node scripts/validate.mjs && node scripts/build-index.mjs",
+    "build:obsidian": "node scripts/build-obsidian-vault.mjs",
+    "build:og": "node scripts/build-og-image.mjs",
+    "vault": "node scripts/vault.mjs"
+  },
+  "dependencies": {
+    "@turf/distance": "^7.1.0",
+    "maplibre-gl": "^4.7.1"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "papaparse": "^5.4.1",
+    "sharp": "^0.33.5",
+    "vite": "^5.4.10",
+    "vite-plugin-mkcert": "^1.17.6",
+    "vite-plugin-pwa": "^0.20.5"
+  }
+}

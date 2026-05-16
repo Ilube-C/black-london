@@ -1,0 +1,86 @@
+{
+  "ignatius-sancho": {
+    "name": "Charles Ignatius Sancho",
+    "birth_year": 1729,
+    "death_year": 1780,
+    "summary": "Composer, writer, abolitionist; widely thought to be the first Black Briton to vote in a parliamentary election (1774, 1780).",
+    "wikidata": "Q706854"
+  },
+  "olaudah-equiano": {
+    "name": "Olaudah Equiano",
+    "birth_year": 1745,
+    "death_year": 1797,
+    "summary": "Abolitionist and author of 'The Interesting Narrative of the Life of Olaudah Equiano' (1789), a foundational text of the British anti-slavery movement.",
+    "wikidata": "Q310590"
+  },
+  "mary-seacole": {
+    "name": "Mary Seacole",
+    "birth_year": 1805,
+    "death_year": 1881,
+    "summary": "Jamaican-British nurse and businesswoman who set up the British Hotel during the Crimean War to care for sick and wounded soldiers.",
+    "wikidata": "Q236940"
+  },
+  "samuel-coleridge-taylor": {
+    "name": "Samuel Coleridge-Taylor",
+    "birth_year": 1875,
+    "death_year": 1912,
+    "summary": "Composer of 'Hiawatha's Wedding Feast' (1898). Born in Holborn, raised in Croydon; one of the most successful English composers of his generation.",
+    "wikidata": "Q380398"
+  },
+  "harold-moody": {
+    "name": "Harold Moody",
+    "birth_year": 1882,
+    "death_year": 1947,
+    "summary": "Jamaican-born physician who founded the League of Coloured Peoples (1931) in London, the leading civil-rights organisation for Black Britons before the war.",
+    "wikidata": "Q1585013"
+  },
+  "claudia-jones": {
+    "name": "Claudia Jones",
+    "birth_year": 1915,
+    "death_year": 1964,
+    "summary": "Trinidad-born journalist and activist who, after deportation from the US, founded the West Indian Gazette (1958) and originated what became the Notting Hill Carnival.",
+    "wikidata": "Q462968"
+  },
+  "francis-barber": {
+    "name": "Francis Barber",
+    "birth_year": 1742,
+    "death_year": 1801,
+    "summary": "Jamaican-born manservant, heir, and confidant of Samuel Johnson; central figure in 18th-century literary London.",
+    "wikidata": "Q5478979"
+  },
+  "kwame-kwei-armah": {
+    "name": "Kwame Kwei-Armah",
+    "birth_year": 1967,
+    "death_year": null,
+    "summary": "British playwright, director and actor. Author of 'Elmina's Kitchen' (2003), 'Fix Up' and 'Statement of Regret'; artistic director of the Young Vic 2018–2023.",
+    "wikidata": "Q6450471"
+  },
+  "yvonne-brewster": {
+    "name": "Yvonne Brewster",
+    "birth_year": 1938,
+    "death_year": null,
+    "summary": "Jamaican-British director; co-founder and longtime artistic director of Talawa Theatre Company (founded 1986), Britain's oldest Black-led theatre company.",
+    "wikidata": "Q8059760"
+  },
+  "una-marson": {
+    "name": "Una Marson",
+    "birth_year": 1905,
+    "death_year": 1965,
+    "summary": "Jamaican poet, journalist, BBC broadcaster — the BBC's first Black woman programme-maker; producer of 'Caribbean Voices'.",
+    "wikidata": "Q3551727"
+  },
+  "mary-prince": {
+    "name": "Mary Prince",
+    "birth_year": 1788,
+    "death_year": null,
+    "summary": "Bermudian-born abolitionist whose 1831 testimony, dictated at the Anti-Slavery Society's London office, was the first slave narrative by a Black woman published in Britain.",
+    "wikidata": "Q4356"
+  },
+  "ottobah-cugoano": {
+    "name": "Quobna Ottobah Cugoano",
+    "birth_year": 1757,
+    "death_year": null,
+    "summary": "Ghanaian-born abolitionist and author of 'Thoughts and Sentiments on the Evil of Slavery' (1787); co-founder with Equiano of the Sons of Africa, Britain's first known Black political organisation.",
+    "wikidata": "Q961023"
+  }
+}

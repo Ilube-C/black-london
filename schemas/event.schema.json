@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://black-london.app/schemas/event.schema.json",
+  "title": "Event",
+  "type": "object",
+  "required": ["id", "name", "summary", "starts_at", "venue_name", "themes", "status", "contributor", "verification"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string", "minLength": 2 },
+    "summary": { "type": "string" },
+    "starts_at": { "type": "string", "format": "date-time" },
+    "ends_at": { "type": ["string", "null"], "format": "date-time" },
+    "recurrence": { "type": ["string", "null"] },
+    "venue_name": { "type": "string" },
+    "address": { "type": ["string", "null"] },
+    "url": { "type": ["string", "null"], "format": "uri" },
+    "price": { "enum": ["free", "paid", "donation"] },
+    "themes": { "type": "array", "items": { "type": "string" } },
+    "related_sites": { "type": "array", "items": { "type": "string" } },
+    "image": { "type": ["object", "null"] },
+    "source": { "type": "string" },
+    "contributor": { "$ref": "site.schema.json#/properties/contributor" },
+    "verification": { "$ref": "site.schema.json#/properties/verification" },
+    "status": { "enum": ["draft", "published", "retired"] }
+  }
+}

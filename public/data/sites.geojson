@@ -1,0 +1,1549 @@
+{
+  "type": "FeatureCollection",
+  "name": "Black History sites — London (seed)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13586,
+          51.50425
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0001",
+        "slug": "ignatius-sancho-charles-st",
+        "name": "Ignatius Sancho's grocery",
+        "name_alt": [
+          "Charles Ignatius Sancho"
+        ],
+        "kind": "plaque",
+        "summary": "From 1774 the writer, composer and abolitionist Ignatius Sancho ran a grocery here — and from this address became the first Black Briton known to vote in a parliamentary election.",
+        "description_md": "Charles Ignatius Sancho was born in 1729, almost certainly aboard a slave ship in the Atlantic, and brought to England as a small child. After years in service to the Duke and Duchess of Montagu — and an extraordinary self-education — he and his wife Anne opened a small grocery and tobacconist's at 19 Charles Street, Westminster, in 1774.\n\nAs a male householder paying parish rates, Sancho qualified for the parliamentary franchise, and in 1774 and again in 1780 he cast his vote — the earliest documented Black voter in British political history. His correspondence, posthumously published as *Letters of the Late Ignatius Sancho, an African* (1782), was a publishing sensation and a quiet, careful argument against the slave trade.\n\nHe died from gout at the shop on 14 December 1780; his obituary in the *Gentleman's Magazine* was the first known to be given to a Black Briton in the British press.",
+        "borough": "Westminster",
+        "address": "19 Charles Street (now King Charles Street), Westminster, SW1A",
+        "period": {
+          "start_year": 1774,
+          "end_year": 1780,
+          "era": "georgian"
+        },
+        "themes": [
+          "abolition",
+          "literature",
+          "civic-life",
+          "music"
+        ],
+        "people": [
+          "ignatius-sancho"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/ignatius-sancho.jpg",
+            "thumb": "/media/people/ignatius-sancho.jpg",
+            "alt": "Portrait engraving of Charles Ignatius Sancho by Francesco Bartolozzi after Thomas Gainsborough.",
+            "credit": "Francesco Bartolozzi, after Thomas Gainsborough",
+            "license": "CC0",
+            "rights_holder": "The Metropolitan Museum of Art",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AIgnatius_Sancho_MET_DP820264.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Carretta, Vincent. *Ignatius Sancho: An African Man of Letters*. London: National Portrait Gallery, 2015."
+          },
+          {
+            "type": "archive",
+            "citation": "Sancho, Ignatius. *Letters of the Late Ignatius Sancho, an African*. London, 1782 — full text on Project Gutenberg.",
+            "url": "https://www.gutenberg.org/ebooks/27169"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Ignatius Sancho (covers the English Heritage blue plaque and his civic legacy).",
+            "url": "https://en.wikipedia.org/wiki/Ignatius_Sancho#Recognition"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q706854"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Plaque is at street level; pavements are narrow."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07515,
+          51.51285
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0001",
+        "slug": "olaudah-equiano-riding-house",
+        "name": "Olaudah Equiano in the City",
+        "name_alt": [
+          "Gustavus Vassa"
+        ],
+        "kind": "area",
+        "summary": "Equiano lived at numerous addresses in and around the City of London while writing and selling his Interesting Narrative — a foundational text of British abolitionism.",
+        "description_md": "Olaudah Equiano (c. 1745–1797) — also known as Gustavus Vassa — moved between addresses across the City and East End in the 1780s and 1790s, including Riding House Lane (now Riding House Street), Tottenham Street, and lodgings in Aldgate. He sold copies of his autobiography, *The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African*, by subscription, travelling Britain to drum up readers among MPs, clergymen and abolitionist sympathisers.\n\nThe book ran to nine editions in his lifetime, was translated into Dutch, German and Russian, and shaped a generation of British abolitionist argument. Equiano was a leading member of the Sons of Africa, the first known Black political organisation in Britain.",
+        "borough": "City of London",
+        "address": "Aldgate area, City of London",
+        "period": {
+          "start_year": 1780,
+          "end_year": 1797,
+          "era": "georgian"
+        },
+        "themes": [
+          "abolition",
+          "literature",
+          "african-diaspora"
+        ],
+        "people": [
+          "olaudah-equiano"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/olaudah-equiano.jpg",
+            "thumb": "/media/people/olaudah-equiano.jpg",
+            "alt": "Frontispiece portrait of Olaudah Equiano (Gustavus Vassa) from his 1789 Interesting Narrative.",
+            "credit": "W. Denton & D. Orme, 1789 (frontispiece engraving)",
+            "license": "CC0",
+            "rights_holder": "British Library",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AOlaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789)%2C_frontispiece_-_BL.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Carretta, Vincent. *Equiano, the African: Biography of a Self-Made Man*. University of Georgia Press, 2005."
+          },
+          {
+            "type": "archive",
+            "citation": "Equiano, Olaudah. *The Interesting Narrative of the Life of Olaudah Equiano*. London, 1789 — full text on Project Gutenberg.",
+            "url": "https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q310590"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Open street area."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1255,
+          51.4987
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0002",
+        "slug": "mary-seacole-statue-st-thomas",
+        "name": "Mary Seacole memorial — St Thomas' Hospital",
+        "name_alt": [],
+        "kind": "memorial",
+        "summary": "The first statue of a named Black woman in Britain, unveiled in 2016 in the gardens of St Thomas' Hospital opposite the Palace of Westminster.",
+        "description_md": "Sculpted by Martin Jennings and unveiled in 2016 after a thirteen-year campaign, the bronze of Mary Seacole strides forward against a disc cast from the soil of the Crimean battlefield where she ran the British Hotel.\n\nSeacole — Jamaican-born, of Scottish and Creole descent — was repeatedly refused permission to join Florence Nightingale's nursing mission. She funded her own passage, set up shop near Balaclava, and tended sick and wounded soldiers from her 'British Hotel'. She returned to England bankrupt; only an 1857 benefit raised by veterans rescued her finances.\n\nThe location — directly opposite Parliament — is deliberate. So is the soil.",
+        "borough": "Lambeth",
+        "address": "St Thomas' Hospital, Westminster Bridge Road, SE1 7EH",
+        "period": {
+          "start_year": 2016,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "medicine",
+          "caribbean-diaspora",
+          "civic-life"
+        ],
+        "people": [
+          "mary-seacole"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/mary-seacole.jpg",
+            "thumb": "/media/people/mary-seacole.jpg",
+            "alt": "Oil portrait of Mary Seacole wearing her Crimean War medals, by Albert Charles Challen, 1869.",
+            "credit": "Albert Charles Challen, 1869",
+            "license": "Public domain",
+            "rights_holder": "National Portrait Gallery, London",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3ASeacole_-_Challen.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Seacole, Mary. *Wonderful Adventures of Mrs. Seacole in Many Lands*. London, 1857.",
+            "url": "https://www.gutenberg.org/ebooks/13816"
+          },
+          {
+            "type": "web",
+            "citation": "Mary Seacole Trust",
+            "url": "https://www.maryseacoletrust.org.uk/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q236940"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Public hospital gardens; accessible 24h from the Albert Embankment."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12028,
+          51.51846
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0001",
+        "slug": "samuel-coleridge-taylor-theobalds",
+        "name": "Samuel Coleridge-Taylor's birthplace",
+        "name_alt": [],
+        "kind": "plaque",
+        "summary": "Composer of 'Hiawatha's Wedding Feast', born here in 1875 to a Sierra Leonean father and English mother.",
+        "description_md": "Samuel Coleridge-Taylor was born at 15 Theobalds Road, Holborn, in 1875 and raised in Croydon. By his early twenties he had become one of the most performed composers in the English-speaking world: 'Hiawatha's Wedding Feast' was the standard cantata in choral societies from Cardiff to Cleveland.\n\nHe died at 37, of pneumonia exacerbated by overwork — a victim of an English copyright system that paid him a flat fee for what became one of the most lucrative scores of the era. His funeral cortege drew thousands.",
+        "borough": "Camden",
+        "address": "15 Theobalds Road, Holborn, WC1X",
+        "period": {
+          "start_year": 1875,
+          "end_year": 1875,
+          "era": "victorian"
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [
+          "samuel-coleridge-taylor"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/samuel-coleridge-taylor.jpg",
+            "thumb": "/media/people/samuel-coleridge-taylor.jpg",
+            "alt": "Photograph of the composer Samuel Coleridge-Taylor, c.1893.",
+            "credit": "Unknown photographer, c.1893",
+            "license": "Public domain",
+            "rights_holder": "Public domain",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3ASamuel_Coleridge-Taylor_c.1893.JPG"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Self, Geoffrey. *The Hiawatha Man: The Life and Work of Samuel Coleridge-Taylor*. Scolar Press, 1995."
+          },
+          {
+            "type": "web",
+            "citation": "English Heritage Blue Plaques: Samuel Coleridge-Taylor",
+            "url": "https://www.english-heritage.org.uk/visit/blue-plaques/samuel-coleridge-taylor/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q380398"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": null
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0735,
+          51.4653
+        ]
+      },
+      "properties": {
+        "id": "site_southwark_0001",
+        "slug": "harold-moody-queens-road",
+        "name": "Dr Harold Moody — Queen's Road, Peckham",
+        "name_alt": [
+          "League of Coloured Peoples"
+        ],
+        "kind": "plaque",
+        "summary": "Home and surgery of Harold Moody, founder of the League of Coloured Peoples (1931) — the leading Black civil-rights organisation in pre-war Britain.",
+        "description_md": "Harold Moody, born in Kingston, Jamaica in 1882, qualified as a doctor at King's College Hospital after a struggle against the colour bar in medicine. He set up his surgery at 164 Queen's Road, Peckham — and from his front room founded the League of Coloured Peoples on 13 March 1931.\n\nThe League campaigned against the racial bar in employment, housing and the merchant navy; lobbied the Colonial Office over the case of Learie Constantine; and laid the political groundwork that the Windrush generation would build upon. Moody died in 1947, weeks after returning from a fundraising tour of the Caribbean.",
+        "borough": "Southwark",
+        "address": "164 Queen's Road, Peckham, SE15 2HP",
+        "period": {
+          "start_year": 1922,
+          "end_year": 1947,
+          "era": "edwardian"
+        },
+        "themes": [
+          "civic-life",
+          "medicine",
+          "panafricanism"
+        ],
+        "people": [
+          "harold-moody"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/harold-moody.jpg",
+            "thumb": "/media/people/harold-moody.jpg",
+            "alt": "Photograph of Dr Harold Moody, founder of the League of Coloured Peoples, 1950.",
+            "credit": "Unknown photographer, 1950",
+            "license": "Public domain",
+            "rights_holder": "Public domain",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AHarold_Moody_1950.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Vaughan, David A. *Negro Victory: The Life Story of Dr. Harold Moody*. Independent Press, 1950."
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Harold Moody (covers his life and the English Heritage blue plaque).",
+            "url": "https://en.wikipedia.org/wiki/Harold_Moody"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q1585013"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": null
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1374,
+          51.55115
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0002",
+        "slug": "claudia-jones-tavistock",
+        "name": "Claudia Jones — West Indian Gazette",
+        "name_alt": [],
+        "kind": "burial",
+        "summary": "Claudia Jones — journalist, communist, and progenitor of the Notting Hill Carnival — is buried in Highgate Cemetery beside Karl Marx.",
+        "description_md": "After Senator McCarthy's prosecutors deported her from the United States in 1955, Trinidad-born Claudia Jones arrived in London and within three years had founded the *West Indian Gazette* — the first major Black newspaper in Britain.\n\nIn the wake of the 1958 Notting Hill race riots and the murder of Kelso Cochrane, she organised an indoor 'Caribbean Carnival' at St Pancras Town Hall (1959). It is widely recognised as the seed of what is now the Notting Hill Carnival, Europe's largest street festival.\n\nShe died on Christmas Day 1964 and is buried in Highgate Cemetery, two graves to the left of Karl Marx.",
+        "borough": "Camden",
+        "address": "Highgate Cemetery (East), Swain's Lane, N6 6PJ",
+        "period": {
+          "start_year": 1955,
+          "end_year": 1964,
+          "era": "post-war"
+        },
+        "themes": [
+          "civic-life",
+          "labour-movement",
+          "caribbean-diaspora",
+          "panafricanism"
+        ],
+        "people": [
+          "claudia-jones"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/claudia-jones.jpg",
+            "thumb": "/media/people/claudia-jones.jpg",
+            "alt": "Photograph of Claudia Jones, founder of the West Indian Gazette and 'Mother of the Notting Hill Carnival'.",
+            "credit": "Unknown photographer (CPUSA era)",
+            "license": "Public domain",
+            "rights_holder": "Public domain",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AClaudia_Jones%2C_likely_during_her_time_in_the_CPUSA.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Boyce Davies, Carole. *Left of Karl Marx: The Political Life of Black Communist Claudia Jones*. Duke University Press, 2008."
+          },
+          {
+            "type": "web",
+            "citation": "Highgate Cemetery — Notable Burials",
+            "url": "https://highgatecemetery.org/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q462968"
+        },
+        "accessibility": {
+          "step_free": false,
+          "viewable_from_street": false,
+          "indoor": false,
+          "notes": "East Cemetery requires paid admission and has uneven paths."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1076,
+          51.51436
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0002",
+        "slug": "francis-barber-johnson-house",
+        "name": "Francis Barber at Dr Johnson's House",
+        "name_alt": [],
+        "kind": "building",
+        "summary": "From 1752 Francis Barber lived in Samuel Johnson's household at 17 Gough Square — and was made the lexicographer's principal heir.",
+        "description_md": "Francis Barber was born enslaved in Jamaica around 1742 and brought to England as a boy. He entered Samuel Johnson's household at 17 Gough Square in 1752, the year Johnson's wife Tetty died. Johnson treated him with extraordinary affection: he paid for his schooling at Bishop's Stortford Grammar, freed him in his will, and made him principal beneficiary of his estate.\n\nDr Johnson's House survives — a rare 17th-century townhouse in the City — and is open to the public. The Barber relationship is a quiet centrepiece of any honest tour.",
+        "borough": "City of London",
+        "address": "Dr Johnson's House, 17 Gough Square, EC4A 3DE",
+        "period": {
+          "start_year": 1752,
+          "end_year": 1784,
+          "era": "georgian"
+        },
+        "themes": [
+          "literature",
+          "abolition"
+        ],
+        "people": [
+          "francis-barber"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/francis-barber.jpg",
+            "thumb": "/media/people/francis-barber.jpg",
+            "alt": "Eighteenth-century portrait of a young Black man, widely considered to be Francis Barber, in the manner of Joshua Reynolds (Tate T01892).",
+            "credit": "Manner of Joshua Reynolds (Tate T01892)",
+            "license": "Public domain",
+            "rights_holder": "Tate",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AJoshua_Reynolds_(1723-1792)_(manner_of)_-_A_Young_Black_Man_(%5EFrancis_Barber)_-_T01892_-_Tate.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Bundock, Michael. *The Fortunes of Francis Barber: The True Story of the Jamaican Slave Who Became Samuel Johnson's Heir*. Yale University Press, 2015."
+          },
+          {
+            "type": "web",
+            "citation": "Dr Johnson's House",
+            "url": "https://www.drjohnsonshouse.org/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q5478979"
+        },
+        "accessibility": {
+          "step_free": false,
+          "viewable_from_street": true,
+          "indoor": true,
+          "opening_hours": "We-Sa 11:00-17:00",
+          "notes": "Historic townhouse, multiple narrow staircases; not step-free."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1464,
+          51.51815
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0003",
+        "slug": "una-marson-bbc-broadcasting-house",
+        "name": "Una Marson at Broadcasting House",
+        "name_alt": [
+          "Caribbean Voices"
+        ],
+        "kind": "building",
+        "summary": "From 1941 Una Marson produced 'Calling the West Indies' and 'Caribbean Voices' from Broadcasting House — the BBC's first Black woman programme-maker.",
+        "description_md": "Jamaican poet, journalist and broadcaster Una Marson joined the BBC in 1941 as a programme assistant on 'Calling the West Indies', a service for Caribbean troops serving in Britain. By 1943 she was producing 'Caribbean Voices', which over the next decade gave national air-time to V.S. Naipaul, Sam Selvon, Derek Walcott, George Lamming and many others — effectively launching post-war Caribbean literature in English.\n\nShe broke under the strain in 1946 and returned to Jamaica. Broadcasting House at Portland Place still stands.",
+        "borough": "Westminster",
+        "address": "Broadcasting House, Portland Place, W1A 1AA",
+        "period": {
+          "start_year": 1941,
+          "end_year": 1946,
+          "era": "wartime"
+        },
+        "themes": [
+          "literature",
+          "caribbean-diaspora",
+          "performance"
+        ],
+        "people": [
+          "una-marson"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/una-marson.jpg",
+            "thumb": "/media/people/una-marson.jpg",
+            "alt": "Photograph of Una Marson at the BBC during the Second World War — the corporation's first Black woman programme-maker.",
+            "credit": "BBC, Second World War",
+            "license": "Public domain",
+            "rights_holder": "Public domain",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AUna_Marson_-_BBC_-_WWII.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Jarrett-Macauley, Delia. *The Life of Una Marson, 1905–65*. Manchester University Press, 1998."
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q3551727"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Building exterior viewable from Portland Place."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10865,
+          51.4618
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0001",
+        "slug": "black-cultural-archives-windrush-square",
+        "name": "Black Cultural Archives, Windrush Square",
+        "name_alt": [
+          "BCA"
+        ],
+        "kind": "institution",
+        "summary": "Britain's national heritage centre dedicated to the histories of African and Caribbean people in Britain — opened on Windrush Square, Brixton, in 2014.",
+        "description_md": "Founded in 1981 by historian and educator Len Garrison and others — galvanised by the New Cross Fire and the Brixton Uprising — the BCA campaigned for over thirty years to secure a permanent home. Raleigh Hall on Windrush Square, a Grade II Georgian building, was restored and opened to the public in 2014.\n\nThe archive holds papers, photographs and oral histories spanning Roman Britain to the present, and is the principal scholarly counterpart to Britain's mainstream museums on Black British history.",
+        "borough": "Lambeth",
+        "address": "1 Windrush Square, Brixton, SW2 1EF",
+        "period": {
+          "start_year": 1981,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "education",
+          "civic-life",
+          "windrush",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Black Cultural Archives",
+            "url": "https://blackculturalarchives.org/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q4922020"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "opening_hours": "Tu-Sa 10:00-17:00",
+          "notes": "Step-free access from Windrush Square; lift to upper floors."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.207,
+          51.5131
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0001",
+        "slug": "notting-hill-carnival-origin",
+        "name": "Notting Hill — Carnival origins",
+        "name_alt": [],
+        "kind": "area",
+        "summary": "The streets around Powis Square and All Saints Road, where the Notting Hill Carnival took its first outdoor shape in 1966 under the leadership of Rhaune Laslett.",
+        "description_md": "The Notting Hill Carnival's lineage is double: indoors, the 1959 'Caribbean Carnival' organised by Claudia Jones at St Pancras Town Hall after the racist murder of Kelso Cochrane; outdoors, a small London Free School pageant in 1966 led by community organiser Rhaune Laslett, which drew steel-pan musicians from the Trinidadian community led by Russell Henderson.\n\nFrom those two strands came what is now Europe's largest street festival, anchored to the August bank holiday, and a century-defining act of Caribbean Britishness.",
+        "borough": "Kensington and Chelsea",
+        "address": "Powis Square / All Saints Road, W11",
+        "period": {
+          "start_year": 1966,
+          "end_year": null,
+          "era": "post-war"
+        },
+        "themes": [
+          "caribbean-diaspora",
+          "music",
+          "civic-life",
+          "performance"
+        ],
+        "people": [
+          "claudia-jones"
+        ],
+        "media": [],
+        "sources": [
+          {
+            "type": "book",
+            "citation": "Cohen, Abner. *Masquerade Politics: Explorations in the Structure of Urban Cultural Movements*. University of California Press, 1993."
+          }
+        ],
+        "external_ids": {},
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Public streets; very busy on Carnival weekend."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.110944,
+          51.461891
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0002",
+        "slug": "brixton-house",
+        "name": "Brixton House",
+        "name_alt": [],
+        "kind": "institution",
+        "summary": "A 200- and 60-seat theatre on Coldharbour Lane that opened in 2022 as the successor to Ovalhouse, with a Black-led artistic programme rooted in its Brixton home.",
+        "description_md": "Brixton House opened in 2022 in a purpose-built complex on Coldharbour Lane, taking on the legacy of Ovalhouse — the Kennington venue that, since the 1960s, had been one of the few London theatres consistently producing work by Black writers and companies, including the Dark and Light Theatre Company and Temba Theatre.\n\nThe new building has two auditoria (a flexible 200-seat main space and a 60-seat studio), seven rehearsal rooms with aerial-rated ceilings, and fully wheelchair-accessible technical rigs. Its programme — under the artistic directorship of Gbolahan Obisesan, succeeded by Camilla Mendoza — is explicitly anchored in Brixton's Black, working-class and creative communities, premiering and touring work that often makes its way out to other UK and international stages.\n\nNotable runs at the venue have included new work by Inua Ellams, Mojisola Adebayo, and a steady flow of devised theatre, hip-hop theatre and circus.",
+        "borough": "Lambeth",
+        "address": "385 Coldharbour Lane, Brixton, SW9 8GL",
+        "period": {
+          "start_year": 2022,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "theatre",
+          "performance",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Brixton House — Our House",
+            "url": "https://brixtonhouse.co.uk/our-house/brixton-house/"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Brixton House",
+            "url": "https://en.wikipedia.org/wiki/Brixton_House"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Ovalhouse (predecessor)",
+            "url": "https://en.wikipedia.org/wiki/Ovalhouse"
+          }
+        ],
+        "external_ids": {},
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "opening_hours": "Mo-Sa 10:00-23:00",
+          "notes": "Wheelchair-accessible throughout; aerial-rated technical rigs and step-free access to both auditoria."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0028,
+          51.5414
+        ]
+      },
+      "properties": {
+        "id": "site_newham_0001",
+        "slug": "theatre-royal-stratford-east",
+        "name": "Theatre Royal Stratford East",
+        "name_alt": [
+          "Stratford East"
+        ],
+        "kind": "building",
+        "summary": "Joan Littlewood's old workshop theatre, rebuilt under successive artistic directors as one of the most consequential venues in Britain for Black theatre, music and musical theatre.",
+        "description_md": "The Theatre Royal at Gerry Raffles Square, opened in 1884, became the home of Joan Littlewood's Theatre Workshop in 1953 — and from the late 1980s under Philip Hedley, and especially from 2004 to 2018 under Kerry Michael, the building established itself as a national centre for Black British theatre and Black-led musical theatre.\n\nWorld premieres at Stratford East include *Five Guys Named Moe* (Clarke Peters, 1990), *The Big Life* (Paul Sirett and Paul Joseph's Windrush musical, 2004), *The Harder They Come* (2006), and a long succession of new plays by Roy Williams, Bola Agbaje and others. The audience the building has built — heavily Black, working-class East-End — is itself part of its legacy.",
+        "borough": "Newham",
+        "address": "Gerry Raffles Square, Stratford, E15 1BN",
+        "period": {
+          "start_year": 1884,
+          "end_year": null,
+          "era": "victorian"
+        },
+        "themes": [
+          "theatre",
+          "performance",
+          "music",
+          "windrush",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Theatre Royal Stratford East",
+            "url": "https://www.stratfordeast.com/"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Theatre Royal Stratford East",
+            "url": "https://en.wikipedia.org/wiki/Theatre_Royal_Stratford_East"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q3525128"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "opening_hours": "Mo-Sa 10:00-23:00",
+          "notes": "Step-free entry; wheelchair-accessible auditorium with named positions."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2245,
+          51.5063
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0001",
+        "slug": "bush-theatre",
+        "name": "Bush Theatre",
+        "name_alt": [],
+        "kind": "building",
+        "summary": "New-writing theatre in the former Shepherd's Bush Library; world premiere venue of Kwame Kwei-Armah's 'Elmina's Kitchen' (2003) and a long line of Black British playwrights.",
+        "description_md": "The Bush Theatre moved into the former Shepherd's Bush Library on Uxbridge Road in 2011, but its commitment to Black British new writing long predates that address. Among the most consequential premieres of the 2000s — Kwame Kwei-Armah's *Elmina's Kitchen* (2003), which transferred to the National Theatre and then the West End — began on the Bush's stage.\n\nUnder artistic directors Madani Younis (2012–2018) and Lynette Linton (2019–), the venue has developed and produced work by Inua Ellams, debbie tucker green, Theresa Ikoko, Tyrell Williams, and many others — sustaining a pipeline that few other London new-writing venues have matched.",
+        "borough": "Hammersmith and Fulham",
+        "address": "7 Uxbridge Road, Shepherd's Bush, W12 8LJ",
+        "period": {
+          "start_year": 1972,
+          "end_year": null,
+          "era": "post-war"
+        },
+        "themes": [
+          "theatre",
+          "performance",
+          "literature",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "people": [
+          "kwame-kwei-armah"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/media/people/kwame-kwei-armah.jpg",
+            "thumb": "/media/people/kwame-kwei-armah.jpg",
+            "alt": "Photograph of playwright and director Kwame Kwei-Armah.",
+            "credit": "Amplified2010 (photographer)",
+            "license": "CC BY 2.0",
+            "rights_holder": "Amplified2010",
+            "source_url": "https://commons.wikimedia.org/wiki/File%3AKwame_Kwei-Armah.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Bush Theatre",
+            "url": "https://www.bushtheatre.co.uk/"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Bush Theatre",
+            "url": "https://en.wikipedia.org/wiki/Bush_Theatre"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q4998414"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "opening_hours": "Mo-Sa 10:00-23:00",
+          "notes": "Step-free; lift to upper floors; wheelchair-accessible auditorium."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0834,
+          51.4762
+        ]
+      },
+      "properties": {
+        "id": "site_southwark_0002",
+        "slug": "theatre-peckham",
+        "name": "Theatre Peckham",
+        "name_alt": [],
+        "kind": "institution",
+        "summary": "Producing theatre and youth-arts academy on Havil Street that has trained and platformed a generation of Black British actors, directors and writers.",
+        "description_md": "Theatre Peckham — founded as Peckham Theatre — moved into its current Havil Street building in 2014 and has since become both a producing house and a training pipeline. Its young people's academy has launched the careers of John Boyega, Letitia Wright and many others; the main stage carries a programme of Black-led new writing, family work and community performance, with a strong sense of place anchored to Peckham's African and Caribbean diasporas.",
+        "borough": "Southwark",
+        "address": "221 Havil Street, Camberwell, SE5 7SD",
+        "period": {
+          "start_year": 1985,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "theatre",
+          "performance",
+          "education",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Theatre Peckham",
+            "url": "https://theatrepeckham.co.uk/"
+          }
+        ],
+        "external_ids": {},
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Step-free entry; wheelchair-accessible main auditorium."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0249,
+          51.4775
+        ]
+      },
+      "properties": {
+        "id": "site_lewisham_0001",
+        "slug": "the-albany-deptford",
+        "name": "The Albany",
+        "name_alt": [],
+        "kind": "institution",
+        "summary": "Deptford community arts centre with a long history of Caribbean-British music and theatre programming; home of the Albany Empire's anti-racist gigs in the late 1970s and 80s.",
+        "description_md": "The Albany on Douglas Way — rebuilt in 1982 after the original building was destroyed by arson — has been one of South-East London's principal community arts venues for half a century. In its 'Empire' incarnation it ran benefit gigs alongside Rock Against Racism in the late 1970s; today it hosts a programme of Black theatre, jazz, hip-hop, spoken word and family work, deeply rooted in Lewisham's African and Caribbean communities.",
+        "borough": "Lewisham",
+        "address": "Douglas Way, Deptford, SE8 4AG",
+        "period": {
+          "start_year": 1982,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "theatre",
+          "performance",
+          "music",
+          "caribbean-diaspora",
+          "african-diaspora",
+          "labour-movement"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "The Albany",
+            "url": "https://www.thealbany.org.uk/"
+          }
+        ],
+        "external_ids": {},
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Step-free; wheelchair-accessible café and main theatre."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
+        "status": "published",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08862,
+          51.51428
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0003",
+        "slug": "bank-of-england-slavery-and-the-bank",
+        "name": "Bank of England — Slavery & the Bank",
+        "kind": "institution",
+        "summary": "After the 2020 Black Lives Matter protests, the Bank removed eight paintings and two busts of governors and directors with links to slavery, and through its 'Slavery & the Bank' research and exhibition has formally acknowledged the institution's role.",
+        "description_md": "The Bank of England, founded in 1694 and headquartered on Threadneedle Street since 1734, served the banking needs of slave-trading companies including the Royal African Company, and counted among its governors and directors men whose personal wealth was tied to the enslavement of Africans.\n\nIn June 2020, in the wake of the killing of George Floyd and the Black Lives Matter protests in Britain, the Bank announced it would remove from public display eight portraits and two busts of former governors and directors with documented links to slavery, and commissioned independent research into the Bank's connections to the transatlantic slave trade.\n\nThat research, *Slavery & the Bank*, identified twenty-five individuals associated with the Bank's governance whose lives intersected the slave economy. A public exhibition of the same name ran in the Bank of England Museum from 2022 to early 2024; the findings now inform the permanent display, and accompany every flagged portrait via the museum's online collection and Art UK.",
+        "borough": "City of London",
+        "address": "Threadneedle Street, City of London EC2R 8AH",
+        "period": {
+          "start_year": 2020,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "trade",
+          "civic-life",
+          "abolition"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Bank of England — 'Slavery & the Bank'",
+            "url": "https://www.bankofengland.co.uk/museum/whats-on/slavery-and-the-bank"
+          },
+          {
+            "type": "web",
+            "citation": "Bank of England — 'Marking the Bank of England's links to transatlantic slavery'",
+            "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/marking-the-bank-of-englands-links-to-transatlantic-slavery"
+          },
+          {
+            "type": "web",
+            "citation": "Centre for the Study of the Legacies of British Slavery, UCL — 'Slavery and the Bank of England: Exploitation on Display'",
+            "url": "https://lbsatucl.wordpress.com/2022/10/05/slavery-and-the-bank-of-england-exploitation-on-display/"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q124313"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Bank of England Museum (free) entrance on Bartholomew Lane; check current opening hours and exhibitions."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08749,
+          51.51367
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0004",
+        "slug": "royal-exchange-equiano-bookseller",
+        "name": "Royal Exchange — Equiano's bookseller",
+        "kind": "building",
+        "summary": "Equiano's 'Interesting Narrative' (1789) was sold by subscription through Taylor and Co. at the South Arch of the Royal Exchange — one of the City booksellers that put the foundational text of British abolitionism into readers' hands.",
+        "description_md": "When Olaudah Equiano published *The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African* in 1789, he did so by subscription — a self-published model in which buyers committed up front and lent their names to the front matter as endorsement.\n\nAmong the booksellers handling distribution was **Taylor and Co.** at the **South Arch of the Royal Exchange**. The arcaded courtyard of the Exchange was a long-established centre of City commerce — the heart of insurance, shipping and merchant trade — and Equiano's choice of seller put his book directly in the path of the merchants and underwriters whose wealth was bound up in the trade he was arguing against.\n\nThe present Royal Exchange building is the third on this site (the previous building burned in 1838); the 18th-century building Equiano knew was destroyed in the Great Fire of the Royal Exchange in 1838. The arched colonnades and the Cornhill / Threadneedle Street junction remain the same civic stage.",
+        "borough": "City of London",
+        "address": "Royal Exchange, Cornhill, City of London EC3V 3LR",
+        "period": {
+          "start_year": 1789,
+          "end_year": 1797,
+          "era": "georgian"
+        },
+        "themes": [
+          "abolition",
+          "literature",
+          "trade"
+        ],
+        "people": [
+          "olaudah-equiano"
+        ],
+        "media": [],
+        "sources": [
+          {
+            "type": "archive",
+            "citation": "Equiano, Olaudah. *The Interesting Narrative of the Life of Olaudah Equiano*. London, 1789 — full text on Project Gutenberg.",
+            "url": "https://www.gutenberg.org/files/15399/15399-h/15399-h.htm"
+          },
+          {
+            "type": "web",
+            "citation": "Equiano's World — editions and distribution",
+            "url": "https://equianosworld.org/publications.php"
+          },
+          {
+            "type": "book",
+            "citation": "Carretta, Vincent. *Equiano, the African: Biography of a Self-Made Man*. University of Georgia Press, 2005."
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q1547875"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Public arcade and courtyard; cafés inside."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0824,
+          51.5128
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0005",
+        "slug": "lloyds-of-london-zong-apology",
+        "name": "Lloyd's of London — the Zong and the 2020 apology",
+        "kind": "institution",
+        "summary": "Lloyd's was the global hub of marine insurance for slave-trading voyages, including the 1781 Zong massacre. In June 2020 it became one of the first British institutions to formally apologise for its role and commit to reparative action.",
+        "description_md": "From its origins in Edward Lloyd's 17th-century coffee house, Lloyd's of London grew into the world's centre for marine insurance — including, for over a century, the insuring of British ships that carried enslaved Africans across the Atlantic. Historians estimate that during the era of the British slave trade some 3.2 million enslaved people were transported on shipping insured through Lloyd's underwriters.\n\nThe most infamous case associated with Lloyd's is the **Zong** (1781), a British slave ship whose crew murdered around 142 enslaved people by throwing them overboard, and whose owners then attempted to claim the loss on their marine insurance under the 'perils of the sea' clause. The resulting litigation — *Gregson v. Gilbert* (1783) — became a galvanising moment for British abolitionism.\n\nIn June 2020, against the backdrop of the global Black Lives Matter protests, Lloyd's issued a public apology for its 'shameful' historical role and committed to a programme of independent research, archive opening, and reparative investment. Lloyd's current headquarters — the Richard Rogers-designed inside-out building — has stood at One Lime Street since 1986.",
+        "borough": "City of London",
+        "address": "One Lime Street, City of London EC3M 7HA",
+        "period": {
+          "start_year": 2020,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "trade",
+          "civic-life",
+          "abolition"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Lloyd's of London — 'Our historical links to the transatlantic slave trade'",
+            "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade"
+          },
+          {
+            "type": "web",
+            "citation": "The Conversation / Open University — 'Lloyd's of London archives show how important the City was to transatlantic slavery'",
+            "url": "https://theconversation.com/lloyds-of-london-archives-show-how-important-the-city-was-to-transatlantic-slavery-218448"
+          },
+          {
+            "type": "journal",
+            "citation": "Webster, Jane. *Insurance Litigation Involving the Zong and Other British Slave Ships, 1780–1807*. Journal of Legal History 28:3 (2007).",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/01440360701698437"
+          },
+          {
+            "type": "web",
+            "citation": "Al Jazeera — '‘Shameful’: Lloyd's of London apologises for role in slave trade' (18 June 2020)",
+            "url": "https://www.aljazeera.com/economy/2020/6/18/shameful-lloyds-of-london-apologises-for-role-in-slave-trade"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q1145062"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Iconic Rogers building viewable from street; interior is private. Lloyd’s archives are open to researchers by appointment."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0929,
+          51.51616
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0006",
+        "slug": "aldermanbury-anti-slavery-society-mary-prince",
+        "name": "Aldermanbury — Anti-Slavery Society & Mary Prince",
+        "kind": "area",
+        "summary": "In November 1828 Mary Prince walked into the Anti-Slavery Society's office on Aldermanbury and met its secretary, Thomas Pringle — the encounter that produced the 1831 'History of Mary Prince', the first slave narrative by a Black woman published in Britain.",
+        "description_md": "Aldermanbury, a quiet City street running north from Gresham Street, was in the 1820s and 1830s the address of the **Anti-Slavery Society** — the umbrella organisation that drove the parliamentary campaign culminating in the Slavery Abolition Act of 1833.\n\nNear the end of November 1828, **Mary Prince** (b. c. 1788, Bermuda) presented herself at the Society's office. Born into slavery and brought to London by her owners earlier that year, she had walked out of their house and now sought help. The Society's secretary, the Scottish writer and abolitionist **Thomas Pringle**, took her in and arranged for the writer Susanna Strickland to record her testimony.\n\nThe resulting book, *The History of Mary Prince, a West Indian Slave, Related by Herself*, was published in February 1831. It went through three printings in its first year and was the first slave narrative by a Black woman to be published in Britain. Mary Prince's testimony — and the legal aftermath, including a libel trial — was central to the final push for abolition.\n\n(The original Anti-Slavery Society house at Aldermanbury was lost to later redevelopment and the Blitz; the street layout remains.)",
+        "borough": "City of London",
+        "address": "Aldermanbury, City of London EC2V (former Anti-Slavery Society office, exact number to confirm)",
+        "period": {
+          "start_year": 1828,
+          "end_year": 1834,
+          "era": "georgian"
+        },
+        "themes": [
+          "abolition",
+          "literature"
+        ],
+        "people": [
+          "mary-prince"
+        ],
+        "media": [],
+        "sources": [
+          {
+            "type": "archive",
+            "citation": "Prince, Mary. *The History of Mary Prince, a West Indian Slave, Related by Herself*. London: F. Westley and A. H. Davis, 1831.",
+            "url": "https://docsouth.unc.edu/neh/prince/prince.html"
+          },
+          {
+            "type": "web",
+            "citation": "London Museum — 'The life story of Mary Prince'",
+            "url": "https://www.londonmuseum.org.uk/collections/london-stories/the-life-story-of-mary-prince/"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — Mary Prince",
+            "url": "https://en.wikipedia.org/wiki/Mary_Prince"
+          },
+          {
+            "type": "web",
+            "citation": "Faculty of English, Oxford — 'Ten-minute book club: The History of Mary Prince'",
+            "url": "https://www.english.ox.ac.uk/ten-minute-book-club/prince-history-of-mary-prince"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q4356"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": false,
+          "notes": "Open street; no extant interpretive plaque at present."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09183,
+          51.51572
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0007",
+        "slug": "guildhall-revealing-the-citys-past",
+        "name": "Guildhall — Revealing the City's Past",
+        "kind": "institution",
+        "summary": "At the City of London Corporation's medieval Guildhall, plaques unveiled under the 'Revealing the City's Past' project (2024) now stand alongside the statues of slave-trade-enriched former Lord Mayor William Beckford and slave-owner MP Sir John Cass.",
+        "description_md": "Guildhall has been the seat of the City of London Corporation, the City's municipal authority, since the 12th century. Inside its Great Hall stand the public statues of past benefactors — including **William Beckford** (1709–1770), the wealthiest plantation owner of his age and twice Lord Mayor of London, and **Sir John Cass** (1661–1718), MP and director of the Royal African Company.\n\nFollowing the 2020 Black Lives Matter protests, the City Corporation's Court of Common Council voted in January 2021 to remove both statues. In 2022 the policy was reversed under the UK government's 'retain and explain' guidance; in 2024 the Corporation instead launched **'Revealing the City's Past'**, fixing interpretive plaques to both statues that name and condemn the men's role in the Transatlantic Trade in Enslaved African People. The plaque texts were written by the artist and heritage professional Rachael Minott, accompanied by poems from John Agard and Courtney Conrad.\n\nThe project is the most visible acknowledgement to date by the City's municipal authority of its institutional entanglement with the slave economy.",
+        "borough": "City of London",
+        "address": "Guildhall, Gresham Street, City of London EC2V 7HH",
+        "period": {
+          "start_year": 2021,
+          "end_year": null,
+          "era": "modern"
+        },
+        "themes": [
+          "civic-life",
+          "abolition"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "City of London Corporation — 'City Corporation launches project to reinterpret slave trader statues'",
+            "url": "https://news.cityoflondon.gov.uk/city-corporation-launches-project-to-reinterpret-slave-trader-statues/"
+          },
+          {
+            "type": "web",
+            "citation": "Google Arts & Culture / City of London Corporation — 'Places in the City of London Connected to the Slave Trade'",
+            "url": "https://artsandculture.google.com/story/places-in-the-city-of-london-connected-to-the-slave-trade-city-of-london-corporation/bwWhuBgZKICdFQ?hl=en"
+          },
+          {
+            "type": "web",
+            "citation": "Historic England — 'London: Centre of the Slave Trade'",
+            "url": "https://historicengland.org.uk/research/inclusive-heritage/the-slave-trade-and-abolition/sites-of-memory/slave-traders-and-plantation-wealth/london-centre-of-the-slave-trade/"
+          },
+          {
+            "type": "web",
+            "citation": "Al Jazeera — 'Slavery and the City: London’s financial hub comes under scrutiny' (24 June 2020)",
+            "url": "https://www.aljazeera.com/amp/economy/2020/6/24/slavery-and-the-city-londons-financial-hub-comes-under-scrutiny"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q21010585"
+        },
+        "accessibility": {
+          "step_free": true,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Guildhall Yard is open to the public; the Great Hall is open free during normal business hours when not in civic use."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08775,
+          51.51284
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0008",
+        "slug": "st-mary-woolnoth-newton-equiano",
+        "name": "St Mary Woolnoth — Newton & the abolitionist church",
+        "kind": "building",
+        "summary": "John Newton — former slave-ship captain turned abolitionist and author of 'Amazing Grace' — was rector here from 1780 to 1807, publishing his 'Thoughts upon the African Slave Trade' (1788) and mentoring William Wilberforce.",
+        "description_md": "St Mary Woolnoth, a Nicholas Hawksmoor church at the junction of Lombard Street and King William Street, became one of the unlikeliest pulpits of the British abolitionist movement. John Newton (1725–1807) — a former captain of slave-trading voyages whose conversion produced the hymn *Amazing Grace* (1779) — was rector here from 1780 until his death.\n\nIn 1788 Newton published *Thoughts upon the African Slave Trade*, an unsparing first-hand account of the trade's atrocities written from this parish; it was distributed to every Member of Parliament. In 1785–86 he met privately with William Wilberforce, then a young MP wrestling with whether to leave politics; Newton's counsel kept Wilberforce in Parliament and pointed him at slavery.\n\nNewton and his wife Mary were originally buried in the crypt; their bodies were reinterred at Olney in 1893 when the Bank Underground station was built beneath the church. The church remains a working parish and a quiet anchor of the City walk.",
+        "borough": "City of London",
+        "address": "Lombard Street at King William Street, City of London EC3V 9AN",
+        "period": {
+          "start_year": 1780,
+          "end_year": 1807,
+          "era": "georgian"
+        },
+        "themes": [
+          "abolition",
+          "religion"
+        ],
+        "people": [
+          "olaudah-equiano"
+        ],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Lombard Churches — 'John Newton and Amazing Grace'",
+            "url": "https://www.lombardchurches.org/amazing-grace"
+          },
+          {
+            "type": "web",
+            "citation": "Lombard Churches — 'The abolitionist movement'",
+            "url": "https://www.lombardchurches.org/abolitionist-movement"
+          },
+          {
+            "type": "web",
+            "citation": "Wikipedia — St Mary Woolnoth",
+            "url": "https://en.wikipedia.org/wiki/St_Mary_Woolnoth"
+          },
+          {
+            "type": "archive",
+            "citation": "Cecil, Richard. *Memoirs of the Rev. John Newton, late rector of the United Parishes of St. Mary Woolnoth, and St. Mary Woolchurch Haw. Lombard Street*. London, 1808.",
+            "url": "https://archive.org/details/memoirsofrevjohn00ceci"
+          }
+        ],
+        "external_ids": {
+          "wikidata": "Q1320070"
+        },
+        "accessibility": {
+          "step_free": false,
+          "viewable_from_street": true,
+          "indoor": true,
+          "notes": "Working parish church; steps to nave. Open to visitors; check service times."
+        },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "verification": {
+          "verified_at": "2026-05-13",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": "2026.05.16-1",
+  "counts": {
+    "sites": 21,
+    "events": 16,
+    "restaurants": 5,
+    "people": 12,
+    "walks": 1
+  },
+  "bbox": [
+    -0.2245,
+    51.4618,
+    0.0028,
+    51.55115
+  ],
+  "default_view": {
+    "center": [
+      -0.11085,
+      51.506474999999995
+    ],
+    "zoom": 11
+  },
+  "generated_at": "2026-05-16T00:59:08.461Z",
+  "hash": "sha256:ab336a1bcc91d6a02a7c8f922ed3f25e06a3a57e02a20f188fe4a8037c9e7fa1"
+}

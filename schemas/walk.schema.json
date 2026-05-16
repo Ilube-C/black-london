@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://black-london.app/schemas/walk.schema.json",
+  "title": "Walk",
+  "type": "object",
+  "required": ["id", "slug", "title", "summary", "stops", "status", "contributor"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^walk_[a-z0-9_-]+_[0-9]{4,}$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "title": { "type": "string", "minLength": 4, "maxLength": 120 },
+    "subtitle": { "type": "string", "maxLength": 200 },
+    "summary": { "type": "string", "minLength": 10, "maxLength": 500 },
+    "description_md": { "type": "string" },
+    "themes": { "type": "array", "items": { "type": "string" } },
+    "stops": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["order", "site_slug"],
+        "properties": {
+          "order": { "type": "integer", "minimum": 1 },
+          "site_slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "stop_note_md": { "type": "string" },
+          "audio_src": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "start": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "address": { "type": "string" }
+      }
+    },
+    "end": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "address": { "type": "string" }
+      }
+    },
+    "distance_m": { "type": "integer", "minimum": 0 },
+    "duration_min": { "type": "integer", "minimum": 0 },
+    "contributor": {
+      "type": "object",
+      "required": ["name", "submitted_at"],
+      "properties": {
+        "name": { "type": "string" },
+        "affiliation": { "type": "string" },
+        "submitted_at": { "type": "string", "format": "date" }
+      }
+    },
+    "status": { "enum": ["draft", "published", "retired"] },
+    "license": { "type": "string" }
+  }
+}

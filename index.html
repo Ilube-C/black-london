@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#1a1a1a" />
+    <link rel="icon" href="/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <title>Black London — A Map of Black History</title>
+    <meta name="description" content="A curated, walkable map of Black History sites, events and restaurants across London. Eight-stop City of London walk now live." />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Black London" />
+    <meta property="og:title" content="Black London — A Map of Black History" />
+    <meta property="og:description" content="A curated, walkable map of Black History sites, events and restaurants across London. Eight-stop City of London walk now live." />
+    <meta property="og:image" content="/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Black London — A Map of Black History" />
+    <meta property="og:locale" content="en_GB" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Black London — A Map of Black History" />
+    <meta name="twitter:description" content="A curated, walkable map of Black History sites, events and restaurants across London." />
+    <meta name="twitter:image" content="/og-image.jpg" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="chrome" role="banner">
+        <button class="chrome__menu" id="filtersBtn" aria-label="Filters" aria-haspopup="dialog">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="currentColor" d="M4 6h16v2H4zm3 5h10v2H7zm3 5h4v2h-4z"/></svg>
+        </button>
+        <div class="chrome__brand">
+          <svg class="chrome__mark" viewBox="0 0 32 32" width="22" height="22" aria-hidden="true">
+            <circle cx="16" cy="13" r="7.5" fill="none" stroke="currentColor" stroke-width="2"/>
+            <circle cx="16" cy="13" r="2.75" fill="currentColor"/>
+            <path d="M16 21.5 L16 29" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <h1 class="chrome__title">Black London</h1>
+        </div>
+        <label class="chrome__search">
+          <span class="visually-hidden">Search</span>
+          <input id="searchInput" type="search" placeholder="Search people, places, themes…" autocomplete="off" />
+        </label>
+      </header>
+
+      <main id="map" aria-label="Map of Black History sites in London"></main>
+
+      <div class="layer-toggle" role="group" aria-label="Map layers">
+        <button class="layer-toggle__btn is-on" data-layer="sites" aria-pressed="true" title="Sites">
+          <span aria-hidden="true">⬢</span><span class="visually-hidden">Sites</span>
+        </button>
+        <button class="layer-toggle__btn" data-layer="events" aria-pressed="false" title="Events">
+          <span aria-hidden="true">★</span><span class="visually-hidden">Events</span>
+        </button>
+        <button class="layer-toggle__btn" data-layer="restaurants" aria-pressed="false" title="Restaurants">
+          <span aria-hidden="true">●</span><span class="visually-hidden">Restaurants</span>
+        </button>
+        <button class="layer-toggle__btn layer-toggle__walks" id="walksBtn" aria-pressed="false" title="Curated walks" aria-label="Curated walks">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <circle cx="6" cy="6" r="2.6" fill="currentColor"/>
+            <path d="M6 8.5 C6 13 18 12 18 16.5" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-dasharray="2 2.5"/>
+            <circle cx="18" cy="18.5" r="2.6" fill="currentColor"/>
+          </svg>
+          <span class="visually-hidden">Curated walks</span>
+        </button>
+        <button class="layer-toggle__btn layer-toggle__locate" id="locateBtn" aria-pressed="false" title="Find my location" aria-label="Find my location">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <circle cx="12" cy="12" r="3.5" fill="currentColor"/>
+            <circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.6"/>
+            <path d="M12 1.5 L12 4 M12 20 L12 22.5 M1.5 12 L4 12 M20 12 L22.5 12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+          <span class="visually-hidden">Find my location</span>
+        </button>
+      </div>
+
+      <aside class="sheet" id="sheet" data-snap="hidden" aria-label="Site details" aria-hidden="true">
+        <div class="sheet__handle" id="sheetHandle" role="slider" aria-valuemin="0" aria-valuemax="2" aria-valuenow="0" tabindex="0" aria-label="Drag to expand"></div>
+        <button type="button" class="sheet__close" id="sheetClose" aria-label="Close">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M18.3 5.71 12 12.01l-6.3-6.3-1.41 1.41 6.3 6.3-6.3 6.3 1.41 1.41 6.3-6.3 6.3 6.3 1.41-1.41-6.3-6.3 6.3-6.3z"/></svg>
+        </button>
+        <div class="sheet__body" id="sheetBody"></div>
+      </aside>
+
+      <dialog class="filters-dialog" id="filtersDialog" aria-label="Filters">
+        <form method="dialog" id="filtersForm">
+          <header class="filters-dialog__head">
+            <h2>Filters</h2>
+            <button type="submit" value="close" class="filters-dialog__close" aria-label="Close">×</button>
+          </header>
+          <fieldset>
+            <legend>Borough</legend>
+            <div class="chip-row" id="boroughChips"></div>
+          </fieldset>
+          <fieldset>
+            <legend>Theme</legend>
+            <div class="chip-row" id="themeChips"></div>
+          </fieldset>
+          <fieldset>
+            <legend>Period</legend>
+            <div class="chip-row" id="periodChips"></div>
+          </fieldset>
+          <fieldset>
+            <legend>Accessibility</legend>
+            <label><input type="checkbox" id="stepFreeFilter" /> Step-free only</label>
+          </fieldset>
+          <footer class="filters-dialog__foot">
+            <button type="button" id="resetFilters" class="btn btn--ghost">Reset</button>
+            <button type="submit" value="apply" class="btn">Apply</button>
+          </footer>
+        </form>
+      </dialog>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

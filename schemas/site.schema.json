@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://black-london.app/schemas/site.schema.json",
+  "title": "Site",
+  "type": "object",
+  "required": ["id", "slug", "name", "kind", "summary", "borough", "themes", "status", "contributor", "verification"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^site_[a-z0-9_-]+_[0-9]{4,}$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 200 },
+    "name_alt": { "type": "array", "items": { "type": "string" } },
+    "kind": { "enum": ["plaque", "building", "area", "memorial", "burial", "institution", "event_site"] },
+    "summary": { "type": "string", "minLength": 10, "maxLength": 280 },
+    "description_md": { "type": "string" },
+    "borough": { "type": "string" },
+    "address": { "type": ["string", "null"] },
+    "period": {
+      "type": ["object", "null"],
+      "properties": {
+        "start_year": { "type": ["integer", "null"] },
+        "end_year": { "type": ["integer", "null"] },
+        "era": { "type": "string" }
+      }
+    },
+    "themes": { "type": "array", "items": { "type": "string" } },
+    "people": { "type": "array", "items": { "type": "string" } },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "src", "credit", "license", "rights_holder"],
+        "properties": {
+          "type": { "enum": ["image", "audio", "video", "embed"] },
+          "src": { "type": "string" },
+          "thumb": { "type": "string" },
+          "alt": { "type": "string" },
+          "credit": { "type": "string" },
+          "license": { "type": "string" },
+          "rights_holder": { "type": "string" },
+          "source_url": { "type": "string", "format": "uri" },
+          "duration_s": { "type": "number" },
+          "transcript_src": { "type": "string" }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "citation"],
+        "properties": {
+          "type": { "enum": ["book", "archive", "journal", "web", "oral"] },
+          "citation": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "external_ids": { "type": "object" },
+    "accessibility": { "type": "object" },
+    "contributor": {
+      "type": "object",
+      "required": ["name", "submitted_at"],
+      "properties": {
+        "name": { "type": "string" },
+        "affiliation": { "type": "string" },
+        "orcid": { "type": "string" },
+        "submitted_at": { "type": "string", "format": "date" }
+      },
+      "not": { "required": ["email"] }
+    },
+    "verification": {
+      "type": "object",
+      "required": ["verified_at", "confidence"],
+      "properties": {
+        "verified_by": { "type": "string" },
+        "verified_at": { "type": "string", "format": "date" },
+        "confidence": { "enum": ["high", "medium", "low"] }
+      }
+    },
+    "status": { "enum": ["draft", "published", "retired"] },
+    "license": { "type": "string" }
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-graph/
+dev-dist/
+quartz/public/
+quartz/.quartz-cache/
+.DS_Store
+.vite/
+.vercel/
+.env
+.env.local
+*.log
+.cache/
+/tmp/

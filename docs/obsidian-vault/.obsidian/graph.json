@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 16052716
+      }
+    },
+    {
+      "query": "path:Sites",
+      "color": {
+        "a": 1,
+        "rgb": 13935944
+      }
+    },
+    {
+      "query": "path:Walks",
+      "color": {
+        "a": 1,
+        "rgb": 13144351
+      }
+    },
+    {
+      "query": "path:Events",
+      "color": {
+        "a": 1,
+        "rgb": 9087098
+      }
+    },
+    {
+      "query": "path:Restaurants",
+      "color": {
+        "a": 1,
+        "rgb": 13205103
+      }
+    },
+    {
+      "query": "path:Themes",
+      "color": {
+        "a": 1,
+        "rgb": 6974062
+      }
+    },
+    {
+      "query": "path:Eras",
+      "color": {
+        "a": 1,
+        "rgb": 5592410
+      }
+    },
+    {
+      "query": "path:Boroughs",
+      "color": {
+        "a": 1,
+        "rgb": 4868686
+      }
+    },
+    {
+      "query": "path:Cuisines",
+      "color": {
+        "a": 1,
+        "rgb": 6974062
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.52,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 280,
+  "scale": 0.66,
+  "close": true
+}

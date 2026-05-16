@@ -1,0 +1,37 @@
+:root {
+  --bg: #0f0f10;
+  --surface: #1a1a1c;
+  --surface-2: #232327;
+  --line: #2c2c30;
+  --text: #f4f1ec;
+  --text-dim: #b6b1a8;
+  --accent: #d4a548;
+  --accent-2: #8aa87a;
+  --danger: #d96b50;
+  --pin-site: #d4a548;
+  --pin-event: #8aa87a;
+  --pin-restaurant: #c97e6f;
+  --pin-cluster: #f4f1ec;
+
+  --r-sm: 6px;
+  --r-md: 12px;
+  --r-lg: 20px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  --shadow-1: 0 2px 8px rgba(0,0,0,.4);
+  --shadow-2: 0 8px 24px rgba(0,0,0,.5);
+
+  --header-h: 56px;
+  --sheet-peek: 88px;
+  --sheet-half: 50vh;
+  --sheet-full: 92vh;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+}

@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "name": "Curated walks — London",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.10760, 51.51436],
+          [-0.09290, 51.51616],
+          [-0.09183, 51.51572],
+          [-0.08862, 51.51428],
+          [-0.08749, 51.51367],
+          [-0.08775, 51.51284],
+          [-0.08240, 51.51280],
+          [-0.07515, 51.51285]
+        ]
+      },
+      "properties": {
+        "id": "walk_cityoflondon_0001",
+        "slug": "city-of-london-black-history",
+        "title": "City of London — Black History",
+        "subtitle": "Eight sites from 18th-century abolition to the City's modern reckoning",
+        "summary": "A west-to-east walk across the Square Mile that traces Black London from Francis Barber's life in Samuel Johnson's household, through the abolitionists who preached, wrote and testified in the City, to the institutions — the Bank, Lloyd's, the Corporation — now confronting their role in the slave economy.",
+        "description_md": "This walk starts at the western edge of the City and ends at Aldgate, covering roughly **2.7 km** and around **75 minutes** with reading time. Sites are arranged for walkability rather than chronology — the story moves between the 1740s and the 2020s, and the City has always carried both.\n\nThe walk crosses a deliberate range of stop kinds: a private house (Dr Johnson's), an institutional yard (Guildhall), a quiet street (Aldermanbury), three centres of modern finance (Bank of England, Royal Exchange, Lloyd's), an active parish church (St Mary Woolnoth), and an open neighbourhood (Aldgate). Together they argue that Black London and the City have never been separable.\n\nMost stops are step-free and visible from the street; St Mary Woolnoth has steps to the nave but is otherwise accessible, and Guildhall Yard is paved and open.",
+        "themes": ["abolition", "civic-life", "literature", "trade"],
+        "stops": [
+          {
+            "order": 1,
+            "site_slug": "francis-barber-johnson-house",
+            "stop_note_md": "**Start.** Take Chancery Lane (Central) or City Thameslink to begin. Gough Square is a quiet courtyard north of Fleet Street — Dr Johnson's House is on its west side. Francis Barber lived here from 1752 and inherited from Johnson in 1784."
+          },
+          {
+            "order": 2,
+            "site_slug": "aldermanbury-anti-slavery-society-mary-prince",
+            "stop_note_md": "Walk east along Fleet Street, past St Paul's via Cheapside, then turn north onto Aldermanbury. In November 1828 Mary Prince walked into the Anti-Slavery Society office on this street and began the testimony that became the 1831 *History of Mary Prince*."
+          },
+          {
+            "order": 3,
+            "site_slug": "guildhall-revealing-the-citys-past",
+            "stop_note_md": "Cross into Guildhall Yard. Inside the Great Hall, the statues of Beckford and Cass now stand alongside the plaques unveiled in 2024 as part of *Revealing the City's Past*."
+          },
+          {
+            "order": 4,
+            "site_slug": "bank-of-england-slavery-and-the-bank",
+            "stop_note_md": "Walk south from Guildhall via King Street and Old Jewry, arriving at the Bank junction. The Bank of England Museum entrance is on Bartholomew Lane; *Slavery & the Bank* research has reshaped the permanent display."
+          },
+          {
+            "order": 5,
+            "site_slug": "royal-exchange-equiano-bookseller",
+            "stop_note_md": "Cross to the Royal Exchange — Equiano sold the *Interesting Narrative* through Taylor and Co. at the South Arch in 1789. The current building is the third on this site; the colonnade and the trade it served are continuous."
+          },
+          {
+            "order": 6,
+            "site_slug": "st-mary-woolnoth-newton-equiano",
+            "stop_note_md": "A short walk south to Lombard Street brings you to St Mary Woolnoth — John Newton's pulpit from 1780 to 1807, and the address from which *Thoughts upon the African Slave Trade* (1788) went to every MP."
+          },
+          {
+            "order": 7,
+            "site_slug": "lloyds-of-london-zong-apology",
+            "stop_note_md": "Continue east along Cornhill and Leadenhall Street; the inside-out Rogers building on Lime Street is Lloyd's of London — global hub of marine insurance for slave-trading voyages, including the *Zong* (1781), and one of the first British institutions to formally apologise (2020)."
+          },
+          {
+            "order": 8,
+            "site_slug": "olaudah-equiano-riding-house",
+            "stop_note_md": "**End.** Walk east to the Aldgate area — Equiano lived at several addresses around here in the 1780s and 1790s. Aldgate Underground (Circle/Metropolitan) is the nearest finish point."
+          }
+        ],
+        "start": {
+          "name": "Chancery Lane Underground",
+          "address": "Chancery Lane (Central line), London EC4A"
+        },
+        "end": {
+          "name": "Aldgate Underground",
+          "address": "Aldgate (Circle/Metropolitan lines), London EC3N"
+        },
+        "distance_m": 2700,
+        "duration_min": 75,
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-13"
+        },
+        "status": "draft",
+        "license": "CC-BY-4.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "themes": [
+    { "slug": "abolition",          "label": "Abolition" },
+    { "slug": "literature",         "label": "Literature" },
+    { "slug": "music",              "label": "Music" },
+    { "slug": "civic-life",         "label": "Civic life" },
+    { "slug": "medicine",           "label": "Medicine & nursing" },
+    { "slug": "religion",           "label": "Religion" },
+    { "slug": "performance",        "label": "Theatre & performance" },
+    { "slug": "theatre",            "label": "Theatre venue" },
+    { "slug": "visual-art",         "label": "Visual art" },
+    { "slug": "panafricanism",      "label": "Pan-Africanism" },
+    { "slug": "windrush",           "label": "Windrush & post-war" },
+    { "slug": "sport",              "label": "Sport" },
+    { "slug": "labour-movement",    "label": "Labour movement" },
+    { "slug": "caribbean-diaspora", "label": "Caribbean diaspora" },
+    { "slug": "african-diaspora",   "label": "African diaspora" },
+    { "slug": "trade",              "label": "Trade & commerce" },
+    { "slug": "education",          "label": "Education" }
+  ],
+  "eras": [
+    { "slug": "tudor-stuart", "label": "Tudor & Stuart",        "start": 1485, "end": 1714 },
+    { "slug": "georgian",     "label": "Georgian",              "start": 1714, "end": 1837 },
+    { "slug": "victorian",    "label": "Victorian",             "start": 1837, "end": 1901 },
+    { "slug": "edwardian",    "label": "Edwardian & interwar",  "start": 1901, "end": 1939 },
+    { "slug": "wartime",      "label": "Wartime",               "start": 1939, "end": 1945 },
+    { "slug": "post-war",     "label": "Post-war / Windrush",   "start": 1945, "end": 1979 },
+    { "slug": "modern",       "label": "Modern",                "start": 1979, "end": 2099 }
+  ],
+  "cuisines": [
+    { "slug": "caribbean",     "label": "Caribbean" },
+    { "slug": "jamaican",      "label": "Jamaican" },
+    { "slug": "trinidadian",   "label": "Trinidadian" },
+    { "slug": "guyanese",      "label": "Guyanese" },
+    { "slug": "west-african",  "label": "West African" },
+    { "slug": "nigerian",      "label": "Nigerian" },
+    { "slug": "ghanaian",      "label": "Ghanaian" },
+    { "slug": "senegalese",    "label": "Senegalese" },
+    { "slug": "ethiopian",     "label": "Ethiopian / Eritrean" },
+    { "slug": "somali",        "label": "Somali" },
+    { "slug": "south-african", "label": "South African" }
+  ],
+  "kinds": ["plaque", "building", "area", "memorial", "burial", "institution", "event_site"],
+  "boroughs": [
+    "City of London", "Westminster", "Camden", "Islington", "Hackney",
+    "Tower Hamlets", "Southwark", "Lambeth", "Wandsworth", "Lewisham",
+    "Greenwich", "Newham", "Brent", "Haringey", "Kensington and Chelsea",
+    "Hammersmith and Fulham", "Croydon"
+  ]
+}
