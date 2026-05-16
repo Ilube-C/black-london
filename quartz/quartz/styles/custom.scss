@@ -26,15 +26,35 @@ body[data-slug="index"] .center .page-header .graph {
   margin-bottom: 1.5rem;
   & > h3 { display: none; }
   & > .graph-outer {
-    height: min(80vh, 880px);
+    height: min(85vh, 980px);
     border: 1px solid var(--lightgray);
     border-radius: 12px;
     box-shadow: 0 12px 36px rgba(0, 0, 0, 0.25);
   }
 }
 
-// On the homepage, the right-sidebar graph would duplicate the hero — hide it.
-body[data-slug="index"] .sidebar.right .graph { display: none; }
+// On the homepage, drop the right sidebar entirely AND collapse its grid
+// column so the centre fills the remaining width. Without this the graph is
+// only as wide as the readable text column (~768 px).
+body[data-slug="index"] {
+  & .sidebar.right { display: none !important; }
+  & #quartz-body {
+    @media all and (min-width: 1200px) {
+      grid-template-columns: 320px auto !important;
+      grid-template-areas:
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer" !important;
+    }
+  }
+  // Let the centre column expand to the full available width — the default
+  // article CSS clamps it for readability, which we don't want for the hero.
+  & .center,
+  & .center > article,
+  & .center > .page-header {
+    max-width: 100% !important;
+  }
+}
 
 // On wide screens, widen the right sidebar so the graph isn't squashed.
 @media all and (min-width: 1200px) {
