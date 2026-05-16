@@ -4,7 +4,8 @@
 
 // Make the right-sidebar Graph the main attraction. Pull it up to the top
 // of the right column and give it real estate.
-.graph {
+// Sidebar graph (right column) — generous on every page.
+.sidebar.right .graph {
   & > h3 {
     font-family: var(--headerFont);
     font-size: 1.05rem;
@@ -12,12 +13,28 @@
     margin-bottom: 0.5rem;
   }
   & > .graph-outer {
-    height: min(70vh, 720px);
+    height: min(60vh, 620px);
     border: 1px solid var(--lightgray);
     border-radius: 10px;
     box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
   }
 }
+
+// Homepage hero: the graph injected into beforeBody on index becomes the
+// dominant element on the page. Body has data-slug="index", so target precisely.
+body[data-slug="index"] .center .page-header .graph {
+  margin-bottom: 1.5rem;
+  & > h3 { display: none; }
+  & > .graph-outer {
+    height: min(80vh, 880px);
+    border: 1px solid var(--lightgray);
+    border-radius: 12px;
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.25);
+  }
+}
+
+// On the homepage, the right-sidebar graph would duplicate the hero — hide it.
+body[data-slug="index"] .sidebar.right .graph { display: none; }
 
 // On wide screens, widen the right sidebar so the graph isn't squashed.
 @media all and (min-width: 1200px) {

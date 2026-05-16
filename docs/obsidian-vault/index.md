@@ -14,10 +14,10 @@ Click the **graph icon** in the top-right of any page (the small circular-networ
 
 ## Where to start
 
-- [[All Sites|21 sites]] across London — coordinates, sources, hero image, status.
-- [[All People|12 people]] — heroes of the project; each links to the sites that touch their life.
-- [[All Walks|1 curated walk]] — an ordered route of stops, with directions per stop.
-- [[All Events|16 upcoming events]] and [[All Restaurants|5 Black-history-relevant restaurants]].
+- [[_All Sites|21 sites]] across London — coordinates, sources, hero image, status.
+- [[_All People|12 people]] — heroes of the project; each links to the sites that touch their life.
+- [[_All Walks|1 curated walk]] — an ordered route of stops, with directions per stop.
+- [[_All Events|16 upcoming events]] and [[_All Restaurants|5 Black-history-relevant restaurants]].
 
 ## About this site
 

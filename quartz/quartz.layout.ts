@@ -17,6 +17,34 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    // On the homepage, lead with a huge interactive graph. The right-sidebar
+    // graph is still there for any other note as the user explores.
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: -1,
+          scale: 0.95,
+          repelForce: 0.9,
+          centerForce: 0.3,
+          linkDistance: 60,
+          fontSize: 0.7,
+          opacityScale: 1,
+          focusOnHover: true,
+          showTags: false,
+        },
+        globalGraph: {
+          depth: -1,
+          scale: 1.0,
+          repelForce: 0.8,
+          linkDistance: 60,
+          fontSize: 0.7,
+          focusOnHover: true,
+          showTags: false,
+          enableRadial: false,
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
