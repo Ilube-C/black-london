@@ -15,6 +15,7 @@
     "build:data": "node scripts/validate.mjs && node scripts/build-index.mjs",
     "build:obsidian": "node scripts/build-obsidian-vault.mjs",
     "build:og": "node scripts/build-og-image.mjs",
+    "build:graph": "npm run build:obsidian && cd quartz && npx quartz build --output public",
     "vault": "node scripts/vault.mjs"
   },
   "dependencies": {

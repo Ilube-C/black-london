@@ -12,3 +12,8 @@ quartz/.quartz-cache/
 *.log
 .cache/
 /tmp/
+
+# Obsidian workspace state changes every time the app is opened — noisy in git.
+# The graph colour config (graph.json) is kept so the vault is consistent.
+docs/obsidian-vault/.obsidian/workspace.json
+docs/obsidian-vault/.obsidian/workspaces.json
