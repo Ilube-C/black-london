@@ -294,6 +294,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
             100,
           ),
         )
+      } else if (hoveredNodeId !== null && focusOnHover && n.active) {
+        // Connected to the focused node — show its label too, at normal scale.
+        tweenGroup.add(
+          new Tweened<Text>(n.label).to(
+            {
+              alpha: 1,
+              scale: { x: defaultScale, y: defaultScale },
+            },
+            100,
+          ),
+        )
       } else {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(

@@ -6,62 +6,65 @@
 // of the right column and give it real estate.
 // The graph-container has no default height, so it falls back to 250 px in
 // the renderer regardless of how tall we make .graph-outer. Force it to
-// fill its parent for both sidebar and hero placements.
+// fill its parent.
 .graph-outer > .graph-container {
   width: 100% !important;
   height: 100% !important;
 }
 
-// Sidebar graph (right column) — generous on every page.
-.sidebar.right .graph {
-  & > h3 {
-    font-family: var(--headerFont);
-    font-size: 1.05rem;
-    letter-spacing: 0.02em;
-    margin-bottom: 0.5rem;
-  }
-  & > .graph-outer {
-    height: min(60vh, 620px);
-    border: 1px solid var(--lightgray);
-    border-radius: 10px;
-    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
-  }
-}
-
-// Homepage hero: the graph injected into beforeBody on index becomes the
-// dominant element on the page. Body has data-slug="index", so target precisely.
-body[data-slug="index"] .center .page-header .graph {
-  margin-bottom: 1.5rem;
+// Hero graph on every page. Big, prominent, front-and-centre. Sized so it
+// stays visible without scrolling on a typical laptop screen.
+.center .page-header .graph {
+  margin: 1rem 0 1.5rem;
   & > h3 { display: none; }
   & > .graph-outer {
-    height: min(85vh, 980px);
+    height: min(70vh, 720px);
+    min-height: 420px;
     border: 1px solid var(--lightgray);
     border-radius: 12px;
-    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.18);
   }
 }
 
-// On the homepage, drop the right sidebar entirely AND collapse its grid
-// column so the centre fills the remaining width. Without this the graph is
-// only as wide as the readable text column (~768 px).
-body[data-slug="index"] {
-  & .sidebar.right { display: none !important; }
-  & #quartz-body {
-    @media all and (min-width: 1200px) {
-      grid-template-columns: 320px auto !important;
-      grid-template-areas:
-        "grid-sidebar-left grid-header"
-        "grid-sidebar-left grid-center"
-        "grid-sidebar-left grid-footer" !important;
-    }
+// The graph appears on every page now, so we drop the right-sidebar copy
+// and collapse the right grid column so the centre + graph have full width.
+.sidebar.right .graph { display: none; }
+@media all and (min-width: 1200px) {
+  #quartz-body {
+    grid-template-columns: 320px auto !important;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer" !important;
   }
-  // Let the centre column expand to the full available width — the default
-  // article CSS clamps it for readability, which we don't want for the hero.
-  & .center,
-  & .center > article,
-  & .center > .page-header {
-    max-width: 100% !important;
+  .sidebar.right {
+    grid-area: grid-center;
+    align-self: start;
+    margin-top: 1rem;
+    padding: 0 2rem;
   }
+}
+// Let the centre expand to the full width of its grid cell.
+.center,
+.center > article,
+.center > .page-header {
+  max-width: 100% !important;
+}
+
+// Mobile: stack title, graph, and body content with breathing room. Smaller
+// graph on phones so the body info beneath is reachable without much scroll.
+@media all and (max-width: 800px) {
+  .center .page-header .graph > .graph-outer {
+    height: 55vh;
+    min-height: 360px;
+  }
+  .center .page-header {
+    margin-top: 0.5rem;
+  }
+  article {
+    padding-top: 0.5rem;
+  }
+  h1, h2, h3 { line-height: 1.2; }
 }
 
 // On wide screens, widen the right sidebar so the graph isn't squashed.

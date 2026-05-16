@@ -17,34 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    // On the homepage, lead with a huge interactive graph. The right-sidebar
-    // graph is still there for any other note as the user explores.
-    Component.ConditionalRender({
-      component: Component.Graph({
-        localGraph: {
-          depth: -1,
-          scale: 0.95,
-          repelForce: 0.9,
-          centerForce: 0.3,
-          linkDistance: 60,
-          fontSize: 0.7,
-          opacityScale: 1,
-          focusOnHover: true,
-          showTags: false,
-        },
-        globalGraph: {
-          depth: -1,
-          scale: 1.0,
-          repelForce: 0.8,
-          linkDistance: 60,
-          fontSize: 0.7,
-          focusOnHover: true,
-          showTags: false,
-          enableRadial: false,
-        },
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
+    // Title + small meta sit at the top of every page — consistent header.
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
@@ -52,6 +25,32 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Then the big interactive graph, present on EVERY page so the user's
+    // sense of place doesn't shift when they click a node — only the body
+    // info beneath the graph changes.
+    Component.Graph({
+      localGraph: {
+        depth: -1,
+        scale: 0.9,
+        repelForce: 0.9,
+        centerForce: 0.3,
+        linkDistance: 60,
+        fontSize: 0.7,
+        opacityScale: 1,
+        focusOnHover: true,
+        showTags: false,
+      },
+      globalGraph: {
+        depth: -1,
+        scale: 1.0,
+        repelForce: 0.8,
+        linkDistance: 60,
+        fontSize: 0.7,
+        focusOnHover: true,
+        showTags: false,
+        enableRadial: false,
+      },
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -69,30 +68,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        // Treat the sidebar graph as a *neighborhood-of-everything* viewer:
-        // show all nodes (depth -1) at a comfortable scale, with hover-focus
-        // highlighting that mirrors the click-to-explore behaviour we want.
-        depth: -1,
-        scale: 0.7,
-        repelForce: 0.7,
-        linkDistance: 50,
-        fontSize: 0.55,
-        focusOnHover: true,
-        showTags: false,
-      },
-      globalGraph: {
-        depth: -1,
-        scale: 1.0,
-        repelForce: 0.7,
-        linkDistance: 50,
-        fontSize: 0.65,
-        focusOnHover: true,
-        showTags: false,
-        enableRadial: false,
-      },
-    }),
+    // Hero graph is at the top of every page now, so the right sidebar
+    // shrinks to just TOC + backlinks. No second graph here.
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
