@@ -1,3 +1,45 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Black London — graph site overrides.
+
+// Make the right-sidebar Graph the main attraction. Pull it up to the top
+// of the right column and give it real estate.
+.graph {
+  & > h3 {
+    font-family: var(--headerFont);
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.5rem;
+  }
+  & > .graph-outer {
+    height: min(70vh, 720px);
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
+  }
+}
+
+// On wide screens, widen the right sidebar so the graph isn't squashed.
+@media all and (min-width: 1200px) {
+  .page {
+    & > #quartz-body {
+      & > .sidebar.right {
+        width: clamp(360px, 36vw, 520px) !important;
+        margin-right: 0 !important;
+      }
+      & > .center {
+        flex: 1 1 0%;
+      }
+    }
+  }
+}
+
+// Subtle: hide MOC files (titles starting with underscore) from the explorer
+// listing so the navigation looks like a curated set, not a debug dump.
+.explorer ul.overflow li[data-folderpath] > ul > li > a[data-for$="_All People"],
+.explorer ul.overflow li[data-folderpath] > ul > li > a[data-for$="_All Sites"],
+.explorer ul.overflow li[data-folderpath] > ul > li > a[data-for$="_All Walks"],
+.explorer ul.overflow li[data-folderpath] > ul > li > a[data-for$="_All Events"],
+.explorer ul.overflow li[data-folderpath] > ul > li > a[data-for$="_All Restaurants"] {
+  display: none;
+}

@@ -41,7 +41,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        // Treat the sidebar graph as a *neighborhood-of-everything* viewer:
+        // show all nodes (depth -1) at a comfortable scale, with hover-focus
+        // highlighting that mirrors the click-to-explore behaviour we want.
+        depth: -1,
+        scale: 0.7,
+        repelForce: 0.7,
+        linkDistance: 50,
+        fontSize: 0.55,
+        focusOnHover: true,
+        showTags: false,
+      },
+      globalGraph: {
+        depth: -1,
+        scale: 1.0,
+        repelForce: 0.7,
+        linkDistance: 50,
+        fontSize: 0.65,
+        focusOnHover: true,
+        showTags: false,
+        enableRadial: false,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
