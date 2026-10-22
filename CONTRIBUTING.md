@@ -1,5 +1,15 @@
 # Contributing — Black London
 
+## Code access
+
+1. [Request access](https://github.com/Ilube-C/black-london/issues/new?template=access.yml).
+2. Accept the invite, clone, branch off `main`.
+3. Push your branch and open a pull request. Christian reviews and merges.
+
+Tasks: the Trello board (ask in Discord for an invite).
+
+## Adding data
+
 Two contribution paths, depending on your comfort with git.
 
 ## Path A — spreadsheet (recommended for historians)
@@ -20,7 +30,7 @@ the controlled vocabularies in `public/data/themes.json` and `people.json`.
 
 ## Path B — direct PR (archive maintainers)
 
-1. Fork the repo, branch off `main`.
+1. Branch off `main` (or fork, if you don't have access yet).
 2. Edit `public/data/sites.geojson` (or `events.geojson` /
    `restaurants.geojson`) directly. Each feature must satisfy the schemas in
    `schemas/`.

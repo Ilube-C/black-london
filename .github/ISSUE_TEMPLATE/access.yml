@@ -1,0 +1,28 @@
+name: Request code access
+description: Get push access to make branches.
+title: "Access: "
+labels: [access]
+body:
+  - type: input
+    id: discord
+    attributes:
+      label: Discord name
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      multiple: true
+      options:
+        - Data engineering
+        - Front-end development
+        - UI/UX design
+        - Mapping
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: task
+    attributes:
+      label: First ticket you'd like (optional)
