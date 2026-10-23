@@ -1,0 +1,36 @@
+name: openplaques-check
+# Weekly: compares Nubian Jak plaques on Open Plaques with our snapshot and
+# opens (or comments on) an issue labelled `openplaques` when anything changed.
+on:
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: node scripts/adapters/openplaques.mjs check --report report.md
+      - name: Open or update issue
+        if: hashFiles('report.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create openplaques --color 5319e7 --description "Open Plaques data changed" --force
+          issue=$(gh issue list --label openplaques --state open --json number --jq '.[0].number')
+          if [ -n "$issue" ]; then
+            gh issue comment "$issue" --body-file report.md
+          else
+            gh issue create --title "Nubian Jak plaques updated on Open Plaques" --label openplaques --assignee Ilube-C --body-file report.md
+          fi

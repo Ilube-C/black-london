@@ -1,25 +1,25 @@
 {
-  "version": "2026.05.16-1",
+  "version": "2026.10.23-1",
   "counts": {
-    "sites": 21,
+    "sites": 72,
     "events": 16,
     "restaurants": 5,
     "people": 12,
     "walks": 1
   },
   "bbox": [
-    -0.2245,
-    51.4618,
-    0.0028,
-    51.55115
+    -0.32536,
+    51.37004,
+    0.00372,
+    51.60606
   ],
   "default_view": {
     "center": [
-      -0.11085,
-      51.506474999999995
+      -0.16082,
+      51.48805
     ],
     "zoom": 11
   },
-  "generated_at": "2026-05-16T00:59:08.461Z",
-  "hash": "sha256:ab336a1bcc91d6a02a7c8f922ed3f25e06a3a57e02a20f188fe4a8037c9e7fa1"
+  "generated_at": "2026-10-23T16:51:21.996Z",
+  "hash": "sha256:1fab2675db93633bebb0f016dc02329fdc88c13ba91c5df2acff5ecf5805b3e9"
 }

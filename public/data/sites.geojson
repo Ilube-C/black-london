@@ -66,7 +66,8 @@
           }
         ],
         "external_ids": {
-          "wikidata": "Q706854"
+          "wikidata": "Q706854",
+          "openplaques": "2044"
         },
         "accessibility": {
           "step_free": true,
@@ -741,7 +742,9 @@
             "citation": "Cohen, Abner. *Masquerade Politics: Explorations in the Structure of Urban Cultural Movements*. University of California Press, 1993."
           }
         ],
-        "external_ids": {},
+        "external_ids": {
+          "openplaques": "7566"
+        },
         "accessibility": {
           "step_free": true,
           "viewable_from_street": true,
@@ -1543,6 +1546,2923 @@
         },
         "status": "draft",
         "license": "CC-BY-4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12928,
+          51.52072
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0003",
+        "slug": "mary-prince-senate-house",
+        "name": "Mary Prince — Senate House",
+        "kind": "plaque",
+        "summary": "Mary Prince 1788-1833 abolitionist and author lived in a house near this site 1829",
+        "borough": "Camden",
+        "address": "Senate House, University of London, Malet Street",
+        "period": {
+          "start_year": 1788,
+          "end_year": 1833
+        },
+        "themes": [
+          "literature",
+          "abolition"
+        ],
+        "people": [
+          "mary-prince"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Prince_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Prince_plaque.jpg?width=250",
+            "alt": "Photograph of the Mary Prince bronze plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Mary_Prince_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Mary Prince bronze plaque",
+            "url": "https://openplaques.org/plaques/2067"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "2067"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2078,
+          51.55092
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0004",
+        "slug": "learie-constantine-kendal-court",
+        "name": "Learie Constantine — Kendal Court",
+        "kind": "plaque",
+        "summary": "Lord Learie Constantine 1901-1971, cricketer, barrister, politician and statesman lived here 1960-1971",
+        "borough": "Camden",
+        "address": "Kendal Court, Shoot-Up Hill, Brent",
+        "period": {
+          "start_year": 1901,
+          "end_year": 1971
+        },
+        "themes": [
+          "sport",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Learie_Constantine_1901-1971,_cricketer,_barrister,_politician_and_statesman_lived_here_1960-1971.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Learie_Constantine_1901-1971,_cricketer,_barrister,_politician_and_statesman_lived_here_1960-1971.jpg?width=250",
+            "alt": "Photograph of the Learie Constantine blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Lord_Learie_Constantine_1901-1971,_cricketer,_barrister,_politician_and_statesman_lived_here_1960-1971.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Learie Constantine blue plaque",
+            "url": "https://openplaques.org/plaques/3732"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "3732"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13259,
+          51.52154
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0005",
+        "slug": "bob-marley-34-ridgmount-gardens",
+        "name": "Bob Marley — 34 Ridgmount Gardens",
+        "kind": "plaque",
+        "summary": "Robert Nesta Marley 1945-81 singer, lyricist and Rastafarian icon lived here 1972",
+        "borough": "Camden",
+        "address": "34 Ridgmount Gardens, Camden",
+        "period": {
+          "start_year": 1945,
+          "end_year": 1981
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Marley_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Marley_plaque.jpg?width=250",
+            "alt": "Photograph of the Bob Marley blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Bob_Marley_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Bob Marley blue plaque",
+            "url": "https://openplaques.org/plaques/4180"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "4180"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24329,
+          51.4971
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0002",
+        "slug": "connie-mark-mary-seacole-house",
+        "name": "Connie Mark — Mary Seacole House",
+        "kind": "plaque",
+        "summary": "Constance Winifred MacDonald aka ‘Connie Mark’ 1923–2007, community activist, and founder of the Mary Seacole Memorial Association, lived here 2005-2007",
+        "borough": "Hammersmith and Fulham",
+        "address": "Mary Seacole House, 24 Invermead Place, Hammersmith",
+        "period": {
+          "start_year": 1923,
+          "end_year": 2007
+        },
+        "themes": [
+          "civic-life"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Constance Winifred MacDonald blue plaque",
+            "url": "https://openplaques.org/plaques/4182"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "4182"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20703,
+          51.5232
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0002",
+        "slug": "kelso-cochrane-36-golborne-road",
+        "name": "Kelso Cochrane — 36 Golborne Road",
+        "kind": "plaque",
+        "summary": "Kelso Cochrane 1936-1959 Antiguan carpenter and student, was fatally wounded on this site. His death outraged and unified the community, leading to the lasting cosmopolitan tradition in this area of North Kensington",
+        "borough": "Kensington and Chelsea",
+        "address": "36 Golborne Road",
+        "period": {
+          "start_year": 1936,
+          "end_year": 1959
+        },
+        "themes": [
+          "education",
+          "civic-life",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelso_Cochrane_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelso_Cochrane_plaque.jpg?width=250",
+            "alt": "Photograph of the Kelso Cochrane blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Kelso_Cochrane_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Kelso Cochrane blue plaque",
+            "url": "https://openplaques.org/plaques/4186"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "4186"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21181,
+          51.5193
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0003",
+        "slug": "amy-ashwood-garvey-1-bassett-road",
+        "name": "Amy Ashwood Garvey — 1 Bassett Road",
+        "kind": "plaque",
+        "summary": "Amy Ashwood Garvey 1897-1969 feminist, human rights campaigner, Pan-Africanist and first wife of Marcus Garvey lived here between 1934 and 1960",
+        "borough": "Kensington and Chelsea",
+        "address": "1 Bassett Road, Ladbroke Grove",
+        "period": {
+          "start_year": 1897,
+          "end_year": 1969
+        },
+        "themes": [
+          "civic-life",
+          "panafricanism",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Ashwood_Garvey_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy_Ashwood_Garvey_plaque.jpg?width=250",
+            "alt": "Photograph of the Amy Ashwood Garvey blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Amy_Ashwood_Garvey_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Amy Ashwood Garvey blue plaque",
+            "url": "https://openplaques.org/plaques/4188"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "4188"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11116,
+          51.5325
+        ]
+      },
+      "properties": {
+        "id": "site_islington_0001",
+        "slug": "anc-london-headquarters-28-penton-street",
+        "name": "ANC London headquarters — 28 Penton Street",
+        "kind": "plaque",
+        "summary": "London Headquarters of the African National Congress 1978–1994",
+        "borough": "Islington",
+        "address": "28 Penton Street, Islington",
+        "period": {
+          "start_year": 1978,
+          "end_year": 1994
+        },
+        "themes": [
+          "african-diaspora",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — London Headquarters of the African National Congress green plaque",
+            "url": "https://openplaques.org/plaques/4190"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "4190"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03036,
+          51.47579
+        ]
+      },
+      "properties": {
+        "id": "site_lewisham_0002",
+        "slug": "new-cross-fire-new-cross-road",
+        "name": "New Cross Fire — New Cross Road",
+        "kind": "plaque",
+        "summary": "New Cross Fire took place at this site on January 18, 1981 claiming the lives of 14 young people",
+        "borough": "Lewisham",
+        "address": "New Cross Road, New Cross",
+        "period": {
+          "start_year": 1981,
+          "end_year": 1981
+        },
+        "themes": [
+          "civic-life",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Cross_Fire_took_place_at_this_site_on_January_18,_1981_claiming_the_lives_of_14_young_people.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Cross_Fire_took_place_at_this_site_on_January_18,_1981_claiming_the_lives_of_14_young_people.jpg?width=250",
+            "alt": "Photograph of the New Cross Fire blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:New_Cross_Fire_took_place_at_this_site_on_January_18,_1981_claiming_the_lives_of_14_young_people.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — New Cross Fire blue plaque",
+            "url": "https://openplaques.org/plaques/6304"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "6304"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11468,
+          51.4636
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0003",
+        "slug": "rudy-narayan-413-brixton-road",
+        "name": "Rudy Narayan — 413 Brixton Road",
+        "kind": "plaque",
+        "summary": "Rudy Narayan 1938–1998 barrister, civil rights activist, community champion and voice for the voiceless practised law here 1987-1994",
+        "borough": "Lambeth",
+        "address": "413 Brixton Road",
+        "period": {
+          "start_year": 1938,
+          "end_year": 1998
+        },
+        "themes": [
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudy_Narayan_1938%E2%80%931998_barrister,_civil_rights_activist,_community_champion_and_voice_for_the_voiceless_practised_law_here_1987-1994.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudy_Narayan_1938–1998_barrister,_civil_rights_activist,_community_champion_and_voice_for_the_voiceless_practised_law_here_1987-1994.jpg?width=250",
+            "alt": "Photograph of the Rudy Narayan blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rudy_Narayan_1938%E2%80%931998_barrister,_civil_rights_activist,_community_champion_and_voice_for_the_voiceless_practised_law_here_1987-1994.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Rudy Narayan blue plaque",
+            "url": "https://openplaques.org/plaques/7277"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "7277"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16156,
+          51.4732
+        ]
+      },
+      "properties": {
+        "id": "site_wandsworth_0001",
+        "slug": "john-archer-214-battersea-park-road",
+        "name": "John Archer — 214 Battersea Park Road",
+        "kind": "plaque",
+        "summary": "John Richard Archer 1863-1932 Mayor of Battersea 1913-1914 (first black London mayor) had a photography shop and lived here 1918-1932",
+        "borough": "Wandsworth",
+        "address": "214 Battersea Park Road",
+        "period": {
+          "start_year": 1863,
+          "end_year": 1932
+        },
+        "themes": [
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Richard_Archer,_Mayor_of_Battersea_1913-14._Plaque,_Battersea_Park_Road.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Richard_Archer,_Mayor_of_Battersea_1913-14._Plaque,_Battersea_Park_Road.jpg?width=250",
+            "alt": "Photograph of the John Archer blue plaque",
+            "credit": "Colin McLaughlin / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Colin McLaughlin",
+            "source_url": "https://commons.wikimedia.org/wiki/File:John_Richard_Archer,_Mayor_of_Battersea_1913-14._Plaque,_Battersea_Park_Road.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — John Archer blue plaque",
+            "url": "https://openplaques.org/plaques/7279"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "7279"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13454,
+          51.53314
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0006",
+        "slug": "george-padmore-22-cranleigh-street",
+        "name": "George Padmore — 22 Cranleigh Street",
+        "kind": "plaque",
+        "summary": "George Padmore 1903-1959 aka Malcolm Ivan Meredith Nurse international activist and renowned Pan Africanist lived here 1941-1957",
+        "borough": "Camden",
+        "address": "22 Cranleigh Street",
+        "period": {
+          "start_year": 1903,
+          "end_year": 1959
+        },
+        "themes": [
+          "civic-life",
+          "african-diaspora",
+          "panafricanism",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Padmore_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Padmore_plaque.jpg?width=250",
+            "alt": "Photograph of the George Padmore blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:George_Padmore_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — George Padmore blue plaque",
+            "url": "https://openplaques.org/plaques/7449"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "7449"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20666,
+          51.51823
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0004",
+        "slug": "rhaune-laslett-obrien-portobello-road",
+        "name": "Rhaune Laslett-O'Brien — Portobello Road",
+        "kind": "plaque",
+        "summary": "Rhaune Laslett-O'Brien 1919-2002 through her vision and spirit the Notting Hill Street Festival was conceived in 1959. It later evolved into Notting Hill Carnival",
+        "borough": "Kensington and Chelsea",
+        "address": "corner of Tavistock Square and Portobello Road",
+        "period": {
+          "start_year": 1919,
+          "end_year": 2002
+        },
+        "themes": [
+          "caribbean-diaspora",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhaune_Laslett-O'Brien_(Nubian_Jak).jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhaune_Laslett-O'Brien_(Nubian_Jak).jpg?width=250",
+            "alt": "Photograph of the Rhaune Laslett-O'Brien blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Rhaune_Laslett-O'Brien_(Nubian_Jak).jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Rhaune Laslett-O'Brien blue plaque",
+            "url": "https://openplaques.org/plaques/7567"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "7567"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11147,
+          51.37004
+        ]
+      },
+      "properties": {
+        "id": "site_croydon_0001",
+        "slug": "samuel-coleridge-taylor-6-st-leonards-road",
+        "name": "Samuel Coleridge-Taylor — 6 St Leonards Road",
+        "kind": "plaque",
+        "summary": "Samuel Coleridge-Taylor 1875-1912 composer lived and died here",
+        "borough": "Croydon",
+        "address": "6 St Leonards Road",
+        "period": {
+          "start_year": 1875,
+          "end_year": 1912
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [
+          "samuel-coleridge-taylor"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Coleridge-Taylor_Croydon_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Coleridge-Taylor_Croydon_plaque.jpg?width=250",
+            "alt": "Photograph of the Samuel Coleridge-Taylor blue plaque",
+            "credit": "Marc Fresko / Wikimedia Commons",
+            "license": "CC BY-SA 3.0",
+            "rights_holder": "Marc Fresko",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Samuel_Coleridge-Taylor_Croydon_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Samuel Coleridge-Taylor blue plaque",
+            "url": "https://openplaques.org/plaques/12018"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "12018"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25688,
+          51.54387
+        ]
+      },
+      "properties": {
+        "id": "site_brent_0001",
+        "slug": "dennis-brown-55-hazeldean-road",
+        "name": "Dennis Brown — 55 Hazeldean Road",
+        "kind": "plaque",
+        "summary": "Dennis Emmanuel Brown \"The Crown Prince of Reggae\" 1957-1999 singer, lyricist and musician lived here between 1993-1999",
+        "borough": "Brent",
+        "address": "55 Hazeldean Road, Harlesden",
+        "period": {
+          "start_year": 1957,
+          "end_year": 1999
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Emmanuel_Brown_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis_Emmanuel_Brown_plaque.jpg?width=250",
+            "alt": "Photograph of the Dennis Emmanuel Brown blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dennis_Emmanuel_Brown_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Dennis Emmanuel Brown blue plaque",
+            "url": "https://openplaques.org/plaques/12112"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "12112"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20634,
+          51.5181
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0005",
+        "slug": "leslie-palmer-70-tavistock-road",
+        "name": "Leslie Palmer — 70 Tavistock Road",
+        "kind": "plaque",
+        "summary": "Leslie Palmer 1943 Pioneered the template for the modern Notting Hill Carnival, Helped transform a local community carnival into a nationally recognised event.",
+        "borough": "Kensington and Chelsea",
+        "address": "70 Tavistock Road",
+        "period": {
+          "start_year": 1943,
+          "end_year": null
+        },
+        "themes": [
+          "civic-life",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leslie_Palmer_1943_Pioneered_the_template_for_the_modern_Notting_Hill_Carnival.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Leslie_Palmer_1943_Pioneered_the_template_for_the_modern_Notting_Hill_Carnival.jpg?width=250",
+            "alt": "Photograph of the Leslie Palmer blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Leslie_Palmer_1943_Pioneered_the_template_for_the_modern_Notting_Hill_Carnival.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Leslie Palmer blue plaque",
+            "url": "https://openplaques.org/plaques/31502"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "31502"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20605,
+          51.51826
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0006",
+        "slug": "russell-henderson-69-tavistock-road",
+        "name": "Russell Henderson — 69 Tavistock Road",
+        "kind": "plaque",
+        "summary": "Russell Henderson 1924 Musician and Pioneering Pan Artist, Led the first ever carnival parade on the streets of Notting Hill in 1965",
+        "borough": "Kensington and Chelsea",
+        "address": "69 Tavistock Road",
+        "period": {
+          "start_year": 1924,
+          "end_year": 2015
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell_Henderson_(Nubian_Jak).jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell_Henderson_(Nubian_Jak).jpg?width=250",
+            "alt": "Photograph of the Russell Henderson blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Russell_Henderson_(Nubian_Jak).jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Russell Henderson blue plaque",
+            "url": "https://openplaques.org/plaques/31503"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "31503"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06273,
+          51.60606
+        ]
+      },
+      "properties": {
+        "id": "site_haringey_0001",
+        "slug": "walter-tull-77-northumberland-park",
+        "name": "Walter Tull — 77 Northumberland Park",
+        "kind": "plaque",
+        "summary": "Walter Tull 1888-1918 pioneering footballer for Tottenham Hotspur and pioneering British Army Officer lived in a house on this site 1909-1910",
+        "borough": "Haringey",
+        "address": "77 Northumberland Park, Tottenham",
+        "period": {
+          "start_year": 1888,
+          "end_year": 1918
+        },
+        "themes": [
+          "sport"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Walter Tull blue plaque",
+            "url": "https://openplaques.org/plaques/32968"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "32968"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16461,
+          51.49185
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0007",
+        "slug": "frederick-douglass-5-whitehead-s-grove",
+        "name": "Frederick Douglass — 5 Whitehead's Grove",
+        "kind": "plaque",
+        "summary": "Frederick Douglass 1818-1895 American Social Reformer Author, Orator and Statesman stayed in a house on this site 1846",
+        "borough": "Kensington and Chelsea",
+        "address": "5 Whitehead's Grove",
+        "period": {
+          "start_year": 1818,
+          "end_year": 1895
+        },
+        "themes": [
+          "literature",
+          "abolition",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Douglass_1818-1895_American_Social_Reformer_Author,_Orator_and_Statesman_stayed_in_a_house_on_this_site_1846.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Douglass_1818-1895_American_Social_Reformer_Author,_Orator_and_Statesman_stayed_in_a_house_on_this_site_1846.jpg?width=250",
+            "alt": "Photograph of the Frederick Douglass blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_1818-1895_American_Social_Reformer_Author,_Orator_and_Statesman_stayed_in_a_house_on_this_site_1846.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Frederick Douglass blue plaque",
+            "url": "https://openplaques.org/plaques/33066"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "33066"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05066,
+          51.45761
+        ]
+      },
+      "properties": {
+        "id": "site_southwark_0003",
+        "slug": "frank-bates-19-hichisson-road",
+        "name": "Frank Bates — 19 Hichisson Road",
+        "kind": "plaque",
+        "summary": "Frank Bates 1889-1921 Vocalist and lead singer with pioneering jazz ensemble The Southern Syncopated Orchestra resided here 1918-1919",
+        "borough": "Southwark",
+        "address": "19 Hichisson Road",
+        "period": {
+          "start_year": 1889,
+          "end_year": 1921
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Bates_plaque.JPG?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Bates_plaque.JPG?width=250",
+            "alt": "Photograph of the Frank Bates blue plaque",
+            "credit": "Warren Bennett / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Warren Bennett",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Frank_Bates_plaque.JPG"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Frank Bates blue plaque",
+            "url": "https://openplaques.org/plaques/39857"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "39857"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11259,
+          51.4788
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0004",
+        "slug": "pete-robinson-8-crewdson-road",
+        "name": "Pete Robinson — 8 Crewdson Road",
+        "kind": "plaque",
+        "summary": "Pete Robinson 1888-1921 drummer and band leader with The SSO lived here 1915-1917",
+        "borough": "Lambeth",
+        "address": "8 Crewdson Road, the Oval",
+        "period": {
+          "start_year": 1888,
+          "end_year": 1921
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Pete Robinson blue plaque",
+            "url": "https://openplaques.org/plaques/39859"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "39859"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07236,
+          51.58791
+        ]
+      },
+      "properties": {
+        "id": "site_haringey_0002",
+        "slug": "bernie-grant-tottenham-old-town-hall",
+        "name": "Bernie Grant — Tottenham Old Town Hall",
+        "kind": "plaque",
+        "summary": "Bernie Grant 1944-2000 Trade Unionist, council leader, Member of Parliament and people's champion held legendary surgeries here 1987-2000",
+        "borough": "Haringey",
+        "address": "Tottenham Old Town Hall, Town Hall Approach",
+        "period": {
+          "start_year": 1944,
+          "end_year": 2000
+        },
+        "themes": [
+          "civic-life",
+          "labour-movement"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Bernie Grant blue plaque",
+            "url": "https://openplaques.org/plaques/40503"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "40503"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19839,
+          51.4903
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0008",
+        "slug": "arthur-wint-22-philbeach-gardens",
+        "name": "Arthur Wint — 22 Philbeach Gardens",
+        "kind": "plaque",
+        "summary": "Arthur Stanley Wint 1920-1992 RAF pilot, doctor & diplomat, Gold medal olympian lived at this address 1949-1960",
+        "borough": "Kensington and Chelsea",
+        "address": "22 Philbeach Gardens, Earls Court",
+        "period": {
+          "start_year": 1920,
+          "end_year": 1992
+        },
+        "themes": [
+          "sport",
+          "medicine"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Arthur Wint blue plaque",
+            "url": "https://openplaques.org/plaques/40504"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "40504"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14134,
+          51.52344
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0007",
+        "slug": "sidney-bechet-27-conway-street",
+        "name": "Sidney Bechet — 27 Conway Street",
+        "kind": "plaque",
+        "summary": "Sidney Bechet 1897-1959 New Orleans Jazz Pioneer Saxophonist & Clarinetist lived here 1922",
+        "borough": "Camden",
+        "address": "27 Conway Street, Fitzrovia",
+        "period": {
+          "start_year": 1897,
+          "end_year": 1959
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Bechet_1897-1959_New_Orleans_Jazz_Pioneer_Saxophonist_&_Clarinetist_lived_here_1922.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Bechet_1897-1959_New_Orleans_Jazz_Pioneer_Saxophonist_&_Clarinetist_lived_here_1922.jpg?width=250",
+            "alt": "Photograph of the Sidney Bechet blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Sidney_Bechet_1897-1959_New_Orleans_Jazz_Pioneer_Saxophonist_&_Clarinetist_lived_here_1922.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Sidney Bechet blue plaque",
+            "url": "https://openplaques.org/plaques/41020"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "41020"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01224,
+          51.56084
+        ]
+      },
+      "properties": {
+        "id": "site_walthamforest_0001",
+        "slug": "laurie-cunningham-kitchen-court",
+        "name": "Laurie Cunningham — Kitchen Court",
+        "kind": "plaque",
+        "summary": "Laurie Cunningham 1956-1989 football legend, pioneering England International played for Leyton Orient FC 1974-1977",
+        "borough": "Waltham Forest",
+        "address": "Kitchen Court, opposite the Brisbane Road stadium",
+        "period": {
+          "start_year": 1956,
+          "end_year": 1989
+        },
+        "themes": [
+          "sport"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurie_Cunningham_1956-1989_football_legend_pioneering_England_International_played_for_Leyton_Orient_FC_1974-1977.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurie_Cunningham_1956-1989_football_legend_pioneering_England_International_played_for_Leyton_Orient_FC_1974-1977.jpg?width=250",
+            "alt": "Photograph of the Laurence Cunningham blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Laurie_Cunningham_1956-1989_football_legend_pioneering_England_International_played_for_Leyton_Orient_FC_1974-1977.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Laurence Cunningham blue plaque",
+            "url": "https://openplaques.org/plaques/41151"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "41151"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32536,
+          51.50502
+        ]
+      },
+      "properties": {
+        "id": "site_ealing_0001",
+        "slug": "eric-and-jessica-huntley-141-coldershaw-road",
+        "name": "Eric and Jessica Huntley — 141 Coldershaw Road",
+        "kind": "plaque",
+        "summary": "Home of Eric Huntley and Jessica Huntley community activists and educators who founded pioneering company Bogle L'Ouverture Publications in 1968",
+        "borough": "Ealing",
+        "address": "141 Coldershaw Road",
+        "period": {
+          "start_year": 1968,
+          "end_year": null
+        },
+        "themes": [
+          "education",
+          "civic-life",
+          "literature",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Home_of_Eric_Huntley_and_Jessica_Huntley_community_activists_(Nubian_Jak_Community_Trust).jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Home_of_Eric_Huntley_and_Jessica_Huntley_community_activists_(Nubian_Jak_Community_Trust).jpg?width=250",
+            "alt": "Photograph of the Eric Huntley, Jessica Huntley, and Bogle-L'Ouverture Publications blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Home_of_Eric_Huntley_and_Jessica_Huntley_community_activists_(Nubian_Jak_Community_Trust).jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Eric Huntley, Jessica Huntley, and Bogle-L'Ouverture Publications blue plaque",
+            "url": "https://openplaques.org/plaques/50437"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "50437"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13036,
+          51.51726
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0008",
+        "slug": "harold-moody-central-ymca",
+        "name": "Dr Harold Moody — Central YMCA",
+        "kind": "plaque",
+        "summary": "Harold Arundel Moody 1882-1947. Jamaican Doctor, Humanitarian and British Civil Rights Activist Established The League of Coloured Peoples here, at the Central YMCA 13 March 1931",
+        "borough": "Camden",
+        "address": "Central YMCA, 111 Great Russell Street, Fitzrovia",
+        "period": {
+          "start_year": 1882,
+          "end_year": 1947
+        },
+        "themes": [
+          "medicine",
+          "civic-life",
+          "caribbean-diaspora"
+        ],
+        "people": [
+          "harold-moody"
+        ],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Harold Moody blue plaque",
+            "url": "https://openplaques.org/plaques/51326"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "51326"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10491,
+          51.47163
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0005",
+        "slug": "dark-and-light-longfield-hall",
+        "name": "Dark and Light — Longfield Hall",
+        "kind": "plaque",
+        "summary": "Longfield Hall home of the Dark and Light Britain's first black theatre company 1969-1975",
+        "borough": "Lambeth",
+        "address": "Longfield Hall, 50 Knatchbull Road, Camberwell",
+        "period": {
+          "start_year": 1969,
+          "end_year": 1975
+        },
+        "themes": [
+          "performance"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Dark and Light blue plaque",
+            "url": "https://openplaques.org/plaques/52823"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "52823"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14696,
+          51.57579
+        ]
+      },
+      "properties": {
+        "id": "site_haringey_0003",
+        "slug": "cy-grant-jackson-s-lane",
+        "name": "Cy Grant — Jackson's Lane",
+        "kind": "plaque",
+        "summary": "Cy Grant 1919-2010 activist, writer, musician pioneering actor and WWII RAF navigator lived here 1962-2010",
+        "borough": "Haringey",
+        "address": "Jackson's Lane",
+        "period": {
+          "start_year": 1919,
+          "end_year": 2010
+        },
+        "themes": [
+          "music",
+          "literature",
+          "performance",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Cy Grant blue plaque",
+            "url": "https://openplaques.org/plaques/52824"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "52824"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07589,
+          51.51397
+        ]
+      },
+      "properties": {
+        "id": "site_cityoflondon_0009",
+        "slug": "phillis-wheatley-dorsett-city-hotel",
+        "name": "Phillis Wheatley — Dorsett City Hotel",
+        "kind": "plaque",
+        "summary": "On this site in September 1773 A.Bell Booksellers published a volume of poems by Phillis Wheatley 1753-1784 the first work of an African American female writer published in English. United States Embassy & Dorsett Hospitality International",
+        "borough": "City of London",
+        "address": "Dorsett City Hotel, 9 Aldgate High Street",
+        "period": {
+          "start_year": 1753,
+          "end_year": 1784
+        },
+        "themes": [
+          "literature",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Phillis_Wheatley_plaque_9_Aldgate_High_Street_London_EC3N_1AH.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Phillis_Wheatley_plaque_9_Aldgate_High_Street_London_EC3N_1AH.jpg?width=250",
+            "alt": "Photograph of the Phillis Wheatley blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Phillis_Wheatley_plaque_9_Aldgate_High_Street_London_EC3N_1AH.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Phillis Wheatley blue plaque",
+            "url": "https://openplaques.org/plaques/53088"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "53088"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20341,
+          51.51762
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0009",
+        "slug": "frank-crichlow-8-all-saints-road",
+        "name": "Frank Crichlow — 8 All Saints Road",
+        "kind": "plaque",
+        "summary": "Frank Gilbert Crichlow 1932 -2010 Human rights campaigner, community organiser and restauranteur Founded Mangrove Restaurant. Co-founder Mangrove Steel Band and Mangrove Community Association here 1968 - 1992",
+        "borough": "Kensington and Chelsea",
+        "address": "8 All Saints Road",
+        "period": {
+          "start_year": 1932,
+          "end_year": 2010
+        },
+        "themes": [
+          "music",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Gilbert_Crichlow_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Gilbert_Crichlow_plaque.jpg?width=250",
+            "alt": "Photograph of the Frank Crichlow blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Frank_Gilbert_Crichlow_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Frank Crichlow blue plaque",
+            "url": "https://openplaques.org/plaques/53418"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "53418"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20502,
+          51.51761
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0010",
+        "slug": "bob-marley-and-the-wailers-island-studios",
+        "name": "Bob Marley and the Wailers — Island Studios",
+        "kind": "plaque",
+        "summary": "Bob Marley, Peter Tosh, Bunny Wailer finished the albums Catch A Fire and Burnin for Chris Blackwell's Island Records here. Exodus was also recorded here January-April 1977",
+        "borough": "Kensington and Chelsea",
+        "address": "Old Island Studios, Basing Street, Ladbroke Grove",
+        "period": {
+          "start_year": 1972,
+          "end_year": 1977
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Bob Marley, Peter Tosh, Bunny Wailer, Catch A Fire, and 2 others",
+            "url": "https://openplaques.org/plaques/54149"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54149"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06949,
+          51.42396
+        ]
+      },
+      "properties": {
+        "id": "site_bromley_0001",
+        "slug": "bob-marley-and-the-wailers-crystal-palace-bowl",
+        "name": "Bob Marley and the Wailers — Crystal Palace Bowl",
+        "kind": "plaque",
+        "summary": "Bob Marley & The Wailers played their largest UK concert and final London show here, 7th June 1980 Crystal Palace Bowl",
+        "borough": "Bromley",
+        "address": "Crystal Palace Bowl",
+        "period": {
+          "start_year": 1980,
+          "end_year": 1980
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Marley_&_The_Wailers_played_their_largest_UK_concert_and_final_London_show_here,_7th_June_1980_Crystal_Palace_Bowl.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Marley_&_The_Wailers_played_their_largest_UK_concert_and_final_London_show_here,_7th_June_1980_Crystal_Palace_Bowl.jpg?width=250",
+            "alt": "Photograph of the Bob Marley, Bob Marley and the Wailers, and Crystal Palace Bowl multicoloured plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Bob_Marley_&_The_Wailers_played_their_largest_UK_concert_and_final_London_show_here,_7th_June_1980_Crystal_Palace_Bowl.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Bob Marley, Bob Marley and the Wailers, and Crystal Palace Bowl multicoloured plaque",
+            "url": "https://openplaques.org/plaques/54335"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54335"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0258,
+          51.586
+        ]
+      },
+      "properties": {
+        "id": "site_walthamforest_0002",
+        "slug": "george-busby-66-erskine-road",
+        "name": "Dr George Busby — 66 Erskine Road, Walthamstow",
+        "kind": "plaque",
+        "summary": "Dr George Alfred Busby 1899-1980 Caribbean Pan-Africanist Walthamstow physician and surgeon, relocated to practise in Ghana lived here 1926-1929",
+        "borough": "Waltham Forest",
+        "address": "66 Erskine Road Walthamstow",
+        "period": {
+          "start_year": 1899,
+          "end_year": 1980
+        },
+        "themes": [
+          "medicine",
+          "panafricanism",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_George_Alfred_Busby_1899-1980.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr_George_Alfred_Busby_1899-1980.jpg?width=250",
+            "alt": "Photograph of the George Alfred Busby blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dr_George_Alfred_Busby_1899-1980.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — George Alfred Busby blue plaque",
+            "url": "https://openplaques.org/plaques/54409"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54409"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19076,
+          51.52014
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0004",
+        "slug": "john-alcindor-209-harrow-road",
+        "name": "Dr John Alcindor — 209 Harrow Road",
+        "kind": "plaque",
+        "summary": "Dr John Alcindor, 1873 - 1924, physician, Pan-Africanist and WW1 local hero, had his surgery here, 1913 - 1924",
+        "borough": "Westminster",
+        "address": "209 Harrow Road, W2 5EH",
+        "period": {
+          "start_year": 1873,
+          "end_year": 1924
+        },
+        "themes": [
+          "medicine",
+          "panafricanism",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Alcindor_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Alcindor_plaque.jpg?width=250",
+            "alt": "Photograph of the John Alcindor blue plaque",
+            "credit": "Megalit / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Megalit",
+            "source_url": "https://commons.wikimedia.org/wiki/File:John_Alcindor_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — John Alcindor blue plaque",
+            "url": "https://openplaques.org/plaques/54428"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54428"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00691,
+          51.48347
+        ]
+      },
+      "properties": {
+        "id": "site_greenwich_0001",
+        "slug": "fela-kuti-trinity-laban",
+        "name": "Fela Kuti — Trinity Laban",
+        "kind": "plaque",
+        "summary": "Fela Kuti 1938-1997 Father of Afrobeat who challenged colonial politics in Nigeria",
+        "borough": "Greenwich",
+        "address": "Trinity Laban, King Charles Court, Greenwich Peninsula",
+        "period": {
+          "start_year": 1938,
+          "end_year": 1997
+        },
+        "themes": [
+          "music",
+          "civic-life",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Fela Kuti black plaque",
+            "url": "https://openplaques.org/plaques/54742"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54742"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11891,
+          51.46096
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0006",
+        "slug": "choice-fm-16-18-trinity-gardens",
+        "name": "Choice FM — 16-18 Trinity Gardens",
+        "kind": "plaque",
+        "summary": "On March 31st 1990 Choice FM started broadcasting from this building on the 96.9 FM frequency",
+        "borough": "Lambeth",
+        "address": "16-18 Trinity Gardens, Brixton",
+        "period": {
+          "start_year": 1990,
+          "end_year": null
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/On_March_31st_1990_Choice_FM_started_broadcasting_from_this_building_on_the_96.9_FM_frequency.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/On_March_31st_1990_Choice_FM_started_broadcasting_from_this_building_on_the_96.9_FM_frequency.jpg?width=250",
+            "alt": "Photograph of the Choice FM blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:On_March_31st_1990_Choice_FM_started_broadcasting_from_this_building_on_the_96.9_FM_frequency.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Choice FM blue plaque",
+            "url": "https://openplaques.org/plaques/54866"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "54866"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12109,
+          51.46668
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0007",
+        "slug": "cecile-nobrega-lee-samuel-house",
+        "name": "Cécile Nobrega — Lee Samuel House",
+        "kind": "plaque",
+        "summary": "Cecile Nobrega 1919-2013 educator, classical composer, playwright, poet and inspiration behind the Stockwell Bronze Woman monument lived here 1991-2013",
+        "borough": "Lambeth",
+        "address": "Lee Samuel House, 10 Nealden Street",
+        "period": {
+          "start_year": 1919,
+          "end_year": 2013
+        },
+        "themes": [
+          "music",
+          "literature",
+          "education"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Cécile Nobrega blue plaque",
+            "url": "https://openplaques.org/plaques/56604"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "56604"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15892,
+          51.51362
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0005",
+        "slug": "jimi-hendrix-hard-rock-hotel-london",
+        "name": "Jimi Hendrix — Hard Rock Hotel London",
+        "kind": "plaque",
+        "summary": "This hotel was the last official residence of Jimi Hendrix 1942 - 1970 Legendary guitarist, composer, artist and pop culture influencer",
+        "borough": "Westminster",
+        "address": "Hard Rock Hotel London, Great Cumberland Place",
+        "period": {
+          "start_year": 1942,
+          "end_year": 1970
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/This_hotel_was_the_last_official_residence_of_Jimi_Hendrix_1942_-_1970.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/This_hotel_was_the_last_official_residence_of_Jimi_Hendrix_1942_-_1970.jpg?width=250",
+            "alt": "Photograph of the Jimi Hendrix blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:This_hotel_was_the_last_official_residence_of_Jimi_Hendrix_1942_-_1970.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Jimi Hendrix blue plaque",
+            "url": "https://openplaques.org/plaques/57066"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "57066"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21834,
+          51.49817
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0003",
+        "slug": "edmonia-lewis-154-blythe-road",
+        "name": "Edmonia Lewis — 154 Blythe Road",
+        "kind": "plaque",
+        "summary": "Edmonia 'Wildfire' Lewis 1844-1907 lived and died here. African American sculptor famed for her work relating to black and indigenous people in a neo-classical style",
+        "borough": "Hammersmith and Fulham",
+        "address": "154 Blythe Road, Hammersmith",
+        "period": {
+          "start_year": 1844,
+          "end_year": 1907
+        },
+        "themes": [
+          "visual-art",
+          "african-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Edmonia Lewis blue plaque",
+            "url": "https://openplaques.org/plaques/57395"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "57395"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07116,
+          51.4669
+        ]
+      },
+      "properties": {
+        "id": "site_southwark_0004",
+        "slug": "george-bridgetower-jack-jones-house",
+        "name": "George Bridgetower — Jack Jones House",
+        "kind": "plaque",
+        "summary": "George Bridgetower 1778-1860 International virtuoso violinist and dedicatee of Beethoven's Violin Sonata No.9 Lived and died at 8 Victory Cottages in a house at this site",
+        "borough": "Southwark",
+        "address": "Jack Jones House, Reedham Street, Peckham",
+        "period": {
+          "start_year": 1778,
+          "end_year": 1860
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — George Bridgetower blue plaque",
+            "url": "https://openplaques.org/plaques/57612"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "57612"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08029,
+          51.58532
+        ]
+      },
+      "properties": {
+        "id": "site_haringey_0004",
+        "slug": "althea-mcnish-142-west-green-road",
+        "name": "Althea McNish — 142 West Green Road",
+        "kind": "plaque",
+        "summary": "Althea McNish 1924-2020 Pioneering Designer of International Textiles, Murals and Wallpapers, and Prolific Painter Lived and had her Studio Here for Over 60 Years",
+        "borough": "Haringey",
+        "address": "142 West Green Road, Tottenham",
+        "period": {
+          "start_year": 1924,
+          "end_year": 2020
+        },
+        "themes": [
+          "visual-art"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Althea_McNish_1924-2020_Nubian_Jak_plaque_-_142_West_Green_Road_Tottenham_N15_5AD.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Althea_McNish_1924-2020_Nubian_Jak_plaque_-_142_West_Green_Road_Tottenham_N15_5AD.jpg?width=250",
+            "alt": "Photograph of the Althea McNish blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Althea_McNish_1924-2020_Nubian_Jak_plaque_-_142_West_Green_Road_Tottenham_N15_5AD.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Althea McNish blue plaque",
+            "url": "https://openplaques.org/plaques/58672"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "58672"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07874,
+          51.58526
+        ]
+      },
+      "properties": {
+        "id": "site_haringey_0005",
+        "slug": "dyke-dryden-wade-126-west-green-road",
+        "name": "Dyke, Dryden & Wade — 126 West Green Road",
+        "kind": "plaque",
+        "summary": "Dyke, Dryden & Wade Pioneered Britain's Black haircare and beauty industry from 1965 onwards, laying the groundwork for Black enterprise",
+        "borough": "Haringey",
+        "address": "126 West Green Road, Tottenham",
+        "period": {
+          "start_year": 1965,
+          "end_year": null
+        },
+        "themes": [
+          "trade"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyke,_Dryden_&_Wake_Nubian_Jak_black_plaque_126_West_Green_Road,_Tottenham_London_N15_5AA.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyke,_Dryden_&_Wake_Nubian_Jak_black_plaque_126_West_Green_Road,_Tottenham_London_N15_5AA.jpg?width=250",
+            "alt": "Photograph of the Dyke, Dryden & Wade black plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC BY-SA 4.0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dyke,_Dryden_&_Wake_Nubian_Jak_black_plaque_126_West_Green_Road,_Tottenham_London_N15_5AA.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Dyke, Dryden & Wade black plaque",
+            "url": "https://openplaques.org/plaques/58673"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "58673"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00372,
+          51.48063
+        ]
+      },
+      "properties": {
+        "id": "site_greenwich_0002",
+        "slug": "olaudah-equiano-maze-hill",
+        "name": "Olaudah Equiano — Maze Hill",
+        "kind": "plaque",
+        "summary": "In September 1767 Olaudah Equiano c.1745-1797 African writer and abolitionist, spent time in this house, then home of his friends, the Querin sisters",
+        "borough": "Greenwich",
+        "address": "111 Maze Hill",
+        "period": {
+          "start_year": 1745,
+          "end_year": 1797
+        },
+        "themes": [
+          "literature",
+          "abolition",
+          "african-diaspora"
+        ],
+        "people": [
+          "olaudah-equiano"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Olaudah_Equiano_plaque_maze_hill_(bad).jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Olaudah_Equiano_plaque_maze_hill_(bad).jpg?width=250",
+            "alt": "Photograph of the Blue plaque № 59267",
+            "credit": "Harry Bond / Wikimedia Commons",
+            "license": "CC BY 4.0",
+            "rights_holder": "Harry Bond",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_plaque_maze_hill_(bad).jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Blue plaque № 59267",
+            "url": "https://openplaques.org/plaques/59267"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "59267"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21948,
+          51.50112
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0004",
+        "slug": "millie-small-62-netherwood-road",
+        "name": "Millie Small — 62 Netherwood Road",
+        "kind": "plaque",
+        "summary": "My Boy Lollipop recording artist Millie Small lived here 1993-2000",
+        "borough": "Hammersmith and Fulham",
+        "address": "62 Netherwood Road, West Kensington",
+        "period": {
+          "start_year": 1993,
+          "end_year": 2000
+        },
+        "themes": [
+          "music",
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Millie Small blue plaque",
+            "url": "https://openplaques.org/plaques/59594"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "59594"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12676,
+          51.51657
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0009",
+        "slug": "martin-luther-king-jr-235-shaftesbury-avenue",
+        "name": "Martin Luther King Jr. — 235 Shaftesbury Avenue",
+        "kind": "plaque",
+        "summary": "The first sermon on British soil by The Reverend Dr Martin Luther King 1929–1968 was preached here at Bloomsbury Central Baptist Church in October 1961",
+        "borough": "Camden",
+        "address": "235 Shaftesbury Avenue",
+        "period": {
+          "start_year": 1929,
+          "end_year": 1968
+        },
+        "themes": [
+          "religion",
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Reverend_Martin_Luther_King_Nubian_Jak_Community_Trust_blue_plaque_at_Bloomsbury_Central_Baptist_Church_235_Shaftsbury_Avenue_London_WC2H_BEP.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Reverend_Martin_Luther_King_Nubian_Jak_Community_Trust_blue_plaque_at_Bloomsbury_Central_Baptist_Church_235_Shaftsbury_Avenue_London_WC2H_BEP.jpg?width=250",
+            "alt": "Photograph of the Martin Luther King Jr. blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:The_Reverend_Martin_Luther_King_Nubian_Jak_Community_Trust_blue_plaque_at_Bloomsbury_Central_Baptist_Church_235_Shaftsbury_Avenue_London_WC2H_BEP.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Martin Luther King Jr. blue plaque",
+            "url": "https://openplaques.org/plaques/59828"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "59828"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2284,
+          51.4889
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0005",
+        "slug": "eartha-kitt-riverside-studios",
+        "name": "Eartha Kitt — Riverside Studios",
+        "kind": "plaque",
+        "summary": "Iconic American singer and actress Eartha Kitt 1927-2008 appeared in the first BBC production televised from the new Riverside Studios June 17, 1956",
+        "borough": "Hammersmith and Fulham",
+        "address": "Riverside Studios, 101 Queen Caroline Street, Hammersmith",
+        "period": {
+          "start_year": 1927,
+          "end_year": 2008
+        },
+        "themes": [
+          "music",
+          "performance"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Eartha Kitt blue plaque",
+            "url": "https://openplaques.org/plaques/59986"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "59986"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20454,
+          51.47009
+        ]
+      },
+      "properties": {
+        "id": "site_hammersmith_0006",
+        "slug": "madge-vaidya-hurlingham-park",
+        "name": "Madge Vaidya — Hurlingham Park",
+        "kind": "plaque",
+        "summary": "Madge Vaidya 1907-1996 In recognition of her exceptional bravery and life-saving actions during the devastating flood of London in 1928",
+        "borough": "Hammersmith and Fulham",
+        "address": "Hurlingham Park, Hurlingham Road Fulham",
+        "period": {
+          "start_year": 1907,
+          "end_year": 1996
+        },
+        "themes": [
+          "civic-life"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Madge_Vaidya_1907-1996_Nubian_Jak_Community_Trust_plaque.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Madge_Vaidya_1907-1996_Nubian_Jak_Community_Trust_plaque.jpg?width=250",
+            "alt": "Photograph of the Madge Vaidya blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Madge_Vaidya_1907-1996_Nubian_Jak_Community_Trust_plaque.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Madge Vaidya blue plaque",
+            "url": "https://openplaques.org/plaques/60132"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "60132"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15009,
+          51.52009
+        ]
+      },
+      "properties": {
+        "id": "site_westminster_0006",
+        "slug": "marie-louise-christophe-49-weymouth-street",
+        "name": "Marie-Louise Christophe — 49 Weymouth Street",
+        "kind": "plaque",
+        "summary": "Marie-Louise Christophe 1778-1851 first and only Queen of Haiti lived in this house with her daughters",
+        "borough": "Westminster",
+        "address": "49 Weymouth Street",
+        "period": {
+          "start_year": 1778,
+          "end_year": 1851
+        },
+        "themes": [
+          "caribbean-diaspora"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Louise_Christophe_1778-1851_first_and_only_Queen_of_Haiti_lived_in_this_house_with_her_daughters_in_1824.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Louise_Christophe_1778-1851_first_and_only_Queen_of_Haiti_lived_in_this_house_with_her_daughters_in_1824.jpg?width=250",
+            "alt": "Photograph of the Marie-Louise Christophe blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Marie-Louise_Christophe_1778-1851_first_and_only_Queen_of_Haiti_lived_in_this_house_with_her_daughters_in_1824.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Marie-Louise Christophe blue plaque",
+            "url": "https://openplaques.org/plaques/66141"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "66141"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10785,
+          51.45758
+        ]
+      },
+      "properties": {
+        "id": "site_lambeth_0008",
+        "slug": "winifred-atwell-82d-railton-road",
+        "name": "Winifred Atwell — 82D Railton Road",
+        "kind": "plaque",
+        "summary": "Multimillion disc selling piano impresario Winifred Atwell 1914-1983 opened the UK's first black hair and beauty salon on this site in 1956",
+        "borough": "Lambeth",
+        "address": "82D Railton Road, Brixton",
+        "period": {
+          "start_year": 1914,
+          "end_year": 1983
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [
+          {
+            "type": "image",
+            "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Winifred_Attwell_-_first_black_hair_and_beauty_salon_plaque_82d_Railton_Road_Brixton_SE24_0LD.jpg?width=800",
+            "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Winifred_Attwell_-_first_black_hair_and_beauty_salon_plaque_82d_Railton_Road_Brixton_SE24_0LD.jpg?width=250",
+            "alt": "Photograph of the Winifred Atwell blue plaque",
+            "credit": "Spudgun67 / Wikimedia Commons",
+            "license": "CC0",
+            "rights_holder": "Spudgun67",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Winifred_Attwell_-_first_black_hair_and_beauty_salon_plaque_82d_Railton_Road_Brixton_SE24_0LD.jpg"
+          }
+        ],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Winifred Atwell blue plaque",
+            "url": "https://openplaques.org/plaques/69504"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "69504"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20242,
+          51.51149
+        ]
+      },
+      "properties": {
+        "id": "site_kensington_0011",
+        "slug": "michael-ibru-6-kensington-park-gardens",
+        "name": "Michael Ibru — 6 Kensington Park Gardens",
+        "kind": "plaque",
+        "summary": "Chief Michael C.O. Ibru 1930 - 2016 Pioneering Industrialist and Philanthropist Lived Here 1974 - 2007",
+        "borough": "Kensington and Chelsea",
+        "address": "6 Kensington Park Gardens",
+        "period": {
+          "start_year": 1930,
+          "end_year": 2016
+        },
+        "themes": [
+          "trade"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Michael C.O. Ibru and Michael Ibru blue plaque",
+            "url": "https://openplaques.org/plaques/77359"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "77359"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12815,
+          51.51732
+        ]
+      },
+      "properties": {
+        "id": "site_camden_0010",
+        "slug": "billy-waters-parnell-house",
+        "name": "Billy Waters — Parnell House",
+        "kind": "plaque",
+        "summary": "Naval Officer, street musician and \"King of the Buskers\" Billy Waters c1778 - 1823 Lived with his family on this street in the St Giles Rookery",
+        "borough": "Camden",
+        "address": "Parnell House, Streathem Street",
+        "period": {
+          "start_year": 1778,
+          "end_year": 1823
+        },
+        "themes": [
+          "music"
+        ],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Billy Waters blue plaque",
+            "url": "https://openplaques.org/plaques/84220"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "84220"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-10-23"
+        },
+        "verification": {
+          "verified_at": "2026-10-23",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
       }
     }
   ]
