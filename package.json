@@ -12,6 +12,7 @@
     "validate": "node scripts/validate.mjs",
     "ingest:csv": "node scripts/ingest-csv.mjs",
     "ingest:openplaques": "node scripts/adapters/openplaques.mjs",
+    "ingest:bca-events": "node scripts/adapters/bca-events.mjs",
     "build:index": "node scripts/build-index.mjs",
     "build:data": "node scripts/validate.mjs && node scripts/build-index.mjs",
     "build:obsidian": "node scripts/build-obsidian-vault.mjs",

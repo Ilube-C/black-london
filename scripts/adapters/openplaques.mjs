@@ -14,6 +14,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import distance from '@turf/distance';
+import { guessThemes } from '../lib/themes.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '../..');
@@ -26,26 +27,6 @@ const THEMES = path.join(root, 'public/data/themes.json');
 const PEOPLE = path.join(root, 'public/data/people.json');
 const LONDON_BBOX = [-0.51, 51.28, 0.33, 51.69];
 const MATCH_METRES = 600;
-
-// Keyword → theme slug, matched against the inscription. Loose by design: these
-// are drafts and get corrected in review.
-const THEME_RULES = [
-  ['music', /music|singer|vocalist|jazz|reggae|afrobeat|composer|pianist|piano|drummer|saxophon|clarinet|violin|band|album|concert|recording|broadcast/i],
-  ['sport', /football|cricket|boxing|heavyweight|athlet|olympic|gold medal/i],
-  ['literature', /writer|author|poet|novelist|playwright|publish|journalist/i],
-  ['performance', /actor|actress|theatre|perform/i],
-  ['visual-art', /artist|sculpt|designer|textile/i],
-  ['medicine', /doctor|physician|nurse|medic/i],
-  ['education', /educat|teacher|scholar|student/i],
-  ['civic-life', /mayor|council|politic|parliament|barrister|campaign|activist|civil rights|human rights|community/i],
-  ['panafricanism', /pan-?african/i],
-  ['abolition', /abolition|slave/i],
-  ['labour-movement', /trade union/i],
-  ['trade', /entrepreneur|industrialist|business|haircare|beauty industry|shop/i],
-  ['windrush', /windrush/i],
-  ['caribbean-diaspora', /caribbean|jamaica|trinidad|barbad|antigua|guyan|grenad|west indi|carnival/i],
-  ['african-diaspora', /africa|nigeria|ghana|sierra leone/i]
-];
 
 const today = new Date().toISOString().slice(0, 10);
 const readJSON = async p => JSON.parse(await readFile(p, 'utf8'));
@@ -174,7 +155,7 @@ function toSite(plaque, { id, slug, borough, people }) {
       borough,
       address,
       period: years ? { start_year: start, end_year: end } : null,
-      themes: THEME_RULES.filter(([, re]) => re.test(inscription)).map(([t]) => t),
+      themes: guessThemes(inscription),
       people,
       media: media(plaque),
       sources: [{ type: 'web', citation: `Open Plaques — ${clean(plaque.title)}`, url: plaque.uri }],
