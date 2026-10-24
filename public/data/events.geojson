@@ -4,369 +4,906 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.10865, 51.46180] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10865,
+          51.4618
+        ]
+      },
       "properties": {
         "id": "event_2026_bca_walking_001",
         "name": "Brixton walking tour: Windrush square mile",
         "summary": "A two-hour guided walk around Brixton tracing the post-Windrush settlement of Caribbean Londoners, ending at the BCA.",
         "starts_at": "2026-05-24T11:00:00+01:00",
-        "ends_at":   "2026-05-24T13:00:00+01:00",
+        "ends_at": "2026-05-24T13:00:00+01:00",
         "recurrence": null,
         "venue_name": "Black Cultural Archives",
         "address": "1 Windrush Square, Brixton, SW2 1EF",
         "url": "https://blackculturalarchives.org/",
         "price": "paid",
-        "themes": ["windrush", "caribbean-diaspora"],
-        "related_sites": ["site_lambeth_0001"],
+        "themes": [
+          "windrush",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
         "image": null,
         "source": "Seed event — replace with live BCA programme.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "low"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.07695, 51.51310] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07695,
+          51.5131
+        ]
+      },
       "properties": {
         "id": "event_2026_drjohnson_001",
         "name": "Francis Barber — afternoon talk",
         "summary": "A short curator-led talk on Francis Barber's life and his place in Samuel Johnson's household.",
         "starts_at": "2026-06-07T15:00:00+01:00",
-        "ends_at":   "2026-06-07T16:30:00+01:00",
+        "ends_at": "2026-06-07T16:30:00+01:00",
         "recurrence": null,
         "venue_name": "Dr Johnson's House",
         "address": "17 Gough Square, EC4A 3DE",
         "url": "https://www.drjohnsonshouse.org/",
         "price": "paid",
-        "themes": ["literature", "abolition"],
-        "related_sites": ["site_cityoflondon_0002"],
+        "themes": [
+          "literature",
+          "abolition"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "Seed event.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "low"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.20700, 51.51310] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.207,
+          51.5131
+        ]
+      },
       "properties": {
         "id": "event_2026_carnival_001",
         "name": "Notting Hill Carnival — Adults' Day",
         "summary": "The main carnival parade through W10 and W11, descended directly from Rhaune Laslett's 1966 pageant.",
         "starts_at": "2026-08-31T10:00:00+01:00",
-        "ends_at":   "2026-08-31T20:30:00+01:00",
+        "ends_at": "2026-08-31T20:30:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=8;BYDAY=-1MO",
         "venue_name": "Notting Hill",
         "address": "Notting Hill, W10/W11",
         "url": "https://nhcarnival.org/",
         "price": "free",
-        "themes": ["caribbean-diaspora", "music", "performance"],
-        "related_sites": ["site_kensington_0001"],
+        "themes": [
+          "caribbean-diaspora",
+          "music",
+          "performance"
+        ],
+        "related_sites": [
+          "site_kensington_0001"
+        ],
         "image": null,
         "source": "Seed event.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "medium" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.12550, 51.49870] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1255,
+          51.4987
+        ]
+      },
       "properties": {
         "id": "event_2026_seacole_001",
         "name": "Mary Seacole memorial — birthday wreath-laying",
         "summary": "Annual wreath-laying ceremony at the Seacole statue, organised by the Mary Seacole Trust.",
         "starts_at": "2026-11-23T11:00:00+00:00",
-        "ends_at":   "2026-11-23T12:00:00+00:00",
+        "ends_at": "2026-11-23T12:00:00+00:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=23",
         "venue_name": "St Thomas' Hospital gardens",
         "address": "Westminster Bridge Road, SE1 7EH",
         "url": "https://www.maryseacoletrust.org.uk/",
         "price": "free",
-        "themes": ["medicine", "civic-life", "caribbean-diaspora"],
-        "related_sites": ["site_westminster_0002"],
+        "themes": [
+          "medicine",
+          "civic-life",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_westminster_0002"
+        ],
         "image": null,
         "source": "Seed event.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "low"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.110944, 51.461891] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.110944,
+          51.461891
+        ]
+      },
       "properties": {
         "id": "event_2026_brixtonhouse_nine_sixteenths",
         "name": "Nine Sixteenths",
         "summary": "Devised theatre by Paula Varjack, Pauline Mayers, Julienne Doko, Chia Phoenix and Endy McKay — three acts on representation and pop culture, taking off from the 2004 Super Bowl Janet Jackson / Justin Timberlake incident.",
         "starts_at": "2026-05-19T19:30:00+01:00",
-        "ends_at":   "2026-05-30T22:00:00+01:00",
+        "ends_at": "2026-05-30T22:00:00+01:00",
         "recurrence": null,
         "venue_name": "Brixton House",
         "address": "385 Coldharbour Lane, Brixton, SW9 8GL",
         "url": "https://brixtonhouse.co.uk/shows/nine-sixteenths/",
         "price": "paid",
-        "themes": ["theatre", "performance", "music", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_lambeth_0002"],
+        "themes": [
+          "theatre",
+          "performance",
+          "music",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_lambeth_0002"
+        ],
         "image": null,
         "source": "Brixton House programme; Brixton Buzz, April 2026.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.12810, 51.50800] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1281,
+          51.508
+        ]
+      },
       "properties": {
         "id": "event_2026_blackonthesquare",
         "name": "Black on the Square 2026",
         "summary": "The Mayor of London's flagship free outdoor celebration of Black culture in Trafalgar Square — music, food, family activities, market traders.",
         "starts_at": "2026-09-05T12:00:00+01:00",
-        "ends_at":   "2026-09-05T18:00:00+01:00",
+        "ends_at": "2026-09-05T18:00:00+01:00",
         "recurrence": "FREQ=YEARLY",
         "venue_name": "Trafalgar Square",
         "address": "Trafalgar Square, Westminster, WC2N 5DN",
         "url": "https://www.london.gov.uk/events/black-square-2026",
         "price": "free",
-        "themes": ["civic-life", "music", "performance", "caribbean-diaspora", "african-diaspora"],
-        "related_sites": ["site_westminster_0001"],
+        "themes": [
+          "civic-life",
+          "music",
+          "performance",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "related_sites": [
+          "site_westminster_0001"
+        ],
         "image": null,
         "source": "Greater London Authority — london.gov.uk events listing",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.12810, 51.50800] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1281,
+          51.508
+        ]
+      },
       "properties": {
         "id": "event_2026_africaonthesquare",
         "name": "Africa on the Square 2026",
         "summary": "The GLA's annual Black History Month festival in Trafalgar Square — live music, dance, food and traders showcasing the cultures of the African continent.",
         "starts_at": "2026-10-10T12:00:00+01:00",
-        "ends_at":   "2026-10-10T18:00:00+01:00",
+        "ends_at": "2026-10-10T18:00:00+01:00",
         "recurrence": "FREQ=YEARLY",
         "venue_name": "Trafalgar Square",
         "address": "Trafalgar Square, Westminster, WC2N 5DN",
         "url": "https://www.london.gov.uk/node/35172",
         "price": "free",
-        "themes": ["civic-life", "music", "performance", "african-diaspora"],
-        "related_sites": ["site_westminster_0001"],
+        "themes": [
+          "civic-life",
+          "music",
+          "performance",
+          "african-diaspora"
+        ],
+        "related_sites": [
+          "site_westminster_0001"
+        ],
         "image": null,
         "source": "Greater London Authority — Africa on the Square listing",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.11480, 51.46550] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1148,
+          51.4655
+        ]
+      },
       "properties": {
         "id": "event_bcm_brixton_2026_spring",
         "name": "Black Culture Market — Brixton spring market",
         "summary": "Two-day indoor market with 40+ Black-owned businesses across fashion, food, art and books — at The Department Store, Brixton.",
         "starts_at": "2026-02-28T11:00:00+00:00",
-        "ends_at":   "2026-03-01T17:00:00+00:00",
+        "ends_at": "2026-03-01T17:00:00+00:00",
         "recurrence": null,
         "venue_name": "The Department Store, Brixton",
         "address": "248 Ferndale Road, Brixton, SW9 8FR",
         "url": "https://www.blackculturemarket.co.uk/",
         "price": "free",
-        "themes": ["trade", "civic-life", "caribbean-diaspora", "african-diaspora"],
-        "related_sites": ["site_lambeth_0001", "site_lambeth_0002"],
+        "themes": [
+          "trade",
+          "civic-life",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "related_sites": [
+          "site_lambeth_0001",
+          "site_lambeth_0002"
+        ],
         "image": null,
         "source": "Black Culture Market — blackculturemarket.co.uk; Eventbrite listing for 28 Feb – 1 Mar 2026.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.08330, 51.51280] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0833,
+          51.5128
+        ]
+      },
       "properties": {
         "id": "event_bcm_leadenhall_2025_bhm",
         "name": "Black Culture Market — Leadenhall (Black History Month)",
         "summary": "Black History Month one-day market under Leadenhall's Victorian arcade — Black-owned brands, artisans, live DJ sets in the heart of the Square Mile.",
         "starts_at": "2025-10-16T12:00:00+01:00",
-        "ends_at":   "2025-10-16T18:00:00+01:00",
+        "ends_at": "2025-10-16T18:00:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Leadenhall Market",
         "address": "Gracechurch Street, City of London, EC3V 1LR",
         "url": "https://leadenhallmarket.co.uk/black-culture-market/",
         "price": "free",
-        "themes": ["trade", "civic-life", "caribbean-diaspora", "african-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "trade",
+          "civic-life",
+          "caribbean-diaspora",
+          "african-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "Leadenhall Market — official listing for 16 Oct 2025.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.09730, 51.51970] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0973,
+          51.5197
+        ]
+      },
       "properties": {
         "id": "event_culture_mile_walk_2025",
         "name": "Black History in the Culture Mile — walking tour",
         "summary": "A free hour-long guided walk through the Square Mile's quieter side streets, tracing Black London history. Curated and led by historian Tony Warner for Culture Mile BID.",
         "starts_at": "2025-10-28T12:30:00+00:00",
-        "ends_at":   "2025-10-28T13:30:00+00:00",
+        "ends_at": "2025-10-28T13:30:00+00:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Culture Mile (City of London)",
         "address": "Culture Mile area, EC1M 6BY",
         "url": "https://www.thecityofldn.com/event/black-history-month-walking-tour/",
         "price": "free",
-        "themes": ["education", "civic-life", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "education",
+          "civic-life",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "thecityofldn.com — Culture Mile BID listing, Tony Warner.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "high" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "high"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.09180, 51.51560] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0918,
+          51.5156
+        ]
+      },
       "properties": {
         "id": "event_guildhall_bhm_reception",
         "name": "Guildhall Black History Month Celebration",
         "summary": "Annual Black History Month reception at Guildhall, hosted by the City of London Corporation in partnership with the City Black Employee Resource Groups (CBERG).",
         "starts_at": "2025-10-03T18:30:00+01:00",
-        "ends_at":   "2025-10-03T21:00:00+01:00",
+        "ends_at": "2025-10-03T21:00:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Guildhall",
         "address": "Guildhall, Gresham Street, City of London, EC2V 7HH",
         "url": "https://belongingproject.city/bhm25",
         "price": "free",
-        "themes": ["civic-life", "education", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "civic-life",
+          "education",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "City of London Corporation / CBERG via City Belonging Project (BHM 2025).",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "medium" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.08810, 51.51350] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0881,
+          51.5135
+        ]
+      },
       "properties": {
         "id": "event_slave_trade_money_trail",
         "name": "Slave Trade Money Trail walking tour",
         "summary": "A three-hour guided walk through the Bank/Monument complex tracing the City of London's institutional links to the transatlantic slave trade.",
         "starts_at": "2025-10-04T12:00:00+01:00",
-        "ends_at":   "2025-10-04T15:00:00+01:00",
+        "ends_at": "2025-10-04T15:00:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Bank/Monument complex",
         "address": "Princes Street, City of London, EC3V 3LA",
         "url": "https://belongingproject.city/bhm25",
         "price": "free",
-        "themes": ["abolition", "trade", "education", "civic-life", "african-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "abolition",
+          "trade",
+          "education",
+          "civic-life",
+          "african-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "City Belonging Project — BHM 2025 listings.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "medium" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.08680, 51.51490] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0868,
+          51.5149
+        ]
+      },
       "properties": {
         "id": "event_ican_black_owned_market",
         "name": "iCAN Black-Owned Market",
         "summary": "Evening market run by the iCAN (insurance industry Black Employee Resource Group) network — a Black History Month finale of food, brands and traders inside an EC2 City venue.",
         "starts_at": "2025-10-30T17:30:00+00:00",
-        "ends_at":   "2025-10-30T20:30:00+00:00",
+        "ends_at": "2025-10-30T20:30:00+00:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "City of London (EC2N)",
         "address": "EC2N 1DS, City of London",
         "url": "https://belongingproject.city/bhm25",
         "price": "free",
-        "themes": ["trade", "civic-life", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "trade",
+          "civic-life",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "City Belonging Project — BHM 2025 listings; iCAN.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "medium" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.09360, 51.52020] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0936,
+          51.5202
+        ]
+      },
       "properties": {
         "id": "event_barbican_black_british_book_festival",
         "name": "Black British Book Festival — Barbican",
         "summary": "All-day festival celebrating Black British literature at the Barbican Centre — author panels, readings, signings, and a marketplace of independent presses and bookshops.",
         "starts_at": "2025-10-19T12:00:00+01:00",
-        "ends_at":   "2025-10-19T21:00:00+01:00",
+        "ends_at": "2025-10-19T21:00:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Barbican Centre",
         "address": "Silk Street, City of London, EC2Y 8DS",
         "url": "https://belongingproject.city/bhm25",
         "price": "paid",
-        "themes": ["literature", "education", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_cityoflondon_0001", "site_cityoflondon_0002"],
+        "themes": [
+          "literature",
+          "education",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001",
+          "site_cityoflondon_0002"
+        ],
         "image": null,
         "source": "City Belonging Project — BHM 2025 listings; Barbican Centre.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "medium" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.12565, 51.53480] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12565,
+          51.5348
+        ]
+      },
       "properties": {
         "id": "event_bolo_fest_kingscross",
         "name": "BOLO Fest — Black Owned London festival",
         "summary": "Three-day flagship festival at Coal Drops Yard, King's Cross — 100+ Black-owned businesses, live music, food and family activities. Run by Black Owned London (BOLO).",
         "starts_at": "2024-10-05T11:00:00+01:00",
-        "ends_at":   "2024-10-06T19:00:00+01:00",
+        "ends_at": "2024-10-06T19:00:00+01:00",
         "recurrence": "FREQ=YEARLY;BYMONTH=10",
         "venue_name": "Coal Drops Yard",
         "address": "Lower Stable Street, King's Cross, N1C 4DQ",
         "url": "https://www.blackownedlondon.com/bolo-fest/",
         "price": "free",
-        "themes": ["trade", "music", "performance", "civic-life", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_cityoflondon_0001"],
+        "themes": [
+          "trade",
+          "music",
+          "performance",
+          "civic-life",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_cityoflondon_0001"
+        ],
         "image": null,
         "source": "Black Owned London — bolo-fest page (last confirmed 2024 dates; 2026 dates TBC).",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "low"
+        },
         "status": "published"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-0.05450, 51.54695] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0545,
+          51.54695
+        ]
+      },
       "properties": {
         "id": "event_black_owned_hackney_market",
         "name": "Black-Owned Hackney Market",
         "summary": "Outdoor market at Bohemia Place in Hackney Central — Black-owned street food, traders, designers and DJ sets — run by Black Eats LDN with Bohemia Place Market.",
         "starts_at": "2026-05-31T12:00:00+01:00",
-        "ends_at":   "2026-05-31T21:00:00+01:00",
+        "ends_at": "2026-05-31T21:00:00+01:00",
         "recurrence": "FREQ=MONTHLY",
         "venue_name": "Bohemia Place Market",
         "address": "Bohemia Place, Hackney Central, E8 1DU",
         "url": "https://www.blackeatsldn.com/events/",
         "price": "free",
-        "themes": ["trade", "music", "civic-life", "african-diaspora", "caribbean-diaspora"],
-        "related_sites": ["site_lambeth_0001"],
+        "themes": [
+          "trade",
+          "music",
+          "civic-life",
+          "african-diaspora",
+          "caribbean-diaspora"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
         "image": null,
         "source": "Black Eats LDN events page; series confirmed but exact 2026 cadence TBC — date is approximate.",
-        "contributor": { "name": "Project seed", "affiliation": "Black London prototype", "submitted_at": "2026-05-08" },
-        "verification": { "verified_by": "C. Ilube", "verified_at": "2026-05-08", "confidence": "low" },
+        "contributor": {
+          "name": "Project seed",
+          "affiliation": "Black London prototype",
+          "submitted_at": "2026-05-08"
+        },
+        "verification": {
+          "verified_by": "C. Ilube",
+          "verified_at": "2026-05-08",
+          "confidence": "low"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2002992231684",
+        "name": "Dave Neita presents a one-man play - The Archivist.",
+        "summary": "You are part of history. You can archive your own life and that of others. Come and see what it means to create your own archive.",
+        "starts_at": "2026-10-28T18:30:00Z",
+        "ends_at": "2026-10-28T20:00:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/dave-neita-presents-a-one-man-play-the-archivist-tickets-2002992231684",
+        "price": "paid",
+        "themes": [],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/dave-neita-presents-a-one-man-play-the-archivist-a7kt2",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-24"
+        },
+        "verification": {
+          "verified_at": "2026-10-24",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003652797454",
+        "name": "Welcome to Black Family History: How to make a start and tips for success.",
+        "summary": "Are you interested in finding out more about your family history, but don't know where to start?",
+        "starts_at": "2026-10-31T12:00:00Z",
+        "ends_at": "2026-10-31T13:30:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success-tickets-2003652797454",
+        "price": "paid",
+        "themes": [],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-24"
+        },
+        "verification": {
+          "verified_at": "2026-10-24",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003654511581",
+        "name": "Black Family History: Finding Enslaved Ancestors and their Enslavers",
+        "summary": "Join Dr Wanda Wyporska, genealogist and CEO of Black Cultural Archives, as she explores the registers of enslaved people.",
+        "starts_at": "2026-10-31T14:00:00Z",
+        "ends_at": "2026-10-31T15:30:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/black-family-history-finding-enslaved-ancestors-and-their-enslavers-tickets-2003654511581",
+        "price": "paid",
+        "themes": [
+          "abolition"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/bcas-welcome-to-black-family-history-finding-enslaved-ancestors-and-their-enslavers-looking-at-sources",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-24"
+        },
+        "verification": {
+          "verified_at": "2026-10-24",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003655877667",
+        "name": "YHP: Screening of 'Documenting the East London Black Women's Organisation'",
+        "summary": "Join us for a screening of 'Documenting the East London Black Women's Organisation:",
+        "starts_at": "2026-10-31T16:00:00Z",
+        "ends_at": "2026-10-31T18:00:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/yhp-screening-of-documenting-the-east-london-black-womens-organisation-tickets-2003655877667",
+        "price": "free",
+        "themes": [],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/young-histories-project-presents-a-screening-of-documenting-the-east-london-black-womens-organisation-the-early-years",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-24"
+        },
+        "verification": {
+          "verified_at": "2026-10-24",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1151513,
+          51.4603972
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003666683989",
+        "name": "BCA & Friends of the BCA presents: An evening with Professor Stephen Small",
+        "summary": "The BCA & the Friends of the Black Cultural Archives presents an evening with Professor Stephen Small, author of the book 'Black Liverpool'",
+        "starts_at": "2026-11-11T18:30:00Z",
+        "ends_at": "2026-11-11T20:30:00Z",
+        "recurrence": null,
+        "venue_name": "The Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/bca-friends-of-the-bca-presents-an-evening-with-professor-stephen-small-tickets-2003666683989",
+        "price": "paid",
+        "themes": [
+          "literature"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/friends-of-the-bca-presents-an-evening-with-professor-stephen-small",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-24"
+        },
+        "verification": {
+          "verified_at": "2026-10-24",
+          "confidence": "medium"
+        },
         "status": "published"
       }
     }
