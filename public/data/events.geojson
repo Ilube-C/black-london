@@ -723,122 +723,6 @@
         ]
       },
       "properties": {
-        "id": "event_bca_eb_2002992231684",
-        "name": "Dave Neita presents a one-man play - The Archivist.",
-        "summary": "You are part of history. You can archive your own life and that of others. Come and see what it means to create your own archive.",
-        "starts_at": "2026-10-28T18:30:00Z",
-        "ends_at": "2026-10-28T20:00:00Z",
-        "recurrence": null,
-        "venue_name": "Black Cultural Archives",
-        "address": "1 Windrush Square Brixton, London, SW2 1EF",
-        "url": "https://www.eventbrite.co.uk/e/dave-neita-presents-a-one-man-play-the-archivist-tickets-2002992231684",
-        "price": "paid",
-        "themes": [],
-        "related_sites": [
-          "site_lambeth_0001"
-        ],
-        "image": null,
-        "source": "bca-eventbrite: https://blackculturalarchives.org/events/dave-neita-presents-a-one-man-play-the-archivist-a7kt2",
-        "contributor": {
-          "name": "Black Cultural Archives",
-          "affiliation": "via Eventbrite",
-          "submitted_at": "2026-10-24"
-        },
-        "verification": {
-          "verified_at": "2026-10-24",
-          "confidence": "medium"
-        },
-        "status": "published"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.11538110000003599,
-          51.46075039999999
-        ]
-      },
-      "properties": {
-        "id": "event_bca_eb_2003652797454",
-        "name": "Welcome to Black Family History: How to make a start and tips for success.",
-        "summary": "Are you interested in finding out more about your family history, but don't know where to start?",
-        "starts_at": "2026-10-31T12:00:00Z",
-        "ends_at": "2026-10-31T13:30:00Z",
-        "recurrence": null,
-        "venue_name": "Black Cultural Archives",
-        "address": "1 Windrush Square Brixton, London, SW2 1EF",
-        "url": "https://www.eventbrite.co.uk/e/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success-tickets-2003652797454",
-        "price": "paid",
-        "themes": [],
-        "related_sites": [
-          "site_lambeth_0001"
-        ],
-        "image": null,
-        "source": "bca-eventbrite: https://blackculturalarchives.org/events/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success",
-        "contributor": {
-          "name": "Black Cultural Archives",
-          "affiliation": "via Eventbrite",
-          "submitted_at": "2026-10-24"
-        },
-        "verification": {
-          "verified_at": "2026-10-24",
-          "confidence": "medium"
-        },
-        "status": "published"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.11538110000003599,
-          51.46075039999999
-        ]
-      },
-      "properties": {
-        "id": "event_bca_eb_2003654511581",
-        "name": "Black Family History: Finding Enslaved Ancestors and their Enslavers",
-        "summary": "Join Dr Wanda Wyporska, genealogist and CEO of Black Cultural Archives, as she explores the registers of enslaved people.",
-        "starts_at": "2026-10-31T14:00:00Z",
-        "ends_at": "2026-10-31T15:30:00Z",
-        "recurrence": null,
-        "venue_name": "Black Cultural Archives",
-        "address": "1 Windrush Square Brixton, London, SW2 1EF",
-        "url": "https://www.eventbrite.co.uk/e/black-family-history-finding-enslaved-ancestors-and-their-enslavers-tickets-2003654511581",
-        "price": "paid",
-        "themes": [
-          "abolition"
-        ],
-        "related_sites": [
-          "site_lambeth_0001"
-        ],
-        "image": null,
-        "source": "bca-eventbrite: https://blackculturalarchives.org/events/bcas-welcome-to-black-family-history-finding-enslaved-ancestors-and-their-enslavers-looking-at-sources",
-        "contributor": {
-          "name": "Black Cultural Archives",
-          "affiliation": "via Eventbrite",
-          "submitted_at": "2026-10-24"
-        },
-        "verification": {
-          "verified_at": "2026-10-24",
-          "confidence": "medium"
-        },
-        "status": "published"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.11538110000003599,
-          51.46075039999999
-        ]
-      },
-      "properties": {
         "id": "event_bca_eb_2003655877667",
         "name": "YHP: Screening of 'Documenting the East London Black Women's Organisation'",
         "summary": "Join us for a screening of 'Documenting the East London Black Women's Organisation:",
@@ -858,10 +742,10 @@
         "contributor": {
           "name": "Black Cultural Archives",
           "affiliation": "via Eventbrite",
-          "submitted_at": "2026-10-24"
+          "submitted_at": "2026-10-31"
         },
         "verification": {
-          "verified_at": "2026-10-24",
+          "verified_at": "2026-10-31",
           "confidence": "medium"
         },
         "status": "published"
@@ -879,7 +763,7 @@
       "properties": {
         "id": "event_bca_eb_2003666683989",
         "name": "BCA & Friends of the BCA presents: An evening with Professor Stephen Small",
-        "summary": "The BCA & the Friends of the Black Cultural Archives presents an evening with Professor Stephen Small, author of the book 'Black Liverpool'",
+        "summary": "Black Cultural Archives/Friends of BCA present an evening with Professor Stephen Small, discussing his lates book, 'Black Liverpool'.",
         "starts_at": "2026-11-11T18:30:00Z",
         "ends_at": "2026-11-11T20:30:00Z",
         "recurrence": null,
@@ -887,9 +771,7 @@
         "address": "1 Windrush Square Brixton, London, SW2 1EF",
         "url": "https://www.eventbrite.co.uk/e/bca-friends-of-the-bca-presents-an-evening-with-professor-stephen-small-tickets-2003666683989",
         "price": "paid",
-        "themes": [
-          "literature"
-        ],
+        "themes": [],
         "related_sites": [
           "site_lambeth_0001"
         ],
@@ -898,10 +780,129 @@
         "contributor": {
           "name": "Black Cultural Archives",
           "affiliation": "via Eventbrite",
-          "submitted_at": "2026-10-24"
+          "submitted_at": "2026-10-31"
         },
         "verification": {
-          "verified_at": "2026-10-24",
+          "verified_at": "2026-10-31",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003652797454",
+        "name": "Welcome to Black Family History: How to make a start and tips for success.",
+        "summary": "Are you interested in finding out more about your family history, but don't know where to start?",
+        "starts_at": "2027-01-13T19:00:00Z",
+        "ends_at": "2027-01-13T21:00:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success-tickets-2003652797454",
+        "price": "paid",
+        "themes": [],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/welcome-to-black-family-history-how-to-make-a-start-and-tips-for-success",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-31"
+        },
+        "verification": {
+          "verified_at": "2026-10-31",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003654511581",
+        "name": "Black Family History: Finding Enslaved Ancestors and their Enslavers",
+        "summary": "Join Dr Wanda Wyporska, genealogist and CEO of Black Cultural Archives, as she explores the registers of enslaved people.",
+        "starts_at": "2027-01-27T19:00:00Z",
+        "ends_at": "2027-01-27T21:00:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/black-family-history-finding-enslaved-ancestors-and-their-enslavers-tickets-2003654511581",
+        "price": "paid",
+        "themes": [
+          "abolition"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/bcas-welcome-to-black-family-history-finding-enslaved-ancestors-and-their-enslavers-looking-at-sources",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-31"
+        },
+        "verification": {
+          "verified_at": "2026-10-31",
+          "confidence": "medium"
+        },
+        "status": "published"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11538110000003599,
+          51.46075039999999
+        ]
+      },
+      "properties": {
+        "id": "event_bca_eb_2003961132693",
+        "name": "Radical Justice – An Evening With Nani Jansen Reventlow",
+        "summary": "Nani Jansen Reventlow, human rights advocate, and author, will be discussing transformative change for racial, ecological and social justice",
+        "starts_at": "2027-03-17T18:30:00Z",
+        "ends_at": "2027-03-17T20:30:00Z",
+        "recurrence": null,
+        "venue_name": "Black Cultural Archives",
+        "address": "1 Windrush Square Brixton, London, SW2 1EF",
+        "url": "https://www.eventbrite.co.uk/e/radical-justice-an-evening-with-nani-jansen-reventlow-tickets-2003961132693",
+        "price": "paid",
+        "themes": [
+          "literature",
+          "civic-life"
+        ],
+        "related_sites": [
+          "site_lambeth_0001"
+        ],
+        "image": null,
+        "source": "bca-eventbrite: https://blackculturalarchives.org/events/radical-justice-an-evening-with-nani-jansen-reventlow",
+        "contributor": {
+          "name": "Black Cultural Archives",
+          "affiliation": "via Eventbrite",
+          "submitted_at": "2026-10-31"
+        },
+        "verification": {
+          "verified_at": "2026-10-31",
           "confidence": "medium"
         },
         "status": "published"
