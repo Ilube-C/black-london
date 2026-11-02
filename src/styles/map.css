@@ -10,6 +10,8 @@
   .layer-toggle { bottom: var(--space-4); }
 }
 .layer-toggle__btn {
+  position: relative;
+  isolation: isolate;
   width: 44px; height: 44px;
   border-radius: 50%;
   background: var(--surface);
@@ -19,6 +21,57 @@
   place-items: center;
   font-size: 18px;
   box-shadow: var(--shadow-1);
+  transition: box-shadow .18s ease;
+}
+.layer-toggle__btn:hover,
+.layer-toggle__btn:focus-visible {
+  box-shadow: none;
+}
+
+.layer-toggle__btn::after {
+  content: attr(data-label);
+  position: absolute;
+  right: calc(100% - 22px);
+  top: 50%;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 26px 0 22px;
+  background: var(--surface);
+  color: #fff;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: .01em;
+  border-radius: 999px 0 0 999px;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: none;
+  transform-origin: right center;
+  transform: translateY(-50%) scaleX(0);
+  opacity: 0;
+  transition: transform .22s ease, opacity .18s ease;
+  z-index: -1;
+}
+@media (hover: hover) {
+  .layer-toggle__btn:hover::after,
+  .layer-toggle__btn:focus-visible::after {
+    transform: translateY(-50%) scaleX(1);
+    opacity: 1;
+  }
+}
+.layer-toggle__btn:focus-visible::after {
+  transform: translateY(-50%) scaleX(1);
+  opacity: 1;
+}
+.layer-toggle__btn[data-layer="sites"]      { --pill-bg: var(--accent); }
+.layer-toggle__btn[data-layer="events"]     { --pill-bg: var(--accent-2); }
+.layer-toggle__btn[data-layer="restaurants"]{ --pill-bg: var(--pin-restaurant); }
+.layer-toggle__walks                        { --pill-bg: var(--accent); }
+.layer-toggle__locate                       { --pill-bg: #6aa9ff; }
+.layer-toggle__btn.is-on::after {
+  background: var(--pill-bg);
+  color: #1a1a1a;
 }
 .layer-toggle__btn.is-on {
   background: var(--accent);

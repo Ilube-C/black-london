@@ -50,16 +50,16 @@
       <main id="map" aria-label="Map of Black History sites in London"></main>
 
       <div class="layer-toggle" role="group" aria-label="Map layers">
-        <button class="layer-toggle__btn is-on" data-layer="sites" aria-pressed="true" title="Sites">
+        <button class="layer-toggle__btn is-on" data-layer="sites" data-label="Sites" aria-pressed="true" title="Sites">
           <span aria-hidden="true">⬢</span><span class="visually-hidden">Sites</span>
         </button>
-        <button class="layer-toggle__btn" data-layer="events" aria-pressed="false" title="Events">
+        <button class="layer-toggle__btn" data-layer="events" data-label="Events" aria-pressed="false" title="Events">
           <span aria-hidden="true">★</span><span class="visually-hidden">Events</span>
         </button>
-        <button class="layer-toggle__btn" data-layer="restaurants" aria-pressed="false" title="Restaurants">
+        <button class="layer-toggle__btn" data-layer="restaurants" data-label="Restaurants" aria-pressed="false" title="Restaurants">
           <span aria-hidden="true">●</span><span class="visually-hidden">Restaurants</span>
         </button>
-        <button class="layer-toggle__btn layer-toggle__walks" id="walksBtn" aria-pressed="false" title="Curated walks" aria-label="Curated walks">
+        <button class="layer-toggle__btn layer-toggle__walks" id="walksBtn" data-label="Curated Walks" aria-pressed="false" title="Curated walks" aria-label="Curated walks">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
             <circle cx="6" cy="6" r="2.6" fill="currentColor"/>
             <path d="M6 8.5 C6 13 18 12 18 16.5" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-dasharray="2 2.5"/>
@@ -67,7 +67,7 @@
           </svg>
           <span class="visually-hidden">Curated walks</span>
         </button>
-        <button class="layer-toggle__btn layer-toggle__locate" id="locateBtn" aria-pressed="false" title="Find my location" aria-label="Find my location">
+        <button class="layer-toggle__btn layer-toggle__locate" id="locateBtn" data-label="Find My Location" aria-pressed="false" title="Find my location" aria-label="Find my location">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
             <circle cx="12" cy="12" r="3.5" fill="currentColor"/>
             <circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.6"/>
@@ -105,7 +105,7 @@
           </fieldset>
           <fieldset>
             <legend>Accessibility</legend>
-            <label><input type="checkbox" id="stepFreeFilter" /> Step-free only</label>
+            <label><input type="checkbox" id="stepFreeFilter" /> Step-free Access</label>
           </fieldset>
           <footer class="filters-dialog__foot">
             <button type="button" id="resetFilters" class="btn btn--ghost">Reset</button>
