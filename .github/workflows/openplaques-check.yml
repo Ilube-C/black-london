@@ -1,6 +1,7 @@
 name: openplaques-check
-# Weekly: compares Nubian Jak plaques on Open Plaques with our snapshot and
-# opens (or comments on) an issue labelled `openplaques` when anything changed.
+# Weekly: refreshes the Nubian Jak snapshot from Open Plaques, adds any new
+# London plaques as draft sites, validates, and pushes straight to main.
+# Ingest never overwrites an existing site. Vercel redeploys on push.
 on:
   schedule:
     - cron: '0 8 * * 1'
@@ -8,29 +9,38 @@ on:
 
 permissions:
   contents: read
-  issues: write
+
+concurrency:
+  group: data-sync
+  cancel-in-progress: false
 
 jobs:
-  check:
+  sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DATA_BOT_KEY }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
       - run: npm ci
       - run: node scripts/adapters/openplaques.mjs check --report report.md
-      - name: Open or update issue
-        if: hashFiles('report.md') != ''
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - run: '[ -f report.md ] && cat report.md >> "$GITHUB_STEP_SUMMARY" || true'
+      - run: node scripts/adapters/openplaques.mjs fetch
+      - run: node scripts/adapters/openplaques.mjs ingest
+      - run: npm run validate
+      - run: npm run build:index
+      - name: Push to main
         run: |
-          gh label create openplaques --color 5319e7 --description "Open Plaques data changed" --force
-          issue=$(gh issue list --label openplaques --state open --json number --jq '.[0].number')
-          if [ -n "$issue" ]; then
-            gh issue comment "$issue" --body-file report.md
-          else
-            gh issue create --title "Nubian Jak plaques updated on Open Plaques" --label openplaques --assignee Ilube-C --body-file report.md
+          if git diff --quiet -I '"generated_at"' -- data-source public/data; then
+            echo "No plaque changes."
+            exit 0
           fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data-source/openplaques public/data
+          git commit -m "Nubian Jak plaques: sync from Open Plaques"
+          git push origin HEAD:main

@@ -1,17 +1,17 @@
 name: bca-events
-# Daily: pulls Black Cultural Archives events (venue from Eventbrite) and opens
-# or updates a PR on the `data/bca-events` branch when the events changed.
+# Daily: pulls Black Cultural Archives events (venue from Eventbrite), validates
+# them, and pushes straight to main when they changed. Vercel then redeploys.
+# Pushes with the DATA_BOT_KEY deploy key, which may bypass the main ruleset.
 on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 concurrency:
-  group: bca-events
+  group: data-sync
   cancel-in-progress: false
 
 jobs:
@@ -20,6 +20,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DATA_BOT_KEY }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -29,12 +31,9 @@ jobs:
         env:
           EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
       - run: cat report.md >> "$GITHUB_STEP_SUMMARY"
-      # PRs opened with the Actions token don't trigger other workflows, so validate here.
       - run: npm run validate
       - run: npm run build:index
-      - name: Open or update PR
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Push to main
         run: |
           if git diff --quiet -- public/data/events.geojson; then
             echo "No event changes."
@@ -42,12 +41,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B data/bca-events
           git add public/data/events.geojson public/data/manifest-data.json
           git commit -m "BCA events: sync from Eventbrite"
-          git push --force origin data/bca-events
-          if [ -z "$(gh pr list --head data/bca-events --state open --json number --jq '.[0].number')" ]; then
-            gh pr create --head data/bca-events --base main --title "BCA events update" --body-file report.md --assignee Ilube-C
-          else
-            gh pr edit data/bca-events --body-file report.md
-          fi
+          git push origin HEAD:main
