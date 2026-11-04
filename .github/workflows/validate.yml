@@ -22,7 +22,8 @@ jobs:
       - run: npm run build:index
       - name: Confirm manifest is up to date
         run: |
-          if ! git diff --exit-code public/data/manifest-data.json; then
+          # Ignore the build timestamp; only content changes matter.
+          if ! git diff --exit-code -I '"generated_at"' public/data/manifest-data.json; then
             echo "::error::manifest-data.json is out of date — run \`npm run build:index\` and commit the result."
             exit 1
           fi
