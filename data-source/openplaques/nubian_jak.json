@@ -3012,6 +3012,24 @@
         "thumbnail_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Crystal_Palace_stage.jpg?width=250",
         "shot_name": "long shot",
         "attribution": "&copy; Matt Brown on Wikimedia Commons CC BY 2.0"
+      },
+      {
+        "uri": "https://openplaques.org/photos/113009.json",
+        "thumbnail_url": "https://farm66.staticflickr.com/65535/55639861097_df7d683dfd_m.jpg",
+        "shot_name": null,
+        "attribution": "&copy; Nick Harrison on Flickr All Rights Reserved"
+      },
+      {
+        "uri": "https://openplaques.org/photos/113010.json",
+        "thumbnail_url": "https://farm66.staticflickr.com/65535/55640986578_ccd72f2721_m.jpg",
+        "shot_name": null,
+        "attribution": "&copy; Nick Harrison on Flickr All Rights Reserved"
+      },
+      {
+        "uri": "https://openplaques.org/photos/113012.json",
+        "thumbnail_url": "https://farm66.staticflickr.com/65535/55640986618_be5c479dc8_m.jpg",
+        "shot_name": null,
+        "attribution": "&copy; Nick Harrison on Flickr All Rights Reserved"
       }
     ],
     "organisations": [
