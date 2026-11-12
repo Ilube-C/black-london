@@ -718,44 +718,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1151513,
-          51.4603972
-        ]
-      },
-      "properties": {
-        "id": "event_bca_eb_2003666683989",
-        "name": "BCA & Friends of the BCA presents: An evening with Professor Stephen Small",
-        "summary": "Black Cultural Archives/Friends of BCA present an evening with Professor Stephen Small, discussing his lates book, 'Black Liverpool'.",
-        "starts_at": "2026-11-11T18:30:00Z",
-        "ends_at": "2026-11-11T20:30:00Z",
-        "recurrence": null,
-        "venue_name": "The Black Cultural Archives",
-        "address": "1 Windrush Square Brixton, London, SW2 1EF",
-        "url": "https://www.eventbrite.co.uk/e/bca-friends-of-the-bca-presents-an-evening-with-professor-stephen-small-tickets-2003666683989",
-        "price": "paid",
-        "themes": [],
-        "related_sites": [
-          "site_lambeth_0001"
-        ],
-        "image": null,
-        "source": "bca-eventbrite: https://blackculturalarchives.org/events/friends-of-the-bca-presents-an-evening-with-professor-stephen-small",
-        "contributor": {
-          "name": "Black Cultural Archives",
-          "affiliation": "via Eventbrite",
-          "submitted_at": "2026-11-11"
-        },
-        "verification": {
-          "verified_at": "2026-11-11",
-          "confidence": "medium"
-        },
-        "status": "published"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11538110000003599,
           51.46075039999999
         ]
@@ -780,10 +742,10 @@
         "contributor": {
           "name": "Black Cultural Archives",
           "affiliation": "via Eventbrite",
-          "submitted_at": "2026-11-11"
+          "submitted_at": "2026-11-12"
         },
         "verification": {
-          "verified_at": "2026-11-11",
+          "verified_at": "2026-11-12",
           "confidence": "medium"
         },
         "status": "published"
@@ -820,10 +782,10 @@
         "contributor": {
           "name": "Black Cultural Archives",
           "affiliation": "via Eventbrite",
-          "submitted_at": "2026-11-11"
+          "submitted_at": "2026-11-12"
         },
         "verification": {
-          "verified_at": "2026-11-11",
+          "verified_at": "2026-11-12",
           "confidence": "medium"
         },
         "status": "published"
@@ -861,10 +823,10 @@
         "contributor": {
           "name": "Black Cultural Archives",
           "affiliation": "via Eventbrite",
-          "submitted_at": "2026-11-11"
+          "submitted_at": "2026-11-12"
         },
         "verification": {
-          "verified_at": "2026-11-11",
+          "verified_at": "2026-11-12",
           "confidence": "medium"
         },
         "status": "published"
