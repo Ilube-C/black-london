@@ -4464,6 +4464,53 @@
         "status": "draft",
         "license": "Public domain (Open Plaques)"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15958,
+          51.46488
+        ]
+      },
+      "properties": {
+        "id": "site_wandsworth_0002",
+        "slug": "shapurji-saklatvala-177-lavender-hill",
+        "name": "Shapurji Saklatvala — 177 Lavender Hill",
+        "kind": "plaque",
+        "summary": "Shapurji Saklatvala (1874-1936) was elected to represent Battersea and was the first Indian Labour MP",
+        "borough": "Wandsworth",
+        "address": "177 Lavender Hill, Battersea",
+        "period": {
+          "start_year": 1874,
+          "end_year": 1936
+        },
+        "themes": [],
+        "people": [],
+        "media": [],
+        "sources": [
+          {
+            "type": "web",
+            "citation": "Open Plaques — Shapurji Saklatvala green plaque",
+            "url": "https://openplaques.org/plaques/94979"
+          }
+        ],
+        "external_ids": {
+          "openplaques": "94979"
+        },
+        "contributor": {
+          "name": "Open Plaques",
+          "affiliation": "Nubian Jak Community Trust plaque",
+          "submitted_at": "2026-11-16"
+        },
+        "verification": {
+          "verified_at": "2026-11-16",
+          "confidence": "low"
+        },
+        "status": "draft",
+        "license": "Public domain (Open Plaques)"
+      }
     }
   ]
 }

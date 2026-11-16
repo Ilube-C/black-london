@@ -1,7 +1,7 @@
 {
   "version": "2026.11.16-1",
   "counts": {
-    "sites": 72,
+    "sites": 73,
     "events": 19,
     "restaurants": 5,
     "people": 12,
@@ -20,6 +20,6 @@
     ],
     "zoom": 11
   },
-  "generated_at": "2026-11-16T14:04:29.421Z",
-  "hash": "sha256:5ec8eb740a167fb19477528aea96f8eaeb45a1fed993f8aae1ec9c54df147fb0"
+  "generated_at": "2026-11-16T18:01:09.095Z",
+  "hash": "sha256:8cb1f9c2e0532e08b3a0f02c03f8e67e94e440d091a75197db3c4aaad45fcb09"
 }
