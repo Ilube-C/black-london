@@ -24,3 +24,6 @@ Trinidad-born journalist and activist who, after deportation from the US, founde
 
 ## Eras
 - [[Post-war — Windrush]]
+
+## Full history
+- [[PER-0018|Claudia Jones in the atlas]]

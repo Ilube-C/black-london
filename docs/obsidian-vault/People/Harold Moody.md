@@ -12,11 +12,16 @@ Jamaican-born physician who founded the League of Coloured Peoples (1931) in Lon
 
 ## Sites
 - [[Dr Harold Moody — Queen's Road, Peckham]]
+- [[Dr Harold Moody — Central YMCA]]
 
 ## Themes
 - [[Civic life]]
 - [[Medicine & nursing]]
 - [[Pan-Africanism]]
+- [[Caribbean diaspora]]
 
 ## Eras
 - [[Edwardian & interwar]]
+
+## Full history
+- [[PER-0012|Harold Moody in the atlas]]

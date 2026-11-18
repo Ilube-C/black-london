@@ -1,0 +1,74 @@
+[Home](../README.md)
+
+# Places
+
+The buildings, streets and districts where the people in the atlas lived, worked, met and campaigned. Full entries tell the story of the major meeting places; shorter entries record the rest.
+
+- [1 Bassett Road](PLC-0011.md) (Short entry) — Amy Ashwood Garvey's home at 1 Bassett Road, Ladbroke Grove, where a meeting on the 1958 riots was held and where a plaque to her was unveiled in 2009.
+- [121 Railton Road Squat](PLC-0081.md) (Short entry) — The flat above a launderette at 121 Railton Road, Brixton, squatted by Olive Morris and Liz Obi from 1972–3; it later housed Sabarr Bookshop.
+- [141 Coldershaw Road](PLC-0075.md) (Short entry) — The Huntleys' house at 141 Coldershaw Road, West Ealing, from which Bogle-L'Ouverture Publications worked from 1972 to 1975.
+- [15 Theobald's Road](PLC-0029.md) (Short entry) — The house at 15 Theobald's Road, Holborn, where the composer Samuel Coleridge-Taylor was born on 15 August 1875.
+- [164 Queen's Road](PLC-0039.md) (Short entry) — Dr Harold Moody's home and surgery at 164 Queens Road, Peckham, from 1922 until his death in 1947, where Una Marson lodged from 1932 to 1935.
+- [165 Railton Road](PLC-0051.md) (Full entry) — The building at 165 Railton Road, Brixton, home from 1981 to 1989 of C. L. R. James, who lived in a flat above the offices of the journal Race Today; it carries an English Heritage blue plaque erected in 2004.
+- [19 Charles Street](PLC-0020.md) (Short entry) — The grocery shop at 19 Charles Street, Westminster, opened by Ignatius Sancho and his wife Ann in 1774, from which he wrote many of his letters.
+- [22 Cranleigh Street (Cranleigh House)](PLC-0012.md) (Full entry) — The flat at 22 Cranleigh Street (Cranleigh House), Somers Town, where George Padmore lived from 1941 to 1957 and where, according to Nkrumah, he and Padmore organised the 1945 Pan-African Congress.
+- [38 Church Street](PLC-0009.md) (Short entry) — The house at 38 Church Street, Marylebone, which Westminster City Council describes as Henry Sylvester Williams's former home and marks with a green plaque.
+- [60 Burghley Road](PLC-0054.md) (Short entry) — The house at 60 Burghley Road, north London, where Kwame Nkrumah rented a room from June 1945 to November 1947; it carries an English Heritage blue plaque erected in 2005.
+- [9 Heathcote Street](PLC-0048.md) (Short entry) — The top-floor flat at 9 Heathcote Street, Bloomsbury, formerly Nancy Cunard's, where C. L. R. James lived from 1934.
+- [95 Cambridge Street](PLC-0057.md) (Full entry) — The lodging house at 95 Cambridge Street, Pimlico, where Jomo Kenyatta stayed briefly in 1930 and lived from 1933 to 1937; it carries an English Heritage blue plaque erected in 2005.
+- [Albert Hall](PLC-0066.md) (Short entry) — The Royal Albert Hall in Kensington, where Paul Robeson gave a sold-out concert soon after his passport was restored in 1958.
+- [ANC London Mission Office](PLC-0068.md) (Full entry) — The building at 28 Penton Street, Islington, headquarters of the exiled African National Congress in Britain until 1994; South African agents bombed it on 14 March 1982.
+- [Anti-Slavery Society Office](PLC-0023.md) (Short entry) — The office of the Anti-Slavery Society at 18 Aldermanbury, City of London, where Mary Prince sought help in November 1828.
+- [BBC Broadcasting House](PLC-0046.md) (Short entry) — The BBC's headquarters in Portland Place; Una Marson's biographer states that, although Marson worked for the BBC from 1941, she did not work in this building.
+- [Beckford Primary School](PLC-0069.md) (Short entry) — Beckford Primary School in West Hampstead, where Beryl Gilroy became deputy head and then head teacher from 1968–9.
+- [Black Panther Movement premises, Shakespeare Road](PLC-0079.md) (Short entry) — Shakespeare Road, Brixton, where the British Black Panther Movement had its centre from 1969, with a Black People's Information Centre at No. 38.
+- [Brixton](PLC-0006.md) (Short entry) — The south London district at the centre of Black political organising from the late 1960s, visited by Nelson Mandela in 1996.
+- [Brunswick Square](PLC-0042.md) (Short entry) — The house at 29 Brunswick Square, Camberwell, to which Una Marson moved from the Moodys' home in spring 1935.
+- [Central Criminal Court (Old Bailey)](PLC-0028.md) (Short entry) — The Central Criminal Court in the City of London, where William Cuffay was tried in 1848 and the Mangrove Nine in 1971.
+- [Central YMCA](PLC-0040.md) (Full entry) — The Central YMCA in Tottenham Court Road, London, where Harold Moody and his supporters founded the League of Coloured Peoples on 13 March 1931.
+- [The Chestnuts, Branch Hill](PLC-0064.md) (Short entry) — The Chestnuts, 1 Branch Hill, Hampstead, home of Paul Robeson in 1929–30; it carries an English Heritage blue plaque erected in 2002.
+- [Chorlton-on-Medlock Town Hall](PLC-0014.md) (Full entry) — The former town hall of Chorlton-on-Medlock, Manchester, where the Fifth Pan-African Congress met in October 1945; only its listed facade survives, in front of a Manchester Metropolitan University building.
+- [Court of King's Bench](PLC-0025.md) (Short entry) — The common-law court in which John Adams Wood's libel action against Thomas Pringle was heard on 27 February 1833, with Mary Prince as a witness.
+- [Drury Lane theatre](PLC-0062.md) (Short entry) — The Theatre Royal, Drury Lane, where Paul Robeson sang in the London production of Show Boat in 1928 and gave a celebrated matinee concert on 3 July 1928.
+- [Ethiopian Legation](PLC-0045.md) (Short entry) — The Abyssinian (Ethiopian) Legation at Princes Gate, Kensington, where Una Marson worked from October 1935 and for Emperor Haile Selassie during his exile.
+- [Florence Mills Social Parlour](PLC-0010.md) (Full entry) — The Florence Mills Social Parlour, a nightclub and restaurant at 50 Carnaby Street, Soho, opened by Amy Ashwood Garvey in 1936; it became a gathering place for Black intellectuals and activists, including George Padmore and C. L. R. James.
+- [Gray's Inn](PLC-0007.md) (Short entry) — The Inn of Court in Holborn where Henry Sylvester Williams prepared for the Bar from 1897 and Kwame Nkrumah enrolled in 1945.
+- [Highgate Cemetery](PLC-0061.md) (Short entry) — Highgate Cemetery in north London, where the ashes of Claudia Jones were interred on 27 February 1965, next to the grave of Karl Marx.
+- [Institute of Education](PLC-0053.md) (Short entry) — The University of London Institute of Education, which Beryl Gilroy joined in 1982 to work on multicultural education.
+- [Islington Town Hall](PLC-0077.md) (Short entry) — Islington Town Hall, venue of the first International Book Fair of Radical Black and Third World Books in April 1982.
+- [Kilburn](PLC-0073.md) (Short entry) — Kilburn, in north-west London, where Stuart Hall and Catherine Hall bought a house together.
+- [King's College London](PLC-0008.md) (Short entry) — The college in central London where Henry Sylvester Williams studied from 1896 and, according to Fryer, Harold Moody studied medicine from 1904.
+- [Leigh Street, Bloomsbury](PLC-0021.md) (Short entry) — Leigh Street, Bloomsbury, where Mary Prince lodged with her enslavers, the Woods, after arriving in London in 1828.
+- [London School of Economics (LSE)](PLC-0055.md) (Short entry) — The London School of Economics, where Jomo Kenyatta studied social anthropology under Bronisław Malinowski from 1935 and Kwame Nkrumah attended lectures in 1945.
+- [The Mangrove Restaurant](PLC-0080.md) (Full entry) — The Mangrove, Frank Crichlow's Caribbean restaurant at 8 All Saints Road, Notting Hill, opened in 1968; repeated police raids on it led to the march of 9 August 1970 and the trial of the Mangrove Nine.
+- [Memorial Hall, Farringdon Street](PLC-0041.md) (Full entry) — The Memorial Hall in Farringdon Street, London, a meeting hall used in the 1930s by the League of Coloured Peoples, the International African Friends of Abyssinia and other anti-colonial groups.
+- [Montagu House, Whitehall](PLC-0019.md) (Short entry) — The Duke of Montagu's residence in Whitehall, where Ignatius Sancho served the Montagu family as butler and valet.
+- [No. 10 Union Street](PLC-0016.md) (Short entry) — No. 10 Union Street, near the Middlesex Hospital, the address from which Olaudah Equiano published and sold his Interesting Narrative in 1789.
+- [Notting Hill](PLC-0072.md) (Short entry) — The west London district of Notting Hill, scene of the 1958 riots, the founding of the British Black Panther Movement in 1968 and the Mangrove campaign.
+- [Orange Tree Public House](PLC-0027.md) (Full entry) — The Orange Tree public house in Orange Street, Red Lion Square, Holborn, where the Chartist "Ulterior Committee" met in August 1848 and where police arrested eleven conspirators on 16 August.
+- [Partisan Coffee House](PLC-0070.md) (Short entry) — The Partisan coffee house at 7 Carlisle Street, Soho, which shared premises with the offices of Universities and Left Review, the journal Stuart Hall co-founded.
+- [Plasterers' Hall](PLC-0017.md) (Short entry) — Plasterers' Hall in Addle Street, City of London, where Olaudah Equiano was living when he made his will in May 1796.
+- [Rivington Place](PLC-0074.md) (Short entry) — Rivington Place in Shoreditch, the arts building commissioned by Iniva and Autograph ABP, which opened in 2007 with Stuart Hall as the central figure in its creation.
+- [Royal College of Music](PLC-0030.md) (Short entry) — The original building of the Royal College of Music in Kensington, where Samuel Coleridge-Taylor studied from 1890.
+- [Savoy Theatre](PLC-0063.md) (Short entry) — The Savoy Theatre in the Strand, where Paul Robeson played Othello in 1930.
+- [Scala Theatre](PLC-0044.md) (Short entry) — The Scala Theatre in Charlotte Street, where Una Marson's play At What a Price ran for three nights from 15 January 1934.
+- [School of Oriental Studies](PLC-0065.md) (Short entry) — The former London Institution building in Finsbury Circus, home of the School of Oriental Studies when Paul Robeson enrolled there in 1934.
+- [Solly Terrace, Pentonville](PLC-0024.md) (Short entry) — Solly Terrace, Pentonville, where Thomas Pringle and his wife lived and where Mary Prince worked for them as a domestic servant from 1829.
+- [South Africa House](PLC-0005.md) (Short entry) — The South African embassy in Trafalgar Square, a focus of anti-apartheid protest, where Nelson Mandela later spoke.
+- [St Margaret's Church, Westminster](PLC-0015.md) (Short entry) — The parish church beside Westminster Abbey where Ignatius Sancho married Ann Osborne in 1758 and Olaudah Equiano was baptised in 1759.
+- [St Pancras Town Hall](PLC-0059.md) (Short entry) — St Pancras Town Hall on Euston Road, venue of Claudia Jones's first Caribbean Carnival in 1959, of a Paul Robeson reception and of her memorial meeting in 1965.
+- [St Thomas' Hospital](PLC-0082.md) (Short entry) — St Thomas' Hospital, Lambeth, where Olive Morris died on 12 July 1979.
+- [Stockwell Secondary Modern School](PLC-0071.md) (Short entry) — The secondary modern school in Stockwell, south London, where Stuart Hall worked as a supply teacher after moving to London.
+- [Tambo family house, Muswell Hill](PLC-0067.md) (Short entry) — The house in Muswell Hill, north London, bought by Adelaide Tambo, which was the family home of Oliver Tambo during his years of exile.
+- [University College London (UCL)](PLC-0032.md) (Short entry) — University College London, in Bloomsbury, where Ladipo Solanke studied law, Kwame Nkrumah registered to read philosophy and Jomo Kenyatta worked as a language informant.
+- [Walter Rodney Bookshop](PLC-0076.md) (Short entry) — The Walter Rodney Bookshop at 5a Chignell Place, West Ealing, opened by Bogle-L'Ouverture in 1975 and repeatedly attacked by racists between 1977 and 1983.
+- [WASU hostel (Africa House), 62 Camden Road](PLC-0035.md) (Full entry) — The first hostel of the West African Students' Union, known as Africa House, opened on Camden Road, London NW1, in 1933 with Ladipo Solanke as warden; WASU's journal gave its address as 62 Camden Road.
+- [WASU hostel, South Villas](PLC-0036.md) (Short entry) — The West African Students' Union hostel at South Villas, Camden Square, bought freehold in 1938 and the subject of a long legal dispute.
+- [West African National Secretariat](PLC-0056.md) (Full entry) — The small office at 94 Gray's Inn Road, Holborn, that served as the headquarters of the West African National Secretariat from late 1945, with Kwame Nkrumah as its general secretary.
+- [West Indian Gazette Office](PLC-0058.md) (Full entry) — The rooms above Theo Campbell's record shop at 250 Brixton Road, where Claudia Jones edited the West Indian Gazette for most of its life, from 1958 until it moved to premises off Coldharbour Lane.
+- [Westminster Hall](PLC-0004.md) (Full entry) — The medieval hall of the Palace of Westminster, where Nelson Mandela, as President of South Africa, addressed both Houses of Parliament on 11 July 1996.
+- [Westminster Theatre](PLC-0049.md) (Short entry) — The Westminster Theatre, where the Stage Society staged C. L. R. James's play Toussaint Louverture, with Paul Robeson in the title role, on 15 and 16 March 1936.
+- [Westminster Town Hall](PLC-0001.md) (Full entry) — The Victorian town hall in Caxton Street, Westminster, now known as Caxton Hall, where the First Pan-African Conference held its plenary sessions on 23–25 July 1900.
+- [Whitefield's Tabernacle Burial Ground](PLC-0018.md) (Short entry) — The burial ground of Whitefield's Tabernacle in Tottenham Court Road, where Olaudah Equiano was buried on 6 April 1797.
+- [Whitelands College](PLC-0052.md) (Short entry) — Whitelands College in Putney, the teacher-training college where Constance Cummings-John trained in the mid-1930s.
+- [Willesden](PLC-0050.md) (Short entry) — Willesden, in north-west London, where C. L. R. James lived after returning to Britain in 1953.

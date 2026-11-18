@@ -1,0 +1,158 @@
+id,subject_id,predicate,object,claim_text,date,date_precision,evidence_status
+CLM-0001,PER-0001,birth_death_dates,1868-1963,Born in 1868 and died in 1963.,,unknown,explicitly_documented
+CLM-0002,PER-0001,attended_event,EVT-0001,Attended the 1900 First Pan-African Conference.,1900-07,month,explicitly_documented
+CLM-0003,PER-0001,chaired_committee_for,WRK-0001,Chaired the committee for 'To the Nations of the World'.,1900-07,month,explicitly_documented
+CLM-0004,PER-0001,contributed_to,EVT-0002,"Hon. Secretary for the United States of the First Universal Races Congress (London, July 1911), to which he contributed the paper 'The Negro Race in the United States of America'.",1911-07,month,explicitly_documented
+CLM-0005,PER-0001,convened,EVT-0003,"Took the initiative to hold the 1921 Second Pan-African Congress, held in Paris, London and Brussels.",1921,year,explicitly_documented
+CLM-0006,PER-0001,chaired_event_session,EVT-0004,Holt says that Du Bois co-chaired the opening session; Padmore's proceedings put him alone in the chair on 16 October.,1945-10,month,disputed
+CLM-0007,PER-0002,birth_death_dates,1918-2013,Born 18 July 1918; died 5 December 2013.,,unknown,explicitly_documented
+CLM-0008,PER-0002,visited_location,London (city),Visited London in June 1962.,1962-06,month,explicitly_documented
+CLM-0009,PER-0002,spoke_at,PLC-0004,Spoke at Westminster Hall on 11 July 1996.,1996-07-11,day,explicitly_documented
+CLM-0010,PER-0002,delivered_speech,WRK-0002,Delivered official address to Parliament.,1996-07-11,day,explicitly_documented
+CLM-0011,PER-0002,visited_location,PLC-0006,Visited Brixton in 1996.,1996,year,explicitly_documented
+CLM-0012,PER-0002,spoke_at,PLC-0005,Spoke at South Africa House (Hansard recollection).,,unknown,explicitly_documented
+CLM-0013,PER-0003,birth_date_or_registration,1869 vs 1867,"Birth disputed: earlier biographers gave 19 February 1869 in Arouca, Trinidad; Sherwood reports a Barbados birth registration dated 24 March 1867.",,unknown,disputed
+CLM-0014,PER-0003,origin,Trinidad,"His family moved to Arouca, Trinidad, shortly after his birth, and he always identified himself as Trinidadian.",,unknown,explicitly_documented
+CLM-0015,PER-0003,parentage,Parents emigrated from Barbados,"His family moved from Barbados, where he was born, to Arouca in Trinidad shortly after his birth.",,unknown,explicitly_documented
+CLM-0016,PER-0003,member_of,ORG-0005,"Studied at King's College, London, from 1896: Afropean says law; Adi & Sherwood say he enrolled as an evening student taking Latin.",,unknown,explicitly_documented
+CLM-0017,PER-0003,member_of,ORG-0004,Admitted to Gray's Inn in 1897 (Adi & Sherwood); qualified and practised there (Afropean); called to the Bar in June 1902.,1897,year,explicitly_documented
+CLM-0018,PER-0003,organised_event,EVT-0001,Organised the 1900 Pan-African Conference.,1900-07,month,explicitly_documented
+CLM-0019,PER-0003,shared_event_with,PER-0001,Attended 1900 Conference alongside Du Bois.,1900-07,month,explicitly_documented
+CLM-0020,PER-0003,elected_to,ORG-0006,Elected to Marylebone Council in 1906.,1906,year,explicitly_documented
+CLM-0021,PER-0003,commemorated_at,PLC-0009,Commemorated at 38 Church Street.,,unknown,explicitly_documented
+CLM-0023,PER-0004,origin,Jamaica,Origin Jamaica.,,unknown,explicitly_documented
+CLM-0024,PER-0004,helped_organise,ORG-0007,Helped organise Nigerian Progress Union.,1924,year,explicitly_documented
+CLM-0025,PER-0004,operated,PLC-0010,Operated Florence Mills Social Parlour.,1936,year,explicitly_documented
+CLM-0026,PER-0004,member_of,ORG-0008,Member of IAFA.,1935,year,explicitly_documented
+CLM-0027,PER-0004,co_founded,ORG-0009,Co-founded IASB.,1937,year,explicitly_documented
+CLM-0028,PER-0004,commemorated_at,PLC-0011,Commemorated by plaque at 1 Bassett Road; unveiled 5 November 2009.,2009-11-05,day,explicitly_documented
+CLM-0029,PER-0004,chaired_event_session,EVT-0004,Padmore records that she chaired the opening session of 15 October; Holt says that she co-chaired it with Du Bois.,1945-10,month,disputed
+CLM-0030,PER-0004,befriended,PER-0018,Counted by Claudia Jones among her friends (English Heritage).,,unknown,explicitly_documented
+CLM-0031,PER-0005,birth_year,1903 vs 1902,Birth year disputed (1903 vs 1902).,,unknown,disputed
+CLM-0032,PER-0005,origin,Trinidad,Origin Trinidad.,,unknown,explicitly_documented
+CLM-0033,PER-0005,associated_place,Advisory work in Ghana,Became Kwame Nkrumah's adviser on African affairs after Ghana's independence in 1957.,1957,year,explicitly_documented
+CLM-0034,PER-0005,settled_in,London,Settled in London in 1935.,1935,year,explicitly_documented
+CLM-0035,PER-0005,co_founded,ORG-0009,Co-founded IASB.,1937,year,explicitly_documented
+CLM-0036,PER-0005,resided_at,PLC-0012,Resided at 22 Cranleigh Street.,1941/1957,range,explicitly_documented
+CLM-0037,PER-0005,hosted_activists_at,PLC-0012,Hosted meetings at 22 Cranleigh Street.,1941/1957,range,explicitly_documented
+CLM-0038,PER-0005,participated_in,EVT-0004,Participated in 1945 Congress.,1945-10,month,explicitly_documented
+CLM-0039,PER-0001,jointly_sponsored,EVT-0004,Holt records Du Bois joining Amy Jacques Garvey and George Padmore in sponsoring the 1945 Congress.,1945-10,month,explicitly_documented
+CLM-0040,PER-0005,collaborated_on_founding,ORG-0009,Collaborated with C. L. R. James and Amy Ashwood Garvey to form the IASB.,1937,year,explicitly_documented
+CLM-0041,PER-0006,place_of_birth,"Essaka, Igboland vs South Carolina","Birthplace disputed between Essaka, Igboland (autobiography) and South Carolina (naval and baptismal records).",,unknown,disputed
+CLM-0042,PER-0006,attended_event,EVT-0008,"Baptised at St Margaret's, Westminster, on 9 February 1759.",1759-02-09,day,explicitly_documented
+CLM-0043,PER-0006,resided_at,PLC-0016,"Title page of the 1789 first edition gives the author's address as No. 10, Union-Street, Middlesex Hospital.",1789,year,explicitly_documented
+CLM-0044,PER-0006,organised_for,ORG-0010,One of the leaders of the Black abolitionists in London who styled themselves the Sons of Africa; led several of their delegations to the Houses of Parliament.,,unknown,explicitly_documented
+CLM-0045,PER-0006,authored_work,WRK-0003,Authored and self-published The Interesting Narrative in 1789.,1789,year,explicitly_documented
+CLM-0046,PER-0006,event_at,PLC-0017,"Drew up his will on 28 May 1796 while living in Plasterers' Hall, Addle Street, in the City of London.",1796-05-28,day,explicitly_documented
+CLM-0048,PER-0007,served_household,Montagu household,"Served the Duchess of Montagu as butler until her death, then the Duke as his valet, until gout ended his service towards the close of 1773.",,unknown,explicitly_documented
+CLM-0049,PER-0007,operated_business,grocery shop,Kept a grocer's shop with his wife after leaving the Duke's service towards the close of 1773.,,unknown,explicitly_documented
+CLM-0050,PER-0007,attended_event,EVT-0009,Voted in the 1774 and 1780 Westminster parliamentary elections.,1774/1780,range,explicitly_documented
+CLM-0051,PER-0007,event_at,PLC-0015,"Married Ann Osborne at St Margaret's, Westminster, on 17 December 1758.",1758-12-17,day,explicitly_documented
+CLM-0052,PER-0007,authored_work,WRK-0004,Authored letters published posthumously in 1782.,1782,year,explicitly_documented
+CLM-0053,PER-0008,resided_at,PLC-0021,"Brought to Leigh Street, Bloomsbury in 1828 by the Woods.",1828,year,explicitly_documented
+CLM-0054,PER-0008,visited,"Moravian mission house, Hatton Garden",Took her trunk to the Moravian missionaries at Hatton Garden after the Woods turned her out.,1828,year,explicitly_documented
+CLM-0055,PER-0008,visited,PLC-0023,Sought assistance from the Anti-Slavery Society.,1828-11,month,explicitly_documented
+CLM-0056,PER-0008,resided_at,PLC-0024,Lived with the Pringles in Pentonville as their domestic servant from 1829; their lodger Susanna Strickland took down her life story.,1829/1831,range,explicitly_documented
+CLM-0057,PER-0008,authored_work,WRK-0006,Dictated her history to Susanna Strickland; it was published in London in 1831.,1831,year,explicitly_documented
+CLM-0058,PER-0008,attended_event,EVT-0010,"Briefly gave evidence in Pringle v. Cadell, heard in the Court of Common Pleas on 21 February 1833, to confirm that she had dictated her account for Pringle; she was not cross-examined.",1833-02-21,day,explicitly_documented
+CLM-0059,PER-0008,attended_event,EVT-0011,"Gave evidence, as the first defence witness, in Wood's libel action against Pringle, heard in the Court of King's Bench on 27 February 1833 and reported in The Times on 1 March 1833 (Lambert); Salih's notes date the case to March 1833.",1833-02-27,day,explicitly_documented
+CLM-0060,PER-0009,member_of,ORG-0014,"Westminster's representative on the National Charter Association's metropolitan district council from 1841, and its treasurer from 1842.",1841,year,explicitly_documented
+CLM-0061,PER-0009,attended_event,EVT-0012,Delegate to the April 1848 National Chartist Convention and chair of the 'Demonstration Committee' for the 10 April meeting on Kennington Common.,1848-04,month,explicitly_documented
+CLM-0062,PER-0009,arrested_at,"11 Hollins Street, Wardour Street, Soho","Arrested on the evening of 18 August 1848 at his lodging, 11 Hollins Street, Wardour Street, Soho, two days after the arrests at the Orange Tree (16 August).",1848-08-18,day,explicitly_documented
+CLM-0063,PER-0009,attended_event,EVT-0014,Tried at the Central Criminal Court in the September 1848 session with William Lacey and Thomas Fay for feloniously compassing to levy war against the Queen; found guilty and sentenced to transportation for life.,1848-09,month,explicitly_documented
+CLM-0064,PER-0010,birth_death_dates,1875-08-15,"Born at 15 Theobald's Road, Holborn, on 15 August 1875.",1875-08-15,day,explicitly_documented
+CLM-0065,PER-0010,member_of,ORG-0015,Studied at the Royal College of Music from the Christmas Term 1890 to the end of the Easter Term 1897.,1890/1897,range,explicitly_documented
+CLM-0066,PER-0010,authored_work,WRK-0007,"Hiawatha's Wedding Feast was first performed at a Royal College of Music concert on 11 November 1898, conducted by Sir Charles Stanford.",1898-11-11,day,explicitly_documented
+CLM-0067,PER-0010,executive_committee_member,Pan-African Association (successor to ORG-0001),"Elected to the executive committee of the Pan-African Association, into which the African Association was merged at the July 1900 conference.",1900,year,explicitly_documented
+CLM-0068,PER-0010,attended_event,EVT-0001,Participated in the 1900 First Pan-African Conference.,1900-07,month,explicitly_documented
+CLM-0069,PER-0010,met_in_person,PER-0001,"Du Bois first saw him at a gathering in London, met him several times at public gatherings and visited his home (year not stated).",,unknown,explicitly_documented
+CLM-0070,PER-0010,read_and_praised,PER-0001,"In a letter of 3 January 1904 he called Du Bois's The Souls of Black Folk 'about the finest book I have ever read by a coloured man, and one of the best by any author, white or black'.",1904-01-03,day,explicitly_documented
+CLM-0071,PER-0001,death_date,1963-08-27,Died 27 August 1963.,1963-08-27,day,explicitly_documented
+CLM-0072,PER-0004,death_date,1969-05-03,Died in Jamaica 3 May 1969.,1969-05-03,day,explicitly_documented
+CLM-0073,PER-0005,death_date,1959-09-23,Died 23 September 1959.,1959-09-23,day,explicitly_documented
+CLM-0074,PER-0005,birth_name,Malcolm Ivan Meredith Nurse,George Padmore was born Malcolm Ivan Meredith Nurse.,,unknown,explicitly_documented
+CLM-0075,PER-0002,death_date,2013-12-05,Died at his home in Johannesburg on 5 December 2013.,2013-12-05,day,explicitly_documented
+CLM-0076,PER-0003,death_date,1911-03-26,"Died on 26 March 1911 (Adi & Sherwood); in Port of Spain, aged 44 (Afropean).",1911-03-26,day,explicitly_documented
+CLM-0077,PER-0011,authored_work,WRK-0009,"Wrote for Wasu, the WASU journal launched in March 1926, and for a time had editorial responsibility for it.",1926,year,explicitly_documented
+CLM-0078,PER-0011,warden_of,PLC-0035,"First warden of Africa House, the WASU hostel opened on Camden Road in 1933.",1933,year,explicitly_documented
+CLM-0080,PER-0012,birth_death_dates,1882-1947,"Born 1882, died 1947.",,unknown,explicitly_documented
+CLM-0081,PER-0012,origin,Jamaica,Origin Jamaica.,,unknown,explicitly_documented
+CLM-0083,PER-0012,resided_at,PLC-0039,Practice at 164 Queen's Road.,1922/1947,range,explicitly_documented
+CLM-0084,PER-0012,co_founded,ORG-0019,Founded the League of Coloured Peoples in 1931.,1931,year,explicitly_documented
+CLM-0086,PER-0012,published,WRK-0010,The LCP issued its quarterly journal The Keys by 1933.,1933,year,explicitly_documented
+CLM-0087,PER-0013,birth_death_dates,1905-1965,"Born 1905, died 1965.",,unknown,explicitly_documented
+CLM-0088,PER-0013,origin,Jamaica,Origin Jamaica.,,unknown,explicitly_documented
+CLM-0089,PER-0013,resided_at,PLC-0039,"Lodged with the Moody family at 164 Queen's Road, Peckham, from July 1932 until spring 1935.",1932/1935,range,explicitly_documented
+CLM-0091,PER-0013,organised_for,ORG-0019,Secretary of the League of Coloured Peoples in London (Busby); its unpaid assistant secretary from autumn 1933 (Jarrett-Macauley).,1932/1936,range,explicitly_documented
+CLM-0092,PER-0013,contributed_to,WRK-0010,"Edited the League of Coloured Peoples' journal, The Keys.",,unknown,explicitly_documented
+CLM-0093,PER-0013,published,WRK-0011,"Directed her play At What a Price at the Scala Theatre, Charlotte Street, in a three-night run from 15 January 1934, after a League performance on 23 November 1933.",1934-01,month,explicitly_documented
+CLM-0094,PER-0013,worked_at,PLC-0045,"Worked for the Abyssinian (Ethiopian) Legation in Kensington from October 1935, through the Emperor's arrival in 1936.",1935/1936,range,explicitly_documented
+CLM-0095,PER-0013,worked_at,ORG-0020,"Radio broadcaster with the BBC World Service during her second stay in England, from 1938.",,unknown,explicitly_documented
+CLM-0096,PER-0013,organised_for,WRK-0012,Started the BBC programme Caribbean Voices.,,unknown,explicitly_documented
+CLM-0097,PER-0014,birth_death_dates,1901-1989,"Born 1901, died 1989.",,unknown,explicitly_documented
+CLM-0098,PER-0014,origin,Trinidad,Origin Trinidad.,,unknown,explicitly_documented
+CLM-0099,PER-0014,resided_at,PLC-0048,"Lived at 9 Heathcote Street, Bloomsbury, for several years from 1934.",1934,year,explicitly_documented
+CLM-0100,PER-0014,founded,ORG-0008,Founded and led the International African Friends of Abyssinia in 1935.,1935,year,explicitly_documented
+CLM-0101,PER-0014,published,WRK-0014,"His play Toussaint Louverture was staged in 1936, with Paul Robeson leading the cast.",1936,year,explicitly_documented
+CLM-0102,PER-0014,co_founded,ORG-0009,Co-founded IASB.,1937,year,explicitly_documented
+CLM-0103,PER-0014,published,WRK-0015,Published The Black Jacobins.,1938,year,explicitly_documented
+CLM-0104,PER-0014,published,WRK-0016,Published A History of Negro Revolt.,1938,year,explicitly_documented
+CLM-0105,PER-0014,resided_at,PLC-0050,"After returning to London in 1953, lived for five years in Hampstead and Willesden (street not stated).",,unknown,explicitly_documented
+CLM-0106,PER-0014,resided_at,PLC-0051,Resided at 165 Railton Road.,1981/1989,range,explicitly_documented
+CLM-0107,PER-0015,birth_death_dates,1918-2000,"Born 1918, died 2000.",,unknown,explicitly_documented
+CLM-0108,PER-0015,origin,Sierra Leone,Origin Sierra Leone.,,unknown,explicitly_documented
+CLM-0109,PER-0015,member_of,ORG-0021,"Trained as a teacher at Whitelands College in Putney, having gone to England at seventeen.",1935/1936,range,explicitly_documented
+CLM-0112,PER-0015,member_of,ORG-0019,"Involved in the League of Coloured Peoples, led by Harold Moody, while training as a teacher in London.",1935/1936,range,explicitly_documented
+CLM-0113,PER-0015,member_of,ORG-0009,Became involved in the International African Service Bureau in London after study in the United States.,,unknown,explicitly_documented
+CLM-0127,PER-0016,birth_date,21 September 1909,"Birth date recorded by the priest who baptised him as 21 September 1909, the date he used on official documents; he himself thought 18 September 1909 likely.",1909-09-21,day,disputed
+CLM-0130,PER-0016,resided_at,PLC-0054,Resided at 60 Burghley Road.,1945/1947,range,explicitly_documented
+CLM-0131,PER-0016,enrolled_at,ORG-0004,Enrolled at Gray's Inn and attended lectures at the LSE on arriving in London; later also registered at University College.,1945,year,explicitly_documented
+CLM-0132,PER-0016,organised_for,EVT-0004,Worked with George Padmore organising the 1945 Manchester Pan-African Congress.,1945,year,explicitly_documented
+CLM-0134,PER-0016,directed,ORG-0024,"One of the founders and general secretary of the West African National Secretariat, formed after the 1945 Congress.",1945/1947,range,explicitly_documented
+CLM-0138,PER-0017,resided_at,PLC-0057,"Lived at 95 Cambridge Street 1933–37, after a short stay there in 1930.",1933/1937,range,explicitly_documented
+CLM-0139,PER-0017,worked_at,ORG-0016,"Worked at University College London as a linguistic informant, including for Lilias Armstrong's work on Kikuyu phonology.",,unknown,explicitly_documented
+CLM-0140,PER-0017,studied_at,ORG-0023,"Attended the London School of Economics, working for a diploma in anthropology under Bronisław Malinowski.",,unknown,explicitly_documented
+CLM-0144,PER-0017,attended_event,EVT-0004,Attended Fifth Pan-African Congress.,1945-10,month,explicitly_documented
+CLM-0148,PER-0018,arrived_in,London,Arrived in London.,1955-12,month,explicitly_documented
+CLM-0149,PER-0018,edited,WRK-0022,Founded the West Indian Gazette in 1958.,1958,year,explicitly_documented
+CLM-0150,PER-0018,organised_event,EVT-0019,Organised the indoor Caribbean Carnival.,1959-01-30,day,explicitly_documented
+CLM-0156,PER-0019,starred_in,PLC-0062,Starred in Show Boat at Drury Lane in 1928.,1928,year,explicitly_documented
+CLM-0158,PER-0019,starred_in,EVT-0020,"Opened as Othello at the Savoy Theatre, London, on 19 May 1930.",1930-05-19,day,explicitly_documented
+CLM-0161,PER-0019,starred_in,EVT-0018,Led the cast of C. L. R. James's play Toussaint Louverture in 1936.,1936,year,explicitly_documented
+CLM-0166,PER-0020,resided_at,PLC-0067,"Lived, when in London, at the house in Muswell Hill that his wife Adelaide bought after some fifteen years of hospital shift work.",,unknown,explicitly_documented
+CLM-0167,PER-0020,met,EVT-0005,Mandela visited him in London during his 1962 trip abroad.,1962,year,explicitly_documented
+CLM-0168,PER-0020,directed,PLC-0068,"When in London, held early-morning meetings at the ANC Mission, 28 Penton Street, its UK headquarters.",,unknown,explicitly_documented
+CLM-0178,PER-0021,worked_at,PLC-0069,Became headteacher of Beckford Primary School in 1969.,1969,year,explicitly_documented
+CLM-0186,PER-0022,edited,WRK-0025,"Edited New Left Review in 1960–1961, after editing Universities & Left Review in 1957–1959.",1960/1961,range,explicitly_documented
+CLM-0188,PER-0022,organised_for,PLC-0072,"Took part, through the New Left's ULR Club, in anti-racist work in Notting Hill after his arrival in London, including helping to put together local black and white tenants' defence associations.",1958,year,explicitly_documented
+CLM-0189,PER-0022,resided_at,PLC-0073,"Had a house in Kilburn, which he describes as 'the house we bought together'; Catherine Hall's mother later had her own flat there.",,unknown,explicitly_documented
+CLM-0193,PER-0023,founded,ORG-0030,Jessica and Eric Huntley co-founded Bogle-L'Ouverture Publications in 1968 (British Library) or 1969 (London Remembers).,1968,year,disputed
+CLM-0196,PER-0023,operated,PLC-0076,"Operated the bookshop at 5a Chignell Place, West Ealing (renamed the Walter Rodney Bookshop in 1980)",1975/1991,range,explicitly_documented
+CLM-0201,PER-0024,led,ORG-0031,Led the British Black Panther Movement.,,unknown,explicitly_documented
+CLM-0202,PER-0024,co_led,EVT-0024,"Helped set up the action group behind the Mangrove demonstration of 9 August 1970, and was tried for riot at the march.",1970-08-09,day,explicitly_documented
+CLM-0203,PER-0024,defended,EVT-0025,"At the 1971 Mangrove Nine trial she was acquitted of the most serious charges (riot) but convicted of causing an affray and of assaulting police officers; sentenced to fifteen months' imprisonment, suspended for two years.",1971,year,explicitly_documented
+CLM-0208,PER-0025,intervened_in,EVT-0026,"Intervened in the police arrest of the Nigerian diplomat Clement Gomwalk in Brixton on 15 November 1969, and was beaten by the police.",1969-11-15,day,explicitly_documented
+CLM-0210,PER-0025,squatted_at,PLC-0081,"Squatted a flat at 121 Railton Road with Liz Turnbull (Liz Obi) from 1972 (libcom) or 1973 (Lambeth Archives catalogue), resisting attempts at eviction.",1972/1973,range,explicitly_documented
+CLM-0211,PER-0011,birth_year,1886 vs 1884,"Birth year disputed: c. 1884 (Adi & Sherwood, 2003) or 1886 (Adi, 1998).",,unknown,disputed
+CLM-0212,PER-0011,origin,Nigeria,Origin Nigeria.,,unknown,explicitly_documented
+CLM-0213,PER-0011,member_of,ORG-0016,"Studied law at University College London, 1923–7.",1923/1927,range,explicitly_documented
+CLM-0215,PER-0011,helped_organise,ORG-0007,Founded the Nigerian Progress Union in 1924 with the assistance of Amy Ashwood Garvey.,1924,year,explicitly_documented
+CLM-0216,PER-0011,co_founded,ORG-0018,Founded the West African Students' Union in 1925 with Herbert Bankole-Bright and became its first secretary-general.,1925,year,explicitly_documented
+CLM-0217,PER-0023,resided_at,PLC-0075,Jessica Huntley's household and publishing activity moved to 141 Coldershaw Road in 1972.,1972,year,explicitly_documented
+CLM-0218,PER-0018,associated_with,PLC-0058,"Claudia Jones's newspaper, the West Indian Gazette, had offices at 250 Brixton Road.",,unknown,explicitly_documented
+CLM-0219,PER-0019,studied_at,ORG-0026,Paul Robeson enrolled at SOAS to study Swahili and phonetics in 1934.,1934,year,explicitly_documented
+CLM-0220,PER-0019,residence,PLC-0064,"Lived at The Chestnuts, 1 Branch Hill, Hampstead, 1929–30",1929/1930,range,explicitly_documented
+CLM-0221,PER-0025,co_founder,ORG-0032,"One of the founder members of the Brixton Black Women's Group, formed in 1973 (The Heart of the Race) or 1974 (Lambeth Archives catalogue; Liz Obi).",1973/1974,range,explicitly_documented
+CLM-0222,PER-0024,attended_event,EVT-0025,Conducted her own defence at the 1971 Mangrove Nine trial at the Old Bailey; all nine defendants were acquitted of the most serious charges.,1971,year,explicitly_documented
+CLM-0223,PER-0022,co_founded,PLC-0070,"Co-founded the Partisan Coffee House at 7 Carlisle Street, Soho, in 1958 with Raphael Samuel and Eric Hobsbawm (Bishopsgate); Hall's own account credits the café to Samuel. Universities and Left Review had offices upstairs, where Hall edited the journal.",1958,year,explicitly_documented
+CLM-0224,PER-0019,performed_at,PLC-0063,Played Othello at the Savoy Theatre from 19 May 1930.,1930-05-19,day,explicitly_documented
+CLM-0225,PER-0023,organised_for,EVT-0022,"On 18 January 1981 attended the meeting at John La Rose's home in Finsbury Park called to discuss holding the Book Fair, first held in April 1982; later one of the fair's joint directors.",1981-01-18,day,explicitly_documented
+CLM-0226,PER-0025,arrested_at,PLC-0028,"One of the 'Old Bailey Three', arrested with Darcus Howe and Abdul Macintosh after a scuffle with police outside the Old Bailey on 20 June 1971.",1971-06-20,day,explicitly_documented
+CLM-0227,PER-0018,collaborated_with,PER-0019,Claudia Jones and Paul Robeson were friends and political colleagues in New York and London; in 1959–60 her West Indian Gazette held receptions and a concert featuring Robeson.,1955/1960,range,explicitly_documented
+CLM-0228,PER-0005,collaborated_with,PER-0017,"George Padmore and Jomo Kenyatta worked together from 1930, in Padmore's Comintern-backed International Trade Union Committee of Negro Workers and later in London's IAFA and IASB.",1930/1945,range,explicitly_documented
+CLM-0229,PER-0014,collaborated_with,PER-0017,"C. L. R. James and Jomo Kenyatta worked together in the IAFA (James chairman, Kenyatta honorary secretary); James introduced Kenyatta to his publisher and reviewed Facing Mount Kenya.",1935/1938,range,explicitly_documented
+CLM-0230,PER-0014,collaborated_with,PER-0004,"C. L. R. James and Amy Ashwood Garvey, who had met through the League of Coloured Peoples, together revived the committee that became the IAFA in 1935, and both were officers of the IASB in 1937.",1935/1937,range,explicitly_documented
+CLM-0231,PER-0004,collaborated_with,PER-0018,"Amy Ashwood Garvey and Claudia Jones were friends and colleagues in London; Jones was general secretary of Ashwood Garvey's Association for the Advancement of Coloured People, founded in 1958.",1958/1964,range,explicitly_documented
+CLM-0232,PER-0011,met_in_person,PER-0017,"Jomo Kenyatta, arriving in London in March 1929, went to Ladipo Solanke, whose West African Students' Union had promised the Kikuyu Central Association hospitality; Adi records their friendship.",1929,year,explicitly_documented
+CLM-0233,PER-0017,met_in_person,PER-0019,Jomo Kenyatta and Paul Robeson met while making Sanders of the River (1934–35); Murray-Brown records that they became better acquainted and visited each other's flats.,1934/1935,range,explicitly_documented
+CLM-0234,PER-0022,interviewed,PER-0014,"Stuart Hall held a recorded conversation with C. L. R. James, published as 'A Conversation with C. L. R. James' (1996), and wrote 'C.L.R. James: A Portrait' (1992).",,unknown,explicitly_documented

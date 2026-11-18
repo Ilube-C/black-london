@@ -12,9 +12,13 @@ Composer of 'Hiawatha's Wedding Feast' (1898). Born in Holborn, raised in Croydo
 
 ## Sites
 - [[Samuel Coleridge-Taylor's birthplace]]
+- [[Samuel Coleridge-Taylor — 6 St Leonards Road]]
 
 ## Themes
 - [[Music]]
 
 ## Eras
 - [[Victorian]]
+
+## Full history
+- [[PER-0010|Samuel Coleridge-Taylor in the atlas]]

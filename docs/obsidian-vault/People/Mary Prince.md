@@ -11,6 +11,7 @@ Bermudian-born abolitionist whose 1831 testimony, dictated at the Anti-Slavery S
 
 ## Sites
 - [[Aldermanbury — Anti-Slavery Society & Mary Prince]]
+- [[Mary Prince — Senate House]]
 
 ## Themes
 - [[Abolition]]
@@ -18,3 +19,6 @@ Bermudian-born abolitionist whose 1831 testimony, dictated at the Anti-Slavery S
 
 ## Eras
 - [[Georgian]]
+
+## Full history
+- [[PER-0008|Mary Prince in the atlas]]

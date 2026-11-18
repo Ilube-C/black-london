@@ -21,3 +21,6 @@ Composer, writer, abolitionist; widely thought to be the first Black Briton to v
 
 ## Eras
 - [[Georgian]]
+
+## Full history
+- [[PER-0007|Charles Ignatius Sancho in the atlas]]

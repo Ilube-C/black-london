@@ -1,6 +1,6 @@
 # Black London — knowledge graph
 
-Generated **2026-05-16** from `public/data/`. Treat this folder as a derived artifact — do not hand-edit; re-run `npm run build:obsidian` after the underlying data changes.
+Generated **2026-11-18** from `public/data/`. Treat this folder as a derived artifact — do not hand-edit; re-run `npm run build:obsidian` after the underlying data changes.
 
 ## How to open
 
@@ -11,12 +11,12 @@ Generated **2026-05-16** from `public/data/`. Treat this folder as a derived art
 ## What's in here
 
 - **12 People** — each linked to the sites, themes and eras they appear in.
-- **21 Sites** — with frontmatter facts (coords, borough, era, status, license) and body wikilinks.
+- **72 Sites** — with frontmatter facts (coords, borough, era, status, license) and body wikilinks.
 - **17 Themes** — backlink hubs.
 - **7 Eras** — backlink hubs.
-- **17 Boroughs** — backlink hubs for sites, events and restaurants.
+- **20 Boroughs** — backlink hubs for sites, events and restaurants.
 - **1 Walks** — ordered list of stops as wikilinks to their sites.
-- **16 Events**, **5 Restaurants**, **11 Cuisines**.
+- **20 Events**, **5 Restaurants**, **11 Cuisines**.
 
 ## Tips for the graph view
 

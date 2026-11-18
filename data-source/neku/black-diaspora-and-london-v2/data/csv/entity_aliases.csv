@@ -1,0 +1,45 @@
+entity_id,alias,alias_type,source_ids
+PER-0001,William Edward Burghardt Du Bois,name_variant,[]
+PER-0002,Madiba,name_variant,[]
+PER-0004,Amy Ashwood,name_variant,[]
+PER-0005,Malcolm Ivan Meredith Nurse,name_variant,[]
+PER-0006,Gustavus Vassa,name_variant,[]
+PER-0007,Charles Ignatius Sancho,name_variant,[]
+PER-0008,Molly,name_variant,[]
+PER-0009,William Cuffey,name_variant,[]
+PER-0011,Oladipo Felix Solanke,name_variant,[]
+PER-0012,Harold Arundel Moody,name_variant,[]
+PER-0013,Una Maud Victoria Marson,name_variant,[]
+PER-0014,Cyril Lionel Robert James,name_variant,[]
+PER-0015,Constance Agatha Cummings-John,name_variant,[]
+PER-0016,Francis Nwia Kofi Kwame Nkrumah,name_variant,[]
+PER-0016,Francis Kwame Nkrumah,name_variant,[]
+PER-0017,Kamau wa Ngengi,name_variant,[]
+PER-0017,Johnstone Kamau,name_variant,[]
+PER-0018,Claudia Cumberbatch,name_variant,[]
+PER-0019,Paul Leroy Robeson,name_variant,[]
+PER-0020,Oliver Reginald Kaizana Tambo,name_variant,[]
+PER-0021,Beryl Agatha Answick,name_variant,[]
+PER-0022,Stuart McPhail Hall,name_variant,[]
+PER-0023,Jessica Elleisse Huntley,name_variant,[]
+PER-0023,Jessica Carroll,name_variant,[]
+PER-0024,Altheia Jones,name_variant,[]
+PER-0024,Althea Lecointe,name_variant,[]
+PER-0025,Olive Elaine Morris,name_variant,[]
+ORG-0016,UCL,abbreviation,[]
+ORG-0018,WASU,abbreviation,[]
+ORG-0019,LCP,abbreviation,[]
+ORG-0020,BBC,abbreviation,[]
+ORG-0023,LSE,abbreviation,[]
+ORG-0024,WANS,abbreviation,[]
+ORG-0025,CAACO,abbreviation,[]
+ORG-0026,SOAS,abbreviation,[]
+ORG-0026,SOAS,abbreviation,[]
+WRK-0018,New Africa,title_variant,"[""SRC-0133""]"
+WRK-0009,Wāsù,title_variant,"[""SRC-0090""]"
+WRK-0014,Toussaint L'Ouverture,title_variant,"[""SRC-0133"", ""SRC-0049""]"
+PLC-0001,Caxton Hall,later_name,"[""SRC-0144""]"
+PLC-0012,Cranleigh House,name_variant,"[""SRC-0076""]"
+PLC-0035,Africa House,name_variant,"[""SRC-0133"", ""SRC-0090""]"
+PLC-0065,London Institution building,building_name,"[""SRC-0130""]"
+PER-0024,Althea Jones-Lacointe,spelling_variant,"[""SRC-0117""]"

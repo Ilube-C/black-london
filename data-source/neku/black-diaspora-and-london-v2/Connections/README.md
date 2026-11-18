@@ -1,0 +1,97 @@
+[Home](../README.md)
+
+# Connections
+
+Every documented link between a person and another person, place, organisation, event or work. Each page says how the link is documented and why it matters.
+
+- [W. E. B. Du Bois: First Pan-African Conference](REL-0001.md) — W. E. B. Du Bois attended the First Pan-African Conference at Westminster Town Hall in July 1900.
+- [W. E. B. Du Bois: To the Nations of the World](REL-0002.md) — W. E. B. Du Bois chaired the committee that drafted 'To the Nations of the World', the address of the 1900 Pan-African Conference, and signed it.
+- [W. E. B. Du Bois and Henry Sylvester Williams](REL-0003.md) — W. E. B. Du Bois and Henry Sylvester Williams both took part in the First Pan-African Conference of July 1900, Williams as its organiser and Du Bois as a delegate.
+- [W. E. B. Du Bois: First Universal Races Congress](REL-0004.md) — W. E. B. Du Bois was an honorary secretary of the First Universal Races Congress in London in July 1911 and contributed a paper to it.
+- [W. E. B. Du Bois and George Padmore](REL-0005.md) — W. E. B. Du Bois and George Padmore worked together on the Fifth Pan-African Congress, held in Manchester in October 1945.
+- [W. E. B. Du Bois and Amy Ashwood Garvey](REL-0006.md) — W. E. B. Du Bois and Amy Ashwood Garvey both took a leading part in the opening of the Fifth Pan-African Congress in Manchester in October 1945; the sources disagree about whether they chaired a session together.
+- [Nelson Mandela: Nelson Mandela's Clandestine Visit](REL-0007.md) — Nelson Mandela spent about ten days in London in June 1962, his first visit to the city, weeks before his arrest in South Africa.
+- [Nelson Mandela: Address in Westminster Hall](REL-0008.md) — Nelson Mandela, as President of South Africa, addressed both Houses of Parliament in Westminster Hall on 11 July 1996.
+- [Nelson Mandela: Westminster Hall](REL-0009.md) — Nelson Mandela spoke in Westminster Hall on 11 July 1996, when he addressed both Houses of Parliament.
+- [Nelson Mandela: Address in Westminster Hall](REL-0010.md) — Nelson Mandela delivered the Address in Westminster Hall to both Houses of Parliament on 11 July 1996.
+- [Nelson Mandela: Brixton](REL-0011.md) — Nelson Mandela visited Brixton in 1996.
+- [Nelson Mandela: South Africa House](REL-0012.md) — Nelson Mandela spoke at South Africa House on Trafalgar Square, according to an MP's recollection; the date is not recorded.
+- [Henry Sylvester Williams: King's College London](REL-0013.md) — Henry Sylvester Williams studied at King's College London after arriving in the city in 1896.
+- [Henry Sylvester Williams: Honourable Society of Gray's Inn](REL-0014.md) — Henry Sylvester Williams was admitted to Gray's Inn in 1897 and called to the Bar in June 1902.
+- [Henry Sylvester Williams: First Pan-African Conference](REL-0015.md) — Henry Sylvester Williams conceived and organised the First Pan-African Conference, held at Westminster Town Hall in July 1900.
+- [Henry Sylvester Williams: St Marylebone Borough Council](REL-0016.md) — Henry Sylvester Williams was elected to St Marylebone Borough Council for the Church Street ward in November 1906.
+- [Henry Sylvester Williams: 38 Church Street](REL-0017.md) — Henry Sylvester Williams is commemorated by a Westminster City Council green plaque at 38 Church Street, Marylebone, his former home.
+- [Amy Ashwood Garvey: Nigerian Progress Union](REL-0018.md) — Amy Ashwood Garvey encouraged the founding of the Nigerian Progress Union in London in July 1924.
+- [Amy Ashwood Garvey: Florence Mills Social Parlour](REL-0019.md) — Amy Ashwood Garvey ran the Florence Mills Social Parlour, a nightclub and restaurant in Carnaby Street, from 1936.
+- [Amy Ashwood Garvey: International African Friends of Abyssinia](REL-0020.md) — Amy Ashwood Garvey was a founder member and the honorary treasurer of the International African Friends of Abyssinia, formed in London in 1935.
+- [Amy Ashwood Garvey: International African Service Bureau](REL-0021.md) — Amy Ashwood Garvey was among the founders of the International African Service Bureau in 1937 and its vice-president.
+- [Amy Ashwood Garvey and George Padmore](REL-0022.md) — Amy Ashwood Garvey and George Padmore worked together in London's Pan-African organisations of the 1930s, sitting together on the executive of the IAFA and among the leaders of the IASB.
+- [Amy Ashwood Garvey: 1 Bassett Road](REL-0023.md) — Amy Ashwood Garvey, who lived at 1 Bassett Road, Ladbroke Grove, in the late 1950s, is commemorated by a plaque there, unveiled on 5 November 2009.
+- [George Padmore: International African Service Bureau](REL-0024.md) — George Padmore was a founder and the chair of the International African Service Bureau, launched in London in 1937.
+- [George Padmore: 22 Cranleigh Street (Cranleigh House)](REL-0025.md) — George Padmore lived at 22 Cranleigh Street, Somers Town, from 1941 to 1957.
+- [George Padmore and C. L. R. James](REL-0026.md) — George Padmore and C. L. R. James, boyhood friends from Trinidad, worked together in London's Pan-African organisations, launching the International African Service Bureau in 1937.
+- [Olaudah Equiano: Baptism of Gustavus Vassa](REL-0027.md) — Olaudah Equiano was baptised as Gustavus Vassa at St Margaret's Church, Westminster, on 9 February 1759.
+- [Olaudah Equiano: No. 10 Union Street](REL-0028.md) — The first edition of Olaudah Equiano's Interesting Narrative (1789) gives his address as No. 10 Union Street, Middlesex Hospital.
+- [Olaudah Equiano: Sons of Africa](REL-0029.md) — Olaudah Equiano was one of the leaders of the Sons of Africa, the Black abolitionists in London who signed letters and addresses under that name in the later 1780s.
+- [Ignatius Sancho: Montagu House, Whitehall](REL-0030.md) — Ignatius Sancho served the Montagu family as butler and valet; their Whitehall residence was Montagu House.
+- [Ignatius Sancho: 19 Charles Street](REL-0031.md) — Ignatius Sancho kept a grocer's shop at 19 Charles Street, Westminster, from early 1774 until his death in 1780.
+- [Ignatius Sancho: Westminster Parliamentary Elections](REL-0032.md) — Ignatius Sancho voted in the Westminster parliamentary elections of 1774 and 1780.
+- [Mary Prince: Leigh Street, Bloomsbury](REL-0033.md) — Mary Prince stayed with her enslavers, John and Margaret Wood, at their lodgings in Leigh Street, Bloomsbury, after arriving in London in 1828.
+- [Mary Prince: Solly Terrace, Pentonville](REL-0034.md) — Mary Prince lived with Thomas and Susan Pringle in Solly Terrace, Pentonville, as their domestic servant from 1829.
+- [Mary Prince: Court of Common Pleas Trial (Pringle v. Cadell)](REL-0035.md) — Mary Prince was briefly called as a witness in the libel trial Pringle v. Cadell in the Court of Common Pleas on 21 February 1833.
+- [William Cuffay: National Charter Association](REL-0036.md) — William Cuffay represented Westminster on the National Charter Association's London district council from 1841 and was its treasurer from 1842.
+- [William Cuffay: National Chartist Convention & Kennington Demo](REL-0037.md) — William Cuffay was a delegate to the National Chartist Convention of April 1848 and chaired the committee that organised the Kennington Common demonstration of 10 April.
+- [William Cuffay: Old Bailey trial of William Cuffay et al. (September 1848 session)](REL-0038.md) — William Cuffay was tried at the Old Bailey in September 1848 for levying war against the Queen, convicted and sentenced to transportation for life.
+- [Samuel Coleridge-Taylor: First Pan-African Conference](REL-0039.md) — Samuel Coleridge-Taylor took charge of the music at the First Pan-African Conference in July 1900 and was elected to the executive of the new Pan-African Association.
+- [Samuel Coleridge-Taylor and W. E. B. Du Bois](REL-0040.md) — W. E. B. Du Bois recalled first seeing Samuel Coleridge-Taylor at a gathering in London, meeting him several times at public gatherings and being invited to his home.
+- [Ladipo Solanke and Amy Ashwood Garvey](REL-0042.md) — Ladipo Solanke and Amy Ashwood Garvey founded the Nigerian Progress Union in London in July 1924.
+- [Harold Moody and Una Marson](REL-0043.md) — Una Marson lodged with Harold Moody's family at 164 Queen's Road from 1932 to 1935 and worked for his League of Coloured Peoples as assistant secretary and editor of The Keys.
+- [C. L. R. James and Paul Robeson](REL-0044.md) — Paul Robeson played the title role in C. L. R. James's play Toussaint Louverture in March 1936, and James later sought his view of The Black Jacobins.
+- [Ladipo Solanke: West African Students' Union (WASU)](REL-0045.md) — Ladipo Solanke founded the West African Students' Union in London in 1925 with Herbert Bankole-Bright and was its secretary-general for twenty-five years.
+- [Harold Moody: League of Coloured Peoples (LCP)](REL-0046.md) — Harold Moody founded the League of Coloured Peoples in March 1931 and was its president until his death in 1947.
+- [Ladipo Solanke: WASU hostel (Africa House), 62 Camden Road](REL-0047.md) — Ladipo Solanke was the first warden of Africa House, the West African Students' Union hostel opened on Camden Road in 1933.
+- [C. L. R. James: 165 Railton Road](REL-0048.md) — C. L. R. James lived at 165 Railton Road, Brixton, above the offices of Race Today, in the last years of his life; he died there in 1989.
+- [Constance Cummings-John: International African Service Bureau](REL-0049.md) — Constance Cummings-John was a member of the International African Service Bureau in London in the 1930s.
+- [Harold Moody: 164 Queen's Road](REL-0050.md) — Harold Moody lived and practised medicine at 164 Queen's Road, Peckham, from 1922 until his death in 1947.
+- [Una Marson: 164 Queen's Road](REL-0052.md) — Una Marson lodged with Harold Moody's family at 164 Queen's Road, Peckham, from July 1932 until spring 1935.
+- [Una Marson: League of Coloured Peoples (LCP)](REL-0053.md) — Una Marson worked for the League of Coloured Peoples during her first stay in London, as its unpaid assistant secretary from autumn 1933 and editor of The Keys.
+- [Una Marson: British Broadcasting Corporation (BBC)](REL-0054.md) — Una Marson worked for the BBC during her second stay in England, as a full-time programme assistant on the Empire Service from March 1941 until 1946.
+- [C. L. R. James: International African Friends of Abyssinia](REL-0056.md) — C. L. R. James founded and chaired the International African Friends of Abyssinia, formed in London in 1935 against Italy's war on Ethiopia.
+- [Constance Cummings-John: Whitelands College](REL-0060.md) — Constance Cummings-John trained as a teacher at Whitelands College, Putney, after coming to England in 1935.
+- [Constance Cummings-John: League of Coloured Peoples (LCP)](REL-0061.md) — Constance Cummings-John took part in the League of Coloured Peoples while training as a teacher in London in 1935–36.
+- [Kwame Nkrumah and George Padmore](REL-0103.md) — Kwame Nkrumah and George Padmore were joint secretaries of the organising committee of the Fifth Pan-African Congress in 1945, and worked together afterwards.
+- [Kwame Nkrumah: 60 Burghley Road](REL-0104.md) — Kwame Nkrumah lived in a rented room at 60 Burghley Road from June 1945 until November 1947.
+- [Kwame Nkrumah: West African National Secretariat (WANS)](REL-0111.md) — Kwame Nkrumah was a founder and the general secretary of the West African National Secretariat, formed in London after the 1945 Congress.
+- [Jomo Kenyatta: 95 Cambridge Street](REL-0114.md) — Jomo Kenyatta lodged at 95 Cambridge Street, Pimlico, briefly in 1930 and again from 1933 to 1937.
+- [Jomo Kenyatta: London School of Economics (LSE)](REL-0116.md) — Jomo Kenyatta studied social anthropology under Bronisław Malinowski at the London School of Economics from 1935, submitting his diploma thesis at the end of 1937.
+- [Claudia Jones: West Indian Gazette Office](REL-0125.md) — Claudia Jones's newspaper, the West Indian Gazette, had its offices at 250 Brixton Road for most of its life.
+- [Claudia Jones: West Indian Gazette](REL-0126.md) — Claudia Jones founded the West Indian Gazette in London in 1958 and published and edited it.
+- [Claudia Jones: Caribbean Carnival](REL-0127.md) — Claudia Jones organised the indoor Caribbean Carnival held at St Pancras Town Hall on 30 January 1959, sponsored by her West Indian Gazette.
+- [Paul Robeson: The Chestnuts, Branch Hill](REL-0134.md) — Paul Robeson lived at The Chestnuts, 1 Branch Hill, Hampstead, in 1929–30.
+- [Paul Robeson: School of Oriental Studies (SOAS)](REL-0137.md) — Paul Robeson enrolled at the School of Oriental Studies in 1934 to study Swahili and phonetics.
+- [Oliver Tambo: Tambo family house, Muswell Hill](REL-0142.md) — Oliver Tambo lived, when in London, at the house in Muswell Hill that his wife Adelaide bought.
+- [Oliver Tambo and Nelson Mandela](REL-0143.md) — Nelson Mandela and Oliver Tambo met in London in June 1962, when Mandela visited the city during his months abroad.
+- [Oliver Tambo: ANC London Mission Office](REL-0147.md) — Oliver Tambo used the ANC's London mission at 28 Penton Street, holding early-morning meetings there when he was in London.
+- [Beryl Gilroy: Beckford Primary School](REL-0151.md) — Beryl Gilroy became deputy head and then head of Beckford Primary School in West Hampstead, from 1968–69.
+- [Stuart Hall: Partisan Coffee House](REL-0157.md) — Stuart Hall edited Universities and Left Review at its Soho offices above the Partisan Coffee House, 7 Carlisle Street, in the late 1950s.
+- [Paul Robeson: Staging of Toussaint Louverture](REL-0161.md) — Paul Robeson played the title role in the Stage Society's production of C. L. R. James's Toussaint Louverture in March 1936.
+- [Jessica Huntley: 141 Coldershaw Road](REL-0163.md) — Jessica Huntley's household and the business of Bogle-L'Ouverture Publications moved to 141 Coldershaw Road, West Ealing, in 1972.
+- [Altheia Jones-LeCointe: British Black Panther Movement](REL-0173.md) — Altheia Jones-LeCointe led the British Black Panther Movement from the end of 1968.
+- [Altheia Jones-LeCointe: Mangrove Demo](REL-0175.md) — Altheia Jones-LeCointe helped set up the action group behind the Mangrove demonstration of 9 August 1970 and spoke to the marchers before they set off.
+- [Altheia Jones-LeCointe: Mangrove Nine Trial](REL-0177.md) — Altheia Jones-LeCointe was one of the Mangrove Nine tried at the Old Bailey in 1971, and conducted her own defence.
+- [Olive Morris: 121 Railton Road Squat](REL-0182.md) — Olive Morris and Liz Turnbull (later Liz Obi) squatted a flat at 121 Railton Road, Brixton, from 1972 or 1973, resisting attempts at eviction.
+- [Jessica Huntley: Bogle-L'Ouverture Publications](REL-0183.md) — Jessica Huntley co-founded Bogle-L'Ouverture Publications with Eric Huntley in 1968 or 1969 and ran it with him.
+- [Jessica Huntley: Walter Rodney Bookshop](REL-0184.md) — Jessica Huntley ran Bogle-L'Ouverture's bookshop at 5a Chignell Place, West Ealing, renamed the Walter Rodney Bookshop in 1980, from 1975 until 1991.
+- [Stuart Hall: New Left Review](REL-0185.md) — Stuart Hall was the first editor of New Left Review, in 1960–61.
+- [Stuart Hall: Notting Hill](REL-0186.md) — Stuart Hall took part in anti-racist work in Notting Hill after the riots of 1958, through the New Left's Universities and Left Review Club.
+- [Olive Morris: Brixton Black Women's Group](REL-0187.md) — Olive Morris was a founder member of the Brixton Black Women's Group, formed in 1973 or 1974.
+- [Paul Robeson: Savoy Theatre](REL-0188.md) — Paul Robeson played Othello at the Savoy Theatre, opening on 19 May 1930.
+- [Jessica Huntley: International Book Fair of Radical Black and Third World Books (first fair)](REL-0189.md) — Jessica Huntley helped plan the first International Book Fair of Radical Black and Third World Books from January 1981 and became one of its joint directors.
+- [Claudia Jones and Paul Robeson](REL-0190.md) — Claudia Jones and Paul Robeson were friends and colleagues; in London her West Indian Gazette held receptions for Robeson in 1959 and featured him at its anniversary concert in 1960.
+- [George Padmore and Jomo Kenyatta](REL-0191.md) — George Padmore and Jomo Kenyatta worked together from 1930, first in Padmore's Comintern network in Germany and Moscow, then in London's Pan-African organisations of the 1930s.
+- [C. L. R. James and Jomo Kenyatta](REL-0192.md) — C. L. R. James and Jomo Kenyatta worked together in the International African Friends of Abyssinia; James introduced Kenyatta to his publisher and reviewed Facing Mount Kenya in 1938.
+- [C. L. R. James and Amy Ashwood Garvey](REL-0193.md) — C. L. R. James and Amy Ashwood Garvey founded the International African Friends of Abyssinia together in 1935 and were both officers of the International African Service Bureau.
+- [Amy Ashwood Garvey and Claudia Jones](REL-0194.md) — Amy Ashwood Garvey and Claudia Jones were friends and colleagues in London; Jones was general secretary of Ashwood Garvey's Association for the Advancement of Coloured People, founded in 1958.
+- [Ladipo Solanke and Jomo Kenyatta](REL-0195.md) — Jomo Kenyatta met Ladipo Solanke on arriving in London in 1929, when Solanke's West African Students' Union gave him hospitality; Adi describes them as friends.
+- [Jomo Kenyatta and Paul Robeson](REL-0196.md) — Jomo Kenyatta and Paul Robeson met during the filming of Sanders of the River in 1934–35 and became better acquainted, visiting each other's flats.
+- [Stuart Hall and C. L. R. James](REL-0197.md) — Stuart Hall held a conversation with C. L. R. James that was later published, and wrote a portrait of him.

@@ -20,3 +20,6 @@ Jamaican poet, journalist, BBC broadcaster — the BBC's first Black woman progr
 
 ## Eras
 - [[Wartime]]
+
+## Full history
+- [[PER-0013|Una Marson in the atlas]]

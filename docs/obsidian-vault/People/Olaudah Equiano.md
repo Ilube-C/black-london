@@ -14,6 +14,7 @@ Abolitionist and author of 'The Interesting Narrative of the Life of Olaudah Equ
 - [[Olaudah Equiano in the City]]
 - [[Royal Exchange — Equiano's bookseller]]
 - [[St Mary Woolnoth — Newton & the abolitionist church]]
+- [[Olaudah Equiano — Maze Hill]]
 
 ## Themes
 - [[Abolition]]
@@ -24,3 +25,6 @@ Abolitionist and author of 'The Interesting Narrative of the Life of Olaudah Equ
 
 ## Eras
 - [[Georgian]]
+
+## Full history
+- [[PER-0006|Olaudah Equiano in the atlas]]

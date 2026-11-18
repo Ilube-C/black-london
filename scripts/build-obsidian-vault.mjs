@@ -6,13 +6,16 @@
 // The vault is regenerated from scratch on every run — do not hand-edit
 // inside it; treat it as a derived artifact. Run: npm run build:obsidian
 
-import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm, readdir } from 'node:fs/promises';
+import Papa from 'papaparse';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '..');
 const vault = path.join(root, 'docs/obsidian-vault');
+// Neku's "Black Diaspora and London" atlas: copied into the vault as Atlas/.
+const ATLAS_SRC = path.join(root, 'data-source/neku/black-diaspora-and-london-v2');
 
 const json = (p) => readFile(path.join(root, p), 'utf8').then(JSON.parse);
 
@@ -59,7 +62,7 @@ async function main() {
   // Wipe content folders but preserve .obsidian/ — that's where the user's
   // graph colours, filters and pane layout live.
   await mkdir(vault, { recursive: true });
-  for (const sub of ['People', 'Sites', 'Themes', 'Eras', 'Boroughs', 'Cuisines', 'Walks', 'Events', 'Restaurants']) {
+  for (const sub of ['Atlas', 'People', 'Sites', 'Themes', 'Eras', 'Boroughs', 'Cuisines', 'Walks', 'Events', 'Restaurants']) {
     await rm(path.join(vault, sub), { recursive: true, force: true });
   }
   await rm(path.join(vault, 'README.md'), { force: true });
@@ -84,8 +87,15 @@ async function main() {
 
   let counts = { people: 0, sites: 0, themes: 0, eras: 0, boroughs: 0, walks: 0, events: 0, restaurants: 0, cuisines: 0 };
 
+  // --- Atlas (Neku) ---
+  const atlasIdByName = await copyAtlas();
+  const norm = (s) => String(s).toLowerCase().replace(/[^a-z]/g, '');
+  const atlasIdFor = (name) => atlasIdByName.get(norm(name))
+    ?? [...atlasIdByName].find(([n]) => norm(name).endsWith(n) && n.length > 8)?.[1];
+
   // --- People ---
   for (const [slug, p] of Object.entries(people)) {
+    const atlasId = atlasIdFor(p.name);
     const linkedSites = sites.features.filter(f => (f.properties.people || []).includes(slug));
     const linkedThemes = new Set();
     const linkedEras = new Set();
@@ -118,7 +128,8 @@ async function main() {
       '',
       `## Eras`,
       ...[...linkedEras].map(e => `- ${link(eraLabelBySlug[e] || e)}`),
-      ''
+      '',
+      ...(atlasId ? ['## Full history', `- [[${atlasId}|${p.name} in the atlas]]`, ''] : [])
     ].join('\n');
 
     await writeMd(`People/${sanitize(p.name)}.md`, body);
@@ -358,9 +369,20 @@ async function main() {
   const index = [
     yaml({ title: 'Black London — knowledge graph' }),
     '',
-    'The graph above is **every site, person, theme, era and walk** in the Black London dataset, with a line drawn between anything that connects. Hover over a node to see its name and neighbours; click to read its full note here — the graph stays in place.',
+    'The graph above is **every site, person, theme, era and walk** in the Black London dataset, plus the people, places, organisations, events and works in the atlas below, with a line drawn between anything that connects. Hover over a node to see its name and neighbours; click to read its full note here — the graph stays in place.',
     '',
     '> *A different view of the [main map at blacklondon.org](https://blacklondon.org/) — useful for seeing the shape, who connects to whom, and where coverage is thin.*',
+    '',
+    '## The Black Diaspora and London',
+    '',
+    'An atlas by Neku of twenty-five people of African descent and the London places, organisations, events and writings that connect them, from 1759 to the 1980s. Every statement is cited.',
+    '',
+    '- [[Atlas/README|Open the atlas]]',
+    '- [[EVT-0001|The First Pan-African Conference]], Westminster Town Hall, July 1900',
+    '- [[EVT-0004|The Fifth Pan-African Congress]], Manchester, October 1945',
+    '- [[PER-0013|Una Marson]], poet and broadcaster',
+    '- [[ORG-0009|The International African Service Bureau]]',
+    '- [[ORG-0032|The Brixton Black Women\'s Group]]',
     '',
     '## Start exploring',
     '',
@@ -379,6 +401,41 @@ async function main() {
 
   console.log('Vault written to', path.relative(root, vault));
   console.log('Counts:', counts);
+}
+
+// Copies the atlas's Markdown into Atlas/, giving each page a title from its
+// first heading (file names are record ids like PER-0013). Returns a map of
+// normalised person name/alias -> atlas person id, to link our People notes.
+async function copyAtlas() {
+  const ids = new Map();
+  let files;
+  try { files = await readdir(ATLAS_SRC, { recursive: true }); } catch { return ids; }
+  for (const rel of files.filter(f => f.endsWith('.md'))) {
+    let md = await readFile(path.join(ATLAS_SRC, rel), 'utf8');
+    const h1 = md.match(/^# (.+)$/m)?.[1]?.trim();
+    const isHome = rel === 'README.md';
+    const title = isHome ? 'The Black Diaspora and London' : (h1 || path.basename(rel, '.md'));
+    // Quartz mis-resolves "../X.md" links in subfolders, so make each one a
+    // full path from the vault root (Atlas/...).
+    md = md.replace(/\]\(([^)\s]+?\.md)(#[^)]*)?\)/g, (m, target, hash = '') => {
+      if (/^[a-z]+:/i.test(target)) return m;
+      const full = path.posix.join('Atlas', path.posix.dirname(rel.split(path.sep).join('/')), target);
+      return `](${full}${hash})`;
+    });
+    // The atlas's offline web page isn't copied, so drop the link to it.
+    if (isHome) md = md.replace(/^.*\(website\/[^)]*\).*\n/m, '');
+    // Quartz prints the title itself, so drop the duplicate first heading.
+    md = yaml({ title }) + '\n' + md.replace(/^# .+\n/m, '');
+    await writeMd(path.join('Atlas', rel), md);
+  }
+  const csv = await readFile(path.join(ATLAS_SRC, 'data/csv/people.csv'), 'utf8');
+  for (const r of Papa.parse(csv, { header: true, skipEmptyLines: true }).data) {
+    for (const n of [r.canonical_name, ...String(r.aliases || '').split(';')]) {
+      const k = String(n).toLowerCase().replace(/[^a-z]/g, '');
+      if (k) ids.set(k, r.id);
+    }
+  }
+  return ids;
 }
 
 function mocBody(title, names) {

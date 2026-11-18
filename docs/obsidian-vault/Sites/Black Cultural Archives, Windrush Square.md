@@ -9,8 +9,8 @@ period_start: 1981
 status: published
 license: CC-BY-4.0
 verified_confidence: high
-lat: 51.4618
-lon: -0.10865
+lat: 51.46075
+lon: -0.11538
 address: "1 Windrush Square, Brixton, SW2 1EF"
 ---
 
