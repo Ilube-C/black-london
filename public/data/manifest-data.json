@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.19-1",
+  "version": "2026.11.20-1",
   "counts": {
     "sites": 73,
     "events": 19,
@@ -20,6 +20,6 @@
     ],
     "zoom": 11
   },
-  "generated_at": "2026-11-19T14:45:17.596Z",
-  "hash": "sha256:bd170d5331e119b245cf5fc18c83389b55acaaf4f9bb8dcf00548de74a548c09"
+  "generated_at": "2026-11-20T14:27:08.059Z",
+  "hash": "sha256:e7cb8b4f9de52b469a2cf436f92339455594e3d95c4cbb8ad67f3171111c7c1f"
 }
